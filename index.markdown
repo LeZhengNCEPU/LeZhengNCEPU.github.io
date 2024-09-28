@@ -5,7 +5,14 @@
 layout: splash
 title: "Welcome to my academic website"
 permalink: /
+header:
+	overlay_color: "#5e616c"
+	overlay_image: /assets/images/pg.png
+	actions:
+	  - label: "Check my publications"
+	  url: /publications/
 
+excerpt: "This is my academic website. You can find my research, publications, and projects."
 ---
 
 ## Welcome!
