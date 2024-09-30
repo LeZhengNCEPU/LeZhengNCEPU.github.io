@@ -1,81 +1,87 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+title: Hanlin Cai
+# tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
+# description: Two roads diverged in woods, I took the one less traveled by.
+#Comment out url when working locally to resolve base urls correctly
+url: https://caihanlin.com
 
-title: "Le Zheng's Acamedic Website"
-email: zhengl20@ncepu.edu.cn
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://lezhengncepu.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-#github_username:  jekyll
+# Owner/author information
+owner:
+  name: Hanlin Cai
+  avatar: hanlin.jpg
+  # bio: Two roads diverged in woods, I took the one less traveled by.
+  email: hanlin.cai@ieee.org
+  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  # Social networking links are used in author-bio sidebar. Update and remove as you like.
+  twitter: lancecai2002
+  github: GuangLun2000
+  linkedin: hanlincai
+  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
+  bilibili: 594030035
+  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
+  zhihu: https://www.zhihu.com/people/chlire
+  # facebook: caihanlin2002
+  # instagram: lancecai2002
+  # lastfm:
+  # tumblr:
+  # For Google Authorship https://plus.google.com/authorship
+  # google_plus:
 
-# Build settings
-#theme: minima
-remote_theme: "mmistakes/minimal-mistakes@4.13.0"
-plugins:
-  - jekyll-remote-theme #jekyll-feed
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
+# Analytics and webmaster tools stuff goes here
+# https://search.google.com/search-console/ownership
+google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+# bing_verify: ""
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About Me
+    url: /
+  - title: Publications
+    url: /publications/
+  - title: Awards
+    url: /awards/
+  - title: Hobbies
+    url: /hobbies/
+  - title: Blogs
+    url: /blogs/
+  - title: Teams
+    url: /teams/
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: China/Beijing
+future: true
+highlighter: rouge
+# markdown: kramdown
+# markdown: redcarpet
+# pygments: true
 
 
-# website layout and index
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "single"
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
 
 
-# navigation
-navbar:
-  - title: "Home"
-    url: "/"
-  - title: "About"
-    url: "/about/"
-  - title: "Publications"
-    url: "/publications/"
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+  # coderay:
+  #   coderay_line_numbers:
+  #   coderay_line_numbers_start: 1
+  #   coderay_tab_width: 4
+  #   coderay_bold_every: 10
+  #   coderay_css: class
+
+
+# disqus settings:
+disqus:
+  shortname: lancecai
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
+
+# Latest update in 2023/12/10 by Hanlin Cai.
