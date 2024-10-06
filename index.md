@@ -11,6 +11,7 @@ Here is **Le Zheng (郑乐)**. I am an associate professor working in [the Schoo
 - I received the Bachelor degree from [Department of Electrical Engineering](https://www.eea.tsinghua.edu.cn/), **Tsinghua University** in 2011, and the Ph.D. degree from the same department in 2017, advised by [**Prof. Wei Hu**](https://www.eea.tsinghua.edu.cn/faculties/whu.htm) and [**Prof. Yong Min**](https://www.eea.tsinghua.edu.cn/faculties/ymin.htm). 
 - From 2017 to 2019, I worked with [**Dr. Bruce Xuefeng Ling**](https://biox.stanford.edu/people/bruce-ling) and [**Prof. Doff McElhinney**](https://med.stanford.edu/profiles/doff-mcelhinney) as a Post-doc researcher on Artificial Intelligence in **Stanford University**. 
 
+
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at zhengl20 [at] ncepu.edu.cn
 
 ---
@@ -19,6 +20,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 - Power System Stability and Control **电力系统稳定与控制**
 - AI for Power System **人工智能在电力系统分析中的应用**
+
 
 My current research interest focuses on addressing practical challenges in the development of the new type of power system with high penetration of Inverter-Based Resources (IBR), particularly related to stability analysis during system operation, dispatch, and control. I believe Artificial Intelligence (AI) is a crucial pathway to advancing these systems. I am committed to applying my experties to this meaningful field, contributing to societal well-bing through innovative solutions.
 
