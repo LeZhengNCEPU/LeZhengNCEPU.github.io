@@ -18,8 +18,8 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ## Research Interests
 
-- Power System Stability and Control 电力系统稳定与控制
-- AI for Power System 人工智能在电力系统分析中的应用
+- Power System Stability and Control **电力系统稳定与控制**
+- AI for Power System **人工智能在电力系统分析中的应用**
 
 My current research interest focuses on addressing practical challenges in the development of the new type of power system with high penetration of Inverter-Based Resources (IBR), particularly related to stability analysis during system operation, dispatch, and control. I believe Artificial Intelligence (AI) is a crucial pathway to advancing these systems. I am committed to applying my experties to this meaningful field, contributing to societal well-bing through innovative solutions.
 
