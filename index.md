@@ -4,7 +4,7 @@ layout: page
 
 # Welcome to Le Zheng's Academic Website
 
-<img src="/images/lzheng.jpg">
+<img src="/images/lzheng.jpg" class="floatpic" width="360" height="480">
 
 
 Here is **Le Zheng(郑乐)**. I am an associate professor working in [the School of Electrical and Electronic Engineering](https://electric.ncepu.edu.cn/) in North China Electric Power University. I am also a researcher at [the State Key Laboratory of Alternate Electrical Power System with Renewable Energy Sources](https://laps.ncepu.edu.cn/). 
