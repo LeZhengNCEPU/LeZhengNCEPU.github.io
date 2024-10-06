@@ -2,36 +2,35 @@
 layout: page
 ---
 
-# About Me
+# Welcome to Le Zheng's Academic Website
 
-<img src="https://github.com/LeZhengNCEPU/LeZhengNCEPU.github.io/tree/main/images/lzheng.jpg" class="floatpic" width="360" height="480">
+<img src="https://github.com/LeZhengNCEPU/LeZhengNCEPU.github.io/tree/main/images/lzheng.jpg" class="floatpic">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
 
-I am a graduate student in the Department of Engineering at the University of Cambridge, advised by [Prof. Özgür Akan](https://ioe.eng.cam.ac.uk/directory/akan), within [Internet of Everything (IoE) Group](https://ioe.eng.cam.ac.uk/). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/). Prior to Cambridge,  I have worked on System Engineering, Cybersecurity and Wireless Communication with [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Recently, I was honored to be selected as **AAAI and SIGKDD Undergraduate Scholars**.
+Here is **Le Zheng(郑乐)**. I am an associate professor working in [the School of Electrical and Electronic Engineering](https://electric.ncepu.edu.cn/) in North China Electric Power University. I am also a researcher at [the State Key Laboratory of Alternate Electrical Power System with Renewable Energy Sources](https://laps.ncepu.edu.cn/). I am collaborating closely with [Prof. Chongru Liu](https://www.liucrgroup.com/). I received the Bachelor degree in 2011 from [Department of Electrical Engineering](https://www.eea.tsinghua.edu.cn/), Tsinghua University. I received the Ph.D. degree from the same department, advised by [Prof. Wei Hu](https://www.eea.tsinghua.edu.cn/faculties/whu.htm) and [Prof. Yong Min](https://www.eea.tsinghua.edu.cn/faculties/ymin.htm). From 2017 to 2019, I worked with [Dr. Bruce Xuefeng Ling](https://biox.stanford.edu/people/bruce-ling) and [Pro. Doff McElhinney](https://med.stanford.edu/profiles/doff-mcelhinney) on Artificial Intelligence in Stanford University. 
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - hc663 [at] cam.ac.uk
+If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - zhengl20 [at] ncepu.edu.cn
 
 ---
 
 ## Research Interests
 
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- Cyber-Physical System
-- Applied Machine Learning
+- Power System Stability and Control 电力系统稳定与控制
+- AI for Power System 人工智能在电力系统分析中的应用
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research interest focuses on addressing practical challenges in the development of the new type of power system with high penetration of Inverter-Based Resources (IBR), particularly related to stability analysis during system operation, dispatch, and control. I believe Artificial Intelligence (AI) is a crucial pathway to advancing these systems. I am committed to applying my experties to this meaningful field, contributing to societal well-bing through innovative solutions.
 
 ---
 
 ## News and Updates
 
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **May 2024：**My bachelor thesis won the Annual Best Thesis Award (Top 1/300).
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
-- **Jun 2022：**Started research programme at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+- **October 2024**：Very excited to give a speech at the [EENES 2024](https://eenes.net/home/111/show/). See you in Xi'an soon!
+- **September 2024：**Our work **Data-Driven Subsynchronous Oscillation Suppression for Renewable Energy Integrated Power Systems Using Koopman Operator** has been accepted by CSEE JPES. 
+- **July 2024：**Our work **Koopman算符理论在新型电力系统分析与控制中的应用与挑战** has been accepted by 《中国电机工程学报》. Will be online soon!
+- **June 2024：**Our work [**面向电力系统暂态稳定性评估的深度学习模型智能增强方法研究**](https://kns.cnki.net/kcms2/article/abstract?v=sKJ9SXrFdEqSiT3UyVdpzr-zwqxijYDjqhFEDUO8CMRkUYrPHxbdzP2KBN3jd4qEnOqdyUwnUW_Ngymke6Ckri9cVDPVywOt-Eht0zomEpHtUZ_eRjRP4OlT-9aJ13rmdPUdyhqHCxMj10sVh0Iqd3WXZFokvtMs3kT2chj-m7VH47k0V1Nxo3AtL0oZc4VP&uniplatform=NZKPT&language=CHS/) has been accepted by 《电网技术》.
+- **June 2024：**Our patent [**一种经变流器并网电源的稳定性分析方法及系统**](https://analytics.zhihuiya.com/patent-view/clms?patentId=74e40b2a-159b-4c86-903f-e881e92dc839&shareId=302061B1-453D-6G79-CE25-780751814G94&from=EXPORT&signature=T4SW1yBT9eb0SuFP0L7tr26v8n6g%2FtWVA3bMHjBRemE%3D&expire=94608000&date=20240929T012524Z&version=1.0/) has been granted.
+- **April 2024：**Our work [**100%变流器接口电源电力系统的同调特性分析**](https://kns.cnki.net/kcms2/article/abstract?v=sKJ9SXrFdEqhL8tP3Q57jwrcEEIM2-S9-yMy-8R-eWMQIBphz6kyeoac8vgvdbAaBFORietGuAfn2dMjJ-e7mHnNfp2uJqnr1S74iAPnEzxh_-46u-VfvK7XoQlr-kh6Lea3TYQ9lFQcEn7vAn7GbtGEx7zuqpjHj3j310t7laqxiU-BnN9IZKdr5QzIiRWB&uniplatform=NZKPT&language=CHS/) has been accepted by 《中国电机工程学报》.
+
 
 <br>
 
