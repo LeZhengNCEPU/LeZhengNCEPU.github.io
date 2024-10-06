@@ -7,12 +7,19 @@ title: Publications
 > (†: corresponding author)
 
 ## 2024
+- **郑乐**, 郑佳杰, 阳岳希, 杜镇宇, 徐衍会†.[100%变流器接口电源电力系统的同调特性分析](https://kns.cnki.net/kcms2/article/abstract?v=sKJ9SXrFdEpj5mGdttToHA_B2HXCLmZ3RTThUXPzkE9EB75GIjfRlQdBcRRDk-2RuoXR0z-noGTIUIVPkjC_KnmuuFTY849f-zNr_0c2afWiCQ6daTRyRybDarRdjRFP8bkXXTZ2aqrp_LIxTeGy8hCp_KzeTSYDHc3Y-wCYK-8GbXoQxIBnOSWQBJi_WEs6&uniplatform=NZKPT&language=CHS/)*中国电机工程学报*, 网络首发, DOI: 11.2107/TM.20240412.1451.007, 2024.<br>
 
-- [Data-driven estimation for region of attraction for transient stability using Koopman Operator](https://www.researchgate.net/publication/384046364/)<br>**Hanlin Cai**†, Yuchen Fang†, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu~<br>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024), Undergraduate Consortium.<br>Barcelona, Spain. August, 2024.<br>
+- **郑乐**†, 刘思远, 周小添, 徐式蕴, 李宗翰, 李庚银.[面向电力系统暂态稳定性评估的深度学习模型智能增强方法研究](https://kns.cnki.net/kcms2/article/abstract?v=sKJ9SXrFdEpPyWSw8yMzVObDguqHirE4wCYUGFdOLzUzi21X_dsJIkN8yUYlzxkaKJQMPwd4Fdrr8JS4_X_DcrFulLxg3kqgE-NmP-k5B3tdEbiiEqRbmnn-Pb3qlufBv7BOUzX1UGc3P0CHI9ZSidisxcjq8m6xncDpVEiGm1QN0cY_12IS79Vo_njlF2C_&uniplatform=NZKPT&language=CHS/)*电网技术*, 网络首发, DOI: 10.13335/j.1000-3673.pst.2024.0767, 2024.<br>
 
-- [Poster: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://dl.acm.org/doi/abs/10.1145/3643832.3661434)<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2024), Poster Session.<br>Tokyo, Japan. June, 2024.
+- **郑乐**, 吴晶, 徐衍会, 孙英云, 刘崇茹†.[HVDC送端系统振荡引发受端换相失败的机理分析
+](https://kns.cnki.net/kcms2/article/abstract?v=sKJ9SXrFdEpKkcfY48oGi5vhCtnBDdueRU8ksy54_P9zEAYWaBS5Msk7rpVbRoc7ofkxszYrUPfRyu6zTHFn8jAo0MOnWxVryDVQOiqv8hY12jmTA3XRcK-PknaNjbREWfiIzFD0hbsgS4mzC-lz6Gx3Et8JC9jzXDNddFbdyGX2IOZGQYQiUJnrQqB_FDmP&uniplatform=NZKPT&language=CHS/) *电工技术学报*, vol. 39, no. 9, pp. 2743-2754, 2024.<br>
 
-  <br>
+## 2023
+- [Data-driven estimation for region of attraction for transient stability using Koopman Operator](https://ieeexplore.ieee.org/document/9917430/)<br>**Le Zheng**, Xin Liu, Yanhui Xu, Wei Hu, Chongru Liu†.<br>*CSEE Journal of Power and Energy Systems*, vol. 9, no. 4, pp. 1405-1413, 2023.<br>
+
+- [Dynamic frequency support and DC voltage regulation approach for VSC-MTDC systems](https://ieeexplore.ieee.org/document/9671036/)<br>Chongru Liu, Haoyu Liu, Siwen Jiang, **Le Zheng**†.<br>*CSEE Journal of Power and Energy Systems*, vol. 9, no. 2, pp. 645-658, 2023.<br>
+
+
 
 ---
 
@@ -24,24 +31,3 @@ To match the ubiquitous connectivity and heterogeneous networking characteristic
 
 <br>
 
----
-
-## Degree Thesis
-
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). **Best Bachelor Thesis Award** (Top 1/300).<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to KDD 2024.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement at China Huading Tech and IIoT Lab<br>
-
-  <br>
-
----
-
-## Early Project
-
-- [Proposal: Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final year project (FYP).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), Undergraduate Consortium.<br>Vancouver, Canada. February, 2024.
-
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior-year course design.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics.<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
-
-- An IoT Garbage Monitoring System for Effective Garbage Management<br>*First-year course design.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
-
-  <br>
