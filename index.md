@@ -2,12 +2,12 @@
 layout: page
 ---
 
-# Welcome to Le Zheng's Academic Website
+## Welcome to Le Zheng's Academic Website
 
 <img src="/images/lzheng.jpg" class="floatpic" width="360" height="480">
 
 
-Here is **Le Zheng(郑乐)**. I am an associate professor working in [the School of Electrical and Electronic Engineering](https://electric.ncepu.edu.cn/) in North China Electric Power University. I am also a researcher at [the State Key Laboratory of Alternate Electrical Power System with Renewable Energy Sources](https://laps.ncepu.edu.cn/). 
+Here is **Le Zheng (郑乐)**. I am an associate professor working in [the School of Electrical and Electronic Engineering](https://electric.ncepu.edu.cn/) in North China Electric Power University. I am also a researcher at [the State Key Laboratory of Alternate Electrical Power System with Renewable Energy Sources](https://laps.ncepu.edu.cn/). 
 - I am collaborating closely with [**Prof. Chongru Liu**](https://www.liucrgroup.com/). 
 - I received the Bachelor degree in 2011 from [Department of Electrical Engineering](https://www.eea.tsinghua.edu.cn/), **Tsinghua University**. I received the Ph.D. degree from the same department, advised by [Prof. Wei Hu](https://www.eea.tsinghua.edu.cn/faculties/whu.htm) and [Prof. Yong Min](https://www.eea.tsinghua.edu.cn/faculties/ymin.htm). 
 - From 2017 to 2019, I worked with [Dr. Bruce Xuefeng Ling](https://biox.stanford.edu/people/bruce-ling) and [Pro. Doff McElhinney](https://med.stanford.edu/profiles/doff-mcelhinney) on Artificial Intelligence in **Stanford University**. 
