@@ -12,7 +12,8 @@ Here is **Le Zheng (郑乐)**. I am an associate professor working in [the Schoo
 - From 2017 to 2019, I worked with [**Dr. Bruce Xuefeng Ling**](https://biox.stanford.edu/people/bruce-ling) and [**Prof. Doff McElhinney**](https://med.stanford.edu/profiles/doff-mcelhinney) as a Post-doc researcher on Artificial Intelligence in **Stanford University**. 
 
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at zhengl20 [at] ncepu.edu.cn
+I am looking to mentor and work with curious, ambitious, hard-working students. I typically accept around 2-4 master students majoring in electrical engineering every year. **Let us change the world.**
+<br>If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at zhengl20 [at] ncepu.edu.cn, and visit me at 华北电力大学主楼A815.
 
 ---
 
