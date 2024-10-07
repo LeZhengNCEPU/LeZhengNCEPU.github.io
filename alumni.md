@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /hobbies/index.html
-title: Hobbies
+permalink: /alumni/index.html
+title: Students and Alumni
 ---
 
-# Hobbies
+# Students and Alumni
 
 ## Swimming & Surfing
 
