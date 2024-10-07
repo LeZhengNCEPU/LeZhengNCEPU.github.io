@@ -5,20 +5,20 @@ title: Students and Alumni
 ---
 
 <div class="second">
-<img src="/images/alumni/team2.jpg">
+<img src="/images/alumni/team2.JPG">
 </div>
 
 ## Graduate Students
 
 - 刘思远
-<img src="/images/alumni/liuxin.jpg" class="floatpic" width="360" height="360">
+<img src="/images/alumni/liuxin.JPG" class="floatpic" width="360" height="360">
 
 ---
 
 ## Alumni
 
 - 王正
-<img src="/images/alumni/wangzheng.jpg" class="floatpic" width="360" height="360">
+<img src="/images/alumni/wangzheng.JPG" class="floatpic" width="360" height="360">
 
 
 ## Activities
