@@ -5,16 +5,36 @@ title: Teaching
 ---
 
 # Teaching
-<br><br>师者，所以传道受业解惑也。
+## 师者，所以传道受业解惑也。
+I teach about how we understand the dynamics of power systems. In my classes, students work to have a glimps on how the power system behaves during and after disturbance, and how to control it. My students have opportunities to work with me on my research.
 
-## Courses
+Discussion creates a broader awareness of the world around us. Take a class with me, and reflect on how we fit into that world while developing new skills for your future. Students in my classes are curious, hardworking, and open-minded. 
 
-- 主讲本科生专业核心课：电力系统分析(2)，自动控制理论B<br>
+## 本科生专业核心课：电力系统分析(2)
+
+
+## 本科生专业核心课：自动控制理论B
+
+
+- 主讲本科生专业核心课：，自动控制理论B<br>
+
+## 研究生专业课：动态电力系统稳定与分析
+
+
+## 研究生专业课：新能源电力系统分析
+
+
 - 参讲研究生专业课：动态电力系统稳定与分析，新能源电力系统分析<br>
-- 参与编写本科生教材《电力系统分析基础》、《电力系统暂态分析》，研究生教材《动态电力系统稳定与分析》<br>
+
+<div class="third">
+<img src="/images/prelection1.JPG">
+<img src="/images/speech1.JPG">
+<img src="/images/speech3.JPG">
+</div>
 
 ## Achievements
 - 获北京高校第十三届青年教师教学基本功比赛工科类A组三等奖<br>
+- 参与编写本科生教材《电力系统分析基础》、《电力系统暂态分析》，研究生教材《动态电力系统稳定与分析》<br>
 - 指导的研究生获国家奖学金、优秀研究生、一等奖学金等荣誉<br>
 
 <div class="third">
