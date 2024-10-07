@@ -33,7 +33,7 @@ Discussion creates a broader awareness of the world around us. Take a class with
 ## Achievements
 - 获北京高校第十三届青年教师教学基本功比赛工科类A组三等奖<br>
 - 参与编写本科生教材《电力系统分析基础》、《电力系统暂态分析》，研究生教材《动态电力系统稳定与分析》<br>
-- 指导的研究生获国家奖学金、优秀研究生、一等奖学金等荣誉<br>
+- 指导的研究生获**国家奖学金**、**优秀研究生**、**一等奖学金**等荣誉<br>
 
 <div class="second">
 <img src="/images/speech1.JPG">
