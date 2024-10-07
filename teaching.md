@@ -5,6 +5,7 @@ title: Teaching
 ---
 
 # Teaching
+<br><br>师者，所以传道受业解惑也。
 
 ## Courses
 
