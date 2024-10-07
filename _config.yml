@@ -38,8 +38,10 @@ owner:
 links:
   - title: About Me
     url: /
-  - title: Researches
-    url: /researches/
+  - title: Research
+    url: /research/
+  - title: Teaching
+    url: /teaching/
   - title: Publications
     url: /publications/
   - title: Awards
