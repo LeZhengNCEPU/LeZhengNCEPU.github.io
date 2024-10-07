@@ -28,7 +28,7 @@ My current research interest focuses on addressing practical challenges in the d
 
 ## News and Updates
 
-- *October 2024：* My student [Jiajie Zheng]() has been granted the National Scholarship for his excellent work in his first graduate year! Congratulations!<br>
+- *October 2024：* My student [Jiajie Zheng]() has been granted the **National Scholarship 研究生国家奖学金** for his excellent work in his first graduate year! Congratulations!<br>
 - *October 2024：* Very excited to give a speech at the [EENES 2024](https://eenes.net/home/111/show/) on Oct. 19th. See you in Xi'an soon!<br>
 - *September 2024：* Our work **Data-Driven Subsynchronous Oscillation Suppression for Renewable Energy Integrated Power Systems Using Koopman Operator** has been accepted by *CSEE Journal of Power and Energy Systems*. <br>
 - *July 2024：* Our work **Koopman算符理论在新型电力系统分析与控制中的应用与挑战** has been accepted by 《中国电机工程学报》. Will be online soon!<br>
