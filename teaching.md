@@ -19,7 +19,9 @@ Discussion creates a broader awareness of the world around us. Take a class with
 - 主讲本科生专业核心课：，自动控制理论B<br>
 
 ## 研究生专业课：动态电力系统稳定与分析
-
+<div class="third">
+<img src="/images/city_scape.gif">
+</div>
 
 ## 研究生专业课：新能源电力系统分析
 
