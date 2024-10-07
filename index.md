@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: wide
 ---
 
 ## Welcome to Le Zheng's Academic Website
