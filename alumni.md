@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: categories
 permalink: /alumni/index.html
 title: Students and Alumni
 ---
