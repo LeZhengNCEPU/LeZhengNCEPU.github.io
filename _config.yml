@@ -38,16 +38,14 @@ owner:
 links:
   - title: About Me
     url: /
+  - title: Researches
+    url: /researches/
   - title: Publications
     url: /publications/
   - title: Awards
     url: /awards/
-  - title: Hobbies
-    url: /hobbies/
-  - title: Blogs
-    url: /blogs/
-  - title: Teams
-    url: /teams/
+  - title: Students and Alumni
+    url: /alumni/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
