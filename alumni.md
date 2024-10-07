@@ -17,7 +17,7 @@ title: Students and Alumni
 
 ## Alumni
 
-- 王正
+- **王正**
 <img src="/images/alumni/wangzheng.JPG" class="floatpic" width="360" height="360">
 
 
