@@ -18,26 +18,18 @@ Discussion creates a broader awareness of the world around us. Take a class with
 <img src="/images/df2.jpg">
 </div>
 
-- 本科生专业核心课：自动控制理论B
+- **本科生专业核心课：自动控制理论B**
+<br>本课程是电气工程及其相关专业的核心课程，涉及系统动态行为描述和调节方法。通过本课程的教学，使学生掌握坚实的控制科学基础，并具备一定的自动化系统分析、设计技能和综合分析的能力。注重讲解知识点的由来和理论推导过程，以及相关的实验方法，为本专业后续课程的学习、为学生今后从事自动控制方面的科学研究和实践打下基础。
 
-
-- 主讲本科生专业核心课：，自动控制理论B
-
-- 研究生专业课：动态电力系统稳定与分析
+- **研究生专业课：动态电力系统稳定与分析**
+<br>本课程是电力系统及其自动化等相关二级学科研究生的专业课程。本课程对新型电力系统的理论、分析方法及其最新进展作了系统、全面、深入的阐述和介绍，旨在反映当前国内外电力系统动态分析领域的最新发展和科学技术的水平，将以现代科学的新理论、新方法在新型电力系统中的应用为主要内容，特别对在我国电力系统中已获得应用的最新成果进行重点介绍。同时，课程内容会着重考虑理论与实践相结合，突出电力系统面临的实际问题和解决方法。本课程分为三部分，第一部分概述新型电力系统的基本特性和面临的稳定问题，第二部分主要介绍电力系统动态分析中常用元件的数学模型，第三部分重点阐述新型电力系统稳定分析和控制的理论和方法。
 <br>
 <div class="second">
-<img src="/images/city_scape.gif" width="950" height="404">
+<img src="/images/city_scape.gif">
 </div>
 
 - 研究生专业课：新能源电力系统分析
-
-
 <br>
-<div class="third">
-<img src="/images/prelection1.JPG">
-<img src="/images/speech1.JPG">
-<img src="/images/speech3.JPG">
-</div>
 
 ## Achievements
 - 获北京高校第十三届青年教师教学基本功比赛工科类A组三等奖<br>
@@ -45,35 +37,7 @@ Discussion creates a broader awareness of the world around us. Take a class with
 - 指导的研究生获国家奖学金、优秀研究生、一等奖学金等荣誉<br>
 
 <div class="third">
-<img src="/images/prelection1.JPG">
 <img src="/images/speech1.JPG">
-<img src="/images/speech3.JPG">
+<img src="/images/books.PNG">
+<img src="/images/speech2.JPG">
 </div>
-<br>There must be something truly magical about standing on stage to give a fantastic speech, which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite professor** at the [best universities in my hometown].
-
-[best universities in my hometown]:https://www.fzu.edu.cn/
-
-
-## Past Hobbies
-
-I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
-
-## My Cat
-
-She is my love. Her name is Qbao (Q宝).
-
-<div>
-<img src="/images/cat.JPG">
-</div>
-<br>
-
-## Chat with me
-
-**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by [Shangzhe Wu](https://elliottwu.com/)). Welcome to chat with me!
-
-<!-- Calendly inline widget begin -->
-
-<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
-
