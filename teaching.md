@@ -24,7 +24,7 @@ Discussion creates a broader awareness of the world around us. Take a class with
 - **研究生专业课：动态电力系统稳定与分析**
 <br>本课程是电力系统及其自动化等相关二级学科研究生的专业课程。本课程对新型电力系统的理论、分析方法及其最新进展作了系统、全面、深入的阐述和介绍，旨在反映当前国内外电力系统动态分析领域的最新发展和科学技术的水平，将以现代科学的新理论、新方法在新型电力系统中的应用为主要内容，特别对在我国电力系统中已获得应用的最新成果进行重点介绍。同时，课程内容会着重考虑理论与实践相结合，突出电力系统面临的实际问题，特别是新型电力系统中广泛存在的振荡和大停电风险，以及这些稳定问题的分析方法和解决方案。
 <br>
-<div class="third">
+<div class="second">
 <img src="/images/oscillation.gif">
 <img src="/images/outage.gif">
 </div>
@@ -35,7 +35,7 @@ Discussion creates a broader awareness of the world around us. Take a class with
 - 参与编写本科生教材《电力系统分析基础》、《电力系统暂态分析》，研究生教材《动态电力系统稳定与分析》<br>
 - 指导的研究生获国家奖学金、优秀研究生、一等奖学金等荣誉<br>
 
-<div class="third">
+<div class="second">
 <img src="/images/speech1.JPG">
 <img src="/images/books.png">
 <img src="/images/speech2.jpg">
