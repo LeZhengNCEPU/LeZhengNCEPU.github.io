@@ -10,6 +10,8 @@ I teach about how we understand the dynamics of power systems. In my classes, st
 
 Discussion creates a broader awareness of the world around us. Take a class with me, and reflect on how we fit into that world while developing new skills for your future. Students in my classes are curious, hardworking, and open-minded. 
 
+## Courses Taught
+
 ### 本科生专业核心课：电力系统分析(2)
 
 
@@ -19,7 +21,7 @@ Discussion creates a broader awareness of the world around us. Take a class with
 - 主讲本科生专业核心课：，自动控制理论B<br>
 
 ### 研究生专业课：动态电力系统稳定与分析
-<div class="third">
+<div class="second">
 <img src="/images/city_scape.gif" width="950" height="404">
 </div>
 
