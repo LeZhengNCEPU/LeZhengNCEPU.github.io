@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /teams/index.html
-title: Teams
+permalink: /alumni/index.html
+title: Students and Alumni
 ---
 
 ## Motivation
