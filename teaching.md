@@ -4,7 +4,6 @@ permalink: /teaching/index.html
 title: Teaching
 ---
 
-# Teaching
 ### 师者，所以传道受业解惑也。
 I teach about how we understand the dynamics of power systems. In my classes, students work to have a glimps on how the power system behaves during and after disturbance, and how to control it. My students have opportunities to work with me on my research.
 
@@ -12,8 +11,8 @@ Discussion creates a broader awareness of the world around us. Take a class with
 
 ## Courses Taught
 
-- 本科生专业核心课：电力系统分析(2)
-本课程是电气工程及其自动化专业的必修课、智能电网信息工程专业的专业选修课，是一门理论性、专业性很强的课程。通过本课程的学习，学生应该理解同步发电机突然三相短路的物理过程，掌握同步发电机的数学模型、参数以及短路电流计算方法；理解并掌握包括同步发电机组在内的电力系统各元件机电特性；理解并掌握电力系统静态稳定性和暂态稳定性的基本原理概念、分析方法以及提高稳定性的措施。通过对复杂电力系统建模和稳定仿真、分析，给出解决方案，掌握电力系统暂态分析的方法论，熟悉电力系统暂态分析的基本工具，为进一步学习本专业其他专业课程打下基础。
+- **本科生专业核心课：电力系统分析(2)**
+<br>本课程是电气工程及其自动化专业的必修课、智能电网信息工程专业的专业选修课，是一门理论性、专业性很强的课程。通过本课程的学习，学生应该理解同步发电机突然三相短路的物理过程，掌握同步发电机的数学模型、参数以及短路电流计算方法；理解并掌握包括同步发电机组在内的电力系统各元件机电特性；理解并掌握电力系统静态稳定性和暂态稳定性的基本原理概念、分析方法以及提高稳定性的措施。通过对复杂电力系统建模和稳定仿真、分析，给出解决方案，掌握电力系统暂态分析的方法论，熟悉电力系统暂态分析的基本工具，为进一步学习本专业其他专业课程打下基础。
 <br>
 <div class="second">
 <img src="/images/df2.jpg">
