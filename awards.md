@@ -4,26 +4,25 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Update: 20th Sep 2024
+> Update: 7th Oct. 2024
 
-## Scholarships
+## Academic Awards
 
-- June 2024：**KDD-24 Undergraduate Scholarship** ($1000)<br>Only 21 undergraduates are selected around the world
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 18 undergraduates are selected around the world
-- Aug 2023：Innovation Scholarship ($1400)<br>One of the highest undergraduate awards at FZU
-- May 2023：XiamenAir Scholarship ($600)<br>
-- June 2024：Best Final Year Project Award of Maynooth (€500)
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Course Project Award of Maynooth (€100)
-- First Prize Scholarship of MIEC ($2100, **Four times**)<br>Combined degree scholarship between FZU and Maynooth<br>
+- 2024年电力科学技术进步二等奖：数据-机理融合的大规模新能源并网系统稳定性提升关键技术及应用<br>
+- 2023年中国电工技术学会科技进步二等奖：“数据+知识”驱动的新型调度体系建设关键技术研究与应用<br>
+- 2021年“领跑者5000——中国精品科技期刊顶尖学术论文”：基于深度学习的电力系统故障后暂态稳定评估研究<br>
+- 2017年日内瓦国际发明展金奖：储能系统(ESS)规划与运行综合优化方法<br>
 
-## Competitions
+## Academic Appointments
 
-- Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
-- Aug 2023：Best Technology Award in National Youth Science Innovation Project Competition (Top 1%)
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition (Top 5%)
-- May 2023：Finalist Award in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Nov 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
-- June 2022：**Championship** of 100-meter Freestyle Swimming Competition of Fuzhou University<br>
+- IEEE PES电力系统动态技术委员会（中国）人工智能应用分技术委员会委员<br>
+- [《CES Transactions on Electrical Machines and Systems》](http://www.cestems.org/)、[《浙江电力》](https://zjdl.cbpt.cnki.net/WKE3/WebPublication/index.aspx?mid=ZJDL) 青年编委<br>
+- [International Conference on Power and Energy Technology (ICPET)](https://www.icpet.org/index.html) 程序委员会主席<br>
+
+## Teaching Achievement
+
+- 主讲本科生专业核心课《电力系统分析(2)》、《自动控制理论B》<br>
+- 获北京高校第十三届青年教师教学基本功比赛工科类A组三等奖<br>
+- 指导的研究生获国家奖学金、优秀研究生、一等奖学金等荣誉<br>
 
 <br>
