@@ -19,7 +19,7 @@ title: Awards
 - [《CES Transactions on Electrical Machines and Systems》](http://www.cestems.org/)、[《浙江电力》](https://zjdl.cbpt.cnki.net/WKE3/WebPublication/index.aspx?mid=ZJDL) 青年编委<br>
 - [International Conference on Power and Energy Technology (ICPET)](https://www.icpet.org/index.html) 程序委员会主席<br>
 
-## Teaching Achievement
+## Teaching Achievements
 
 - 主讲本科生专业核心课《电力系统分析(2)》、《自动控制理论B》<br>
 - 获北京高校第十三届青年教师教学基本功比赛工科类A组三等奖<br>
