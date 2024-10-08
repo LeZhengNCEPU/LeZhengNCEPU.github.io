@@ -10,11 +10,51 @@ title: Students and Alumni
 
 ## Graduate Students
 
+
+- **葛一琳**：硕士研究生（2022年至今）
+<img src="/images/alumni/liuxin.JPG" width="120" height="120">
+
+获2023校级一等奖学金
+<br>研究方向：大规模新能源集群无功控制
+
+
 - **刘思远**：硕士研究生（2022年至今）
 <img src="/images/alumni/liuxin.JPG" width="120" height="120">
 
-获2023-2024学年一等奖学金
+获2024校级一等奖学金
 <br>研究方向：人工智能在电力系统安全稳定分析中的应用
+
+
+- **易雨纯**：硕士研究生（2022年至今）
+<img src="/images/alumni/liuxin.JPG" width="120" height="120">
+
+获2023-2024学年一等奖学金
+<br>研究方向：大规模新能源集群有功控制
+
+
+- **周小添**：硕士研究生（2022年至今）
+<img src="/images/alumni/zhouxiaotian.jpg" width="120" height="120">
+
+获2023、2024校级一等奖学金，2024校级优秀团员，2023校级优秀先进个人
+<br>研究方向：人工智能在电力系统安全调度中的应用
+
+- **林家见**：硕士研究生（2023年至今）
+<img src="/images/alumni/linjiajian.jpg" width="120" height="120">
+
+获2024校级二等奖学金
+<br>研究方向：人工智能在电力系统安全调度中的应用
+
+- **郑佳杰**：硕士研究生（2023年至今）
+<img src="/images/alumni/zhengjiajie.jpg" width="120" height="120">
+
+获2024研究生国家奖学金、校级一等奖学金
+<br>研究方向：新型电力系统稳定性分析
+
+- **韩勇**：硕士研究生（2024年至今）
+<img src="/images/alumni/zhengjiajie.jpg" width="120" height="120">
+
+获2024研究生国家奖学金、校级一等奖学金
+<br>研究方向：新型电力系统稳定性分析
 
 ---
 
