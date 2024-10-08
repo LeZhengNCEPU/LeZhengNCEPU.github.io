@@ -26,7 +26,7 @@ My current research interest focuses on addressing practical challenges in the d
 
 ## Recruitment
 
-I am looking to mentor and work with **curious**, **ambitious**, and **hard-working** students. I typically accept around 2-4 master students majoring in electrical engineering every year. **Let us change the world.**
+> I am looking to mentor and work with **curious**, **ambitious**, and **hard-working** students. I typically accept around 2-4 master students majoring in electrical engineering every year. **Let us change the world.**
 
 <br>
 
