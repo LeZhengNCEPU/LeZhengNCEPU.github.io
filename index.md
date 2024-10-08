@@ -21,6 +21,7 @@ Here is **Le Zheng (郑乐)**. I am an associate professor working in [the Schoo
 
 
 My current research interest focuses on addressing practical challenges in the development of the new type of power system with high penetration of Inverter-Based Resources (IBR), particularly related to stability analysis during system operation, dispatch, and control. I believe Artificial Intelligence (AI) is a crucial pathway to advancing these systems. I am committed to applying my experties to this meaningful field, contributing to societal well-bing through innovative solutions.
+
 ---
 
 ## Recruitment
@@ -30,6 +31,7 @@ I am looking to mentor and work with **curious**, **ambitious**, and **hard-work
 <br>
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at zhengl20 [at] ncepu.edu.cn, and visit me at 华北电力大学主楼A815.
+
 ---
 
 ## News and Updates
