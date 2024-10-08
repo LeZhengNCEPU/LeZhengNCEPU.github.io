@@ -10,8 +10,11 @@ title: Students and Alumni
 
 ## Graduate Students
 
-- 刘思远
+- **刘思远**
+
 <img src="/images/alumni/liuxin.JPG" class="floatpic" width="360" height="360">
+硕士研究生（2022年至今）
+研究方向：人工智能
 
 ---
 
@@ -19,6 +22,11 @@ title: Students and Alumni
 
 - **王正**
 <img src="/images/alumni/wangzheng.JPG" class="floatpic" width="360" height="360">
+
+硕士（2021-2024），研究生期间曾获一等硕士奖学金、优秀研究生称号
+研究方向：人工智能
+硕士论文：
+现就职于国网北京电力朝阳供电公司
 
 
 ## Activities
