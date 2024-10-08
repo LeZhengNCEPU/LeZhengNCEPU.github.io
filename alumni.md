@@ -12,21 +12,21 @@ title: Students and Alumni
 
 
 - **葛一琳**：硕士研究生（2022年至今）
-<img src="/images/alumni/geyilin.JPG" width="120" height="120">
+<img src="/images/alumni/geyilin.jpg" width="120" height="120">
 
 获2023校级一等奖学金
 <br>研究方向：大规模新能源集群无功控制
 
 
 - **刘思远**：硕士研究生（2022年至今）
-<img src="/images/alumni/liusiyuan.JPG" width="120" height="120">
+<img src="/images/alumni/liusiyuan.jpg" width="120" height="120">
 
 获2024校级一等奖学金
 <br>研究方向：人工智能在电力系统安全稳定分析中的应用
 
 
 - **易雨纯**：硕士研究生（2022年至今）
-<img src="/images/alumni/yiyuchun.JPG" width="120" height="120">
+<img src="/images/alumni/yiyuchun.jpg" width="120" height="120">
 
 获2023-2024学年一等奖学金
 <br>研究方向：大规模新能源集群有功控制
