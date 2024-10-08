@@ -12,7 +12,7 @@ title: Students and Alumni
 
 - **刘思远**
 
-<img src="/images/alumni/liuxin.JPG" class="thumbnail" width="160" height="160">
+<img src="/images/alumni/liuxin.JPG" class="thumbnail" width="120" height="120">
 硕士研究生（2022年至今）
 研究方向：人工智能
 
@@ -20,13 +20,24 @@ title: Students and Alumni
 
 ## Alumni
 
+- **吴晶**
+
+硕士（2020-2023），研究生期间曾连续两年获二等奖学金
+研究方向：人工智能
+硕士论文：HVDC送端扰动引发受端换相失败的机理分析
+现就职于**中国能建浙江省电力设计院**
+
+<img src="/images/alumni/wujing.jpg" class="thumbnail" width="120" height="120">
+
+
+
 - **王正**
-<img src="/images/alumni/wangzheng.JPG" class="floatpic" width="160" height="160">
+<img src="/images/alumni/wangzheng.JPG" class="thumbnail" width="120" height="120">
 
 硕士（2021-2024），研究生期间曾获一等硕士奖学金、优秀研究生称号
 研究方向：人工智能
-硕士论文：
-现就职于国网北京电力朝阳供电公司
+硕士论文：基于风机可调能力预测的风场主动频率支撑策略研究
+现就职于**国网北京电力朝阳供电公司**
 
 
 ## Activities
