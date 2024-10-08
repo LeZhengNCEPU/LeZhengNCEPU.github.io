@@ -17,6 +17,7 @@ title: Students and Alumni
 获2023校级一等奖学金
 <br>研究方向：大规模新能源集群无功控制
 
+---
 
 - **刘思远**：硕士研究生（2022年至今）
 <img src="/images/alumni/liusiyuan.jpg" width="120" height="120">
@@ -24,6 +25,7 @@ title: Students and Alumni
 获2024校级一等奖学金
 <br>研究方向：人工智能在电力系统安全稳定分析中的应用
 
+---
 
 - **易雨纯**：硕士研究生（2022年至今）
 <img src="/images/alumni/yiyuchun.jpg" width="120" height="120">
@@ -31,6 +33,7 @@ title: Students and Alumni
 获2023-2024学年一等奖学金
 <br>研究方向：大规模新能源集群有功控制
 
+---
 
 - **周小添**：硕士研究生（2022年至今）
 <img src="/images/alumni/zhouxiaotian.jpg" width="120" height="120">
@@ -38,11 +41,15 @@ title: Students and Alumni
 获2023、2024校级一等奖学金，2024校级优秀团员，2023校级优秀先进个人
 <br>研究方向：人工智能在电力系统安全调度中的应用
 
+---
+
 - **林家见**：硕士研究生（2023年至今）
 <img src="/images/alumni/linjiajian.jpg" width="120" height="120">
 
 获2024校级二等奖学金
 <br>研究方向：人工智能在电力系统安全调度中的应用
+
+---
 
 - **郑佳杰**：硕士研究生（2023年至今）
 <img src="/images/alumni/zhengjiajie.jpg" width="120" height="120">
@@ -50,11 +57,15 @@ title: Students and Alumni
 获2024研究生国家奖学金、校级一等奖学金
 <br>研究方向：新型电力系统稳定性分析
 
+---
+
 - **韩勇**：硕士研究生（2024年至今）
 <img src="/images/alumni/hanyong.jpg" width="120" height="120">
 
 获2024研究生国家奖学金、校级一等奖学金
 <br>研究方向：新型电力系统稳定性分析
+
+---
 
 - **黄璐**：硕士研究生（2024年至今）
 <img src="/images/alumni/huanglu.jpg" width="120" height="120">
@@ -62,17 +73,23 @@ title: Students and Alumni
 获2024研究生国家奖学金、校级一等奖学金
 <br>研究方向：新型电力系统稳定性分析
 
+---
+
 - **梁以宁**：硕士研究生（2024年至今）
 <img src="/images/alumni/liangyining.jpg" width="120" height="120">
 
 获2024研究生国家奖学金、校级一等奖学金
 <br>研究方向：新型电力系统稳定性分析
 
+---
+
 - **徐辉**：硕士研究生（2024年至今）
 <img src="/images/alumni/xuhui.jpg" width="120" height="120">
 
 获2024研究生国家奖学金、校级一等奖学金
 <br>研究方向：新型电力系统稳定性分析
+
+---
 
 - **张龙飞**：硕士研究生（2024年至今）
 <img src="/images/alumni/zhanglongfei.jpg" width="120" height="120">
@@ -87,9 +104,11 @@ title: Students and Alumni
 - **程文帅**：硕士（2020-2023）
 <img src="/images/alumni/chengwenshuai.jpg" width="120" height="120">
 
-研究生期间连续两年获二等奖学金
+研究生期间连续两年获三等奖学金
 <br>硕士论文：基于可解释机器学习模型的电力系统暂态安全分析与评估
 <br>现就职于**山西省电力公司晋中供电公司**
+
+---
 
 - **吴晶**：硕士（2020-2023）
 <img src="/images/alumni/wujing.jpg" width="120" height="120">
@@ -98,6 +117,7 @@ title: Students and Alumni
 <br>硕士论文：HVDC送端扰动引发受端换相失败的机理分析
 <br>现就职于**中国能建浙江省电力设计院**
 
+---
 
 - **刘鑫**：硕士（2021-2024）
 <img src="/images/alumni/liuxin.JPG" width="120" height="120">
@@ -106,6 +126,7 @@ title: Students and Alumni
 <br>硕士论文：响应驱动的新能源并网系统小扰动同步稳定性增强方法研究
 <br>现就职于**山东省电力公司超高压公司**
 
+----
 
 - **王正**：硕士（2021-2024）
 <img src="/images/alumni/wangzheng.JPG" width="120" height="120">
