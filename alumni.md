@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 permalink: /alumni/index.html
 title: Students and Alumni
 ---
@@ -12,7 +12,7 @@ title: Students and Alumni
 
 - **刘思远**
 
-<img src="/images/alumni/liuxin.JPG" class="floatpic" width="240" height="240">
+<img src="/images/alumni/liuxin.JPG" class="thumbnail" width="160" height="160">
 硕士研究生（2022年至今）
 研究方向：人工智能
 
@@ -21,7 +21,7 @@ title: Students and Alumni
 ## Alumni
 
 - **王正**
-<img src="/images/alumni/wangzheng.JPG" class="floatpic" width="240" height="240">
+<img src="/images/alumni/wangzheng.JPG" class="floatpic" width="160" height="160">
 
 硕士（2021-2024），研究生期间曾获一等硕士奖学金、优秀研究生称号
 研究方向：人工智能
