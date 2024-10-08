@@ -5,12 +5,11 @@ title: Students and Alumni
 ---
 
 <div class="second">
-<img src="/images/alumni/team1.JPG" width="624" height="416">
+<img src="/images/alumni/team1.jpg" width="624" height="416">
 </div>
 
-
-
-## Alumni
+<br>
+<br>
 
 > **程文帅**：硕士（2020-2023）
 <img src="/images/alumni/chengwenshuai.jpg" width="120" height="120">
@@ -40,10 +39,6 @@ title: Students and Alumni
 - 硕士论文：基于风机可调能力预测的风场主动频率支撑策略研究
 - 现就职于**国网北京电力朝阳供电公司**
 
-
----
-
-## Activities
 
 
 
