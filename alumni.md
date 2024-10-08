@@ -84,6 +84,13 @@ title: Students and Alumni
 
 ## Alumni
 
+- **程文帅**：硕士（2020-2023）
+<img src="/images/alumni/chengwenshuai.jpg" width="120" height="120">
+
+研究生期间连续两年获二等奖学金
+<br>硕士论文：基于可解释机器学习模型的电力系统暂态安全分析与评估
+<br>现就职于**山西省电力公司晋中**
+
 - **吴晶**：硕士（2020-2023）
 <img src="/images/alumni/wujing.jpg" width="120" height="120">
 
