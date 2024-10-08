@@ -46,7 +46,9 @@ links:
     url: /publications/
   - title: Awards
     url: /awards/
-  - title: Students and Alumni
+  - title: Students
+    url: /students/
+  - title: Alumni
     url: /alumni/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
