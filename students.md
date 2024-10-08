@@ -5,7 +5,7 @@ title: Students
 ---
 
 <div class="second">
-<img src="/images/alumni/team2.JPG" width="624" height="416">
+<img src="/images/alumni/team2.JPG" width="650" height="373">
 </div>
 
 ## Graduate Students

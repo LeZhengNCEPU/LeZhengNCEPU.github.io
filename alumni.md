@@ -5,7 +5,7 @@ title: Students and Alumni
 ---
 
 <div class="second">
-<img src="/images/alumni/team1.jpg" width="624" height="416">
+<img src="/images/alumni/team1.jpg" width="650" height="371">
 </div>
 
 <br>
