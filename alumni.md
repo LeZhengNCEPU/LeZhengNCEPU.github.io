@@ -10,9 +10,9 @@ title: Students and Alumni
 
 ## Graduate Students
 
-- **刘思远**硕士研究生（2022年至今）
+- **刘思远**：硕士研究生（2022年至今）
 
-<img src="/images/alumni/liuxin.JPG" class="thumbnail" width="120" height="120">
+<img src="/images/alumni/liuxin.JPG" width="120" height="120">
 
 获2024学年一等奖学金
 <br>研究方向：人工智能
@@ -21,9 +21,9 @@ title: Students and Alumni
 
 ## Alumni
 
-- **吴晶**硕士（2020-2023）
+- **吴晶**：硕士（2020-2023）
 
-<img src="/images/alumni/wujing.jpg" class="thumbnail" width="120" height="120">
+<img src="/images/alumni/wujing.jpg" width="120" height="120">
 
 研究生期间曾连续两年获二等奖学金
 <br>研究方向：人工智能
@@ -33,8 +33,8 @@ title: Students and Alumni
 
 
 
-- **王正**硕士（2021-2024）
-<img src="/images/alumni/wangzheng.JPG" class="thumbnail" width="120" height="120">
+- **王正**：硕士（2021-2024）
+<img src="/images/alumni/wangzheng.JPG" width="120" height="120">
 
 研究生期间曾获一等奖学金、优秀研究生称号
 <br>研究方向：人工智能
