@@ -29,7 +29,7 @@ title: Students and Alumni
 <br>现就职于**中国能建浙江省电力设计院**
 
 - **刘鑫**：硕士（2021-2024）
-<img src="/images/alumni/刘鑫.JPG" width="120" height="120">
+<img src="/images/alumni/liuxin.JPG" width="120" height="120">
 
 研究生期间连续两年获一等奖学金、优秀学生称号
 <br>研究方向：新型电力系统小扰动稳定性分析
