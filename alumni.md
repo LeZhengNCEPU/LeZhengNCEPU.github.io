@@ -1,11 +1,11 @@
 ---
-layout: categories
+layout: tags
 permalink: /alumni/index.html
 title: Students and Alumni
 ---
 
 <div class="second">
-<img src="/images/alumni/team2.JPG">
+<img src="/images/alumni/team2.JPG" width="624" height="416">
 </div>
 
 ## Graduate Students
