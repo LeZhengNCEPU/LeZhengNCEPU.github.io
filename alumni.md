@@ -62,7 +62,7 @@ title: Students and Alumni
 - **韩勇**：硕士研究生（2024年至今）
 <img src="/images/alumni/hanyong.jpg" width="120" height="120">
 
-<br>研究方向：新型电力系统稳定性分析
+<br>研究方向：新型电力系统经济调度
 
 ---
 
@@ -86,10 +86,10 @@ title: Students and Alumni
 <br>研究方向：新型电力系统稳定性分析
 
 
-+ **张龙飞**：硕士研究生（2024年至今）
+> **张龙飞**：硕士研究生（2024年至今）
 <img src="/images/alumni/zhanglongfei.jpg" width="120" height="120">
 
-- 研究方向：新型电力系统稳定性分析
+- 研究方向：新型电力系统经济调度
 
 ---
 
