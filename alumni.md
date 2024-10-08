@@ -51,7 +51,31 @@ title: Students and Alumni
 <br>研究方向：新型电力系统稳定性分析
 
 - **韩勇**：硕士研究生（2024年至今）
-<img src="/images/alumni/zhengjiajie.jpg" width="120" height="120">
+<img src="/images/alumni/hanyong.jpg" width="120" height="120">
+
+获2024研究生国家奖学金、校级一等奖学金
+<br>研究方向：新型电力系统稳定性分析
+
+- **黄璐**：硕士研究生（2024年至今）
+<img src="/images/alumni/hanyong.jpg" width="120" height="120">
+
+获2024研究生国家奖学金、校级一等奖学金
+<br>研究方向：新型电力系统稳定性分析
+
+- **梁以宁**：硕士研究生（2024年至今）
+<img src="/images/alumni/liangyining.jpg" width="120" height="120">
+
+获2024研究生国家奖学金、校级一等奖学金
+<br>研究方向：新型电力系统稳定性分析
+
+- **徐辉**：硕士研究生（2024年至今）
+<img src="/images/alumni/xuhui.jpg" width="120" height="120">
+
+获2024研究生国家奖学金、校级一等奖学金
+<br>研究方向：新型电力系统稳定性分析
+
+- **张龙飞**：硕士研究生（2024年至今）
+<img src="/images/alumni/zhanglongfei.jpg" width="120" height="120">
 
 获2024研究生国家奖学金、校级一等奖学金
 <br>研究方向：新型电力系统稳定性分析
