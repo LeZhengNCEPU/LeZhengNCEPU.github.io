@@ -30,7 +30,7 @@ title: Students and Alumni
 - **易雨纯**：硕士研究生（2022年至今）
 <img src="/images/alumni/yiyuchun.jpg" width="120" height="120">
 
-获2023-2024学年一等奖学金
+获2023校级二等奖学金
 <br>研究方向：大规模新能源集群有功控制
 
 ---
@@ -62,7 +62,6 @@ title: Students and Alumni
 - **韩勇**：硕士研究生（2024年至今）
 <img src="/images/alumni/hanyong.jpg" width="120" height="120">
 
-获2024研究生国家奖学金、校级一等奖学金
 <br>研究方向：新型电力系统稳定性分析
 
 ---
@@ -70,7 +69,6 @@ title: Students and Alumni
 - **黄璐**：硕士研究生（2024年至今）
 <img src="/images/alumni/huanglu.jpg" width="120" height="120">
 
-获2024研究生国家奖学金、校级一等奖学金
 <br>研究方向：新型电力系统稳定性分析
 
 ---
@@ -78,7 +76,6 @@ title: Students and Alumni
 - **梁以宁**：硕士研究生（2024年至今）
 <img src="/images/alumni/liangyining.jpg" width="120" height="120">
 
-获2024研究生国家奖学金、校级一等奖学金
 <br>研究方向：新型电力系统稳定性分析
 
 ---
@@ -86,15 +83,12 @@ title: Students and Alumni
 - **徐辉**：硕士研究生（2024年至今）
 <img src="/images/alumni/xuhui.jpg" width="120" height="120">
 
-获2024研究生国家奖学金、校级一等奖学金
 <br>研究方向：新型电力系统稳定性分析
 
----
 
-> **张龙飞**：硕士研究生（2024年至今）
+>> **张龙飞**：硕士研究生（2024年至今）
 <img src="/images/alumni/zhanglongfei.jpg" width="120" height="120">
 
-- 获2024研究生国家奖学金、校级一等奖学金
 - 研究方向：新型电力系统稳定性分析
 
 ---
