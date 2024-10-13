@@ -48,7 +48,7 @@ title: Students
 - 获2024校级二等奖学金
 - 研究方向：人工智能在电力系统安全调度中的应用
 
-> **[郑佳杰](https://lezheng.org/students/zhengjiajie)**：硕士研究生（2023年至今）
+> **<a id="zhengjiajie"></a>郑佳杰**：硕士研究生（2023年至今）
 <img src="/images/alumni/zhengjiajie.jpg" width="120" height="120">
 
 - 获2024研究生国家奖学金、校级一等奖学金
