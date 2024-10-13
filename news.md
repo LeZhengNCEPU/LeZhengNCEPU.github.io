@@ -6,7 +6,7 @@ title: Updates and News
 
 ## Updates
 
-- *October 2024：* My student [Jiajie Zheng]() has been granted the **National Scholarship 研究生国家奖学金** for his excellent work in his first graduate year! Congratulations!
+- *October 2024：* My student [Jiajie Zheng](https://lezheng.org/students/zhengjiajie) has been granted the **National Scholarship 研究生国家奖学金** for his excellent work in his first graduate year! Congratulations!
 - *October 2024：* Very excited to give a speech at the [EENES 2024](https://eenes.net/home/111/show/) on Oct. 19th. See you in Xi'an soon!
 - *September 2024：* Our work **Data-Driven Subsynchronous Oscillation Suppression for Renewable Energy Integrated Power Systems Using Koopman Operator** has been accepted by *CSEE Journal of Power and Energy Systems*. 
 - *July 2024：* Our work **Koopman算符理论在新型电力系统分析与控制中的应用与挑战** has been accepted by 《中国电机工程学报》. Will be online soon!
