@@ -87,8 +87,5 @@ title: Students
 ---
 
 
-## Activities
-
-
 
 
