@@ -10,10 +10,9 @@ title: Students
 
 ## Graduate Students
 
+<br>
 
 ### 2022级
-
-<br>
 
 > **葛一琳**：硕士研究生（2022年至今）
 <img src="/images/alumni/geyilin.jpg" width="120" height="120">
@@ -39,9 +38,9 @@ title: Students
 - 获2023、2024校级一等奖学金，2024校级优秀团员，2023校级优秀先进个人
 - 研究方向：人工智能在电力系统安全调度中的应用
 
-### 2023级
-
 <br>
+
+### 2023级
 
 > **林家见**：硕士研究生（2023年至今）
 <img src="/images/alumni/linjiajian.jpg" width="120" height="120">
@@ -55,9 +54,9 @@ title: Students
 - 获2024研究生国家奖学金、校级一等奖学金
 - 研究方向：新型电力系统稳定性分析
 
-### 2024级
-
 <br>
+
+### 2024级
 
 > **韩勇**：硕士研究生（2024年至今）
 <img src="/images/alumni/hanyong.jpg" width="120" height="120">
