@@ -11,6 +11,10 @@ title: Students and Alumni
 <br>
 <br>
 
+### 2024届
+
+<br>
+
 > **王正**：硕士（2021-2024）
 <img src="/images/alumni/wangzheng.JPG" width="120" height="120">
 
@@ -24,6 +28,10 @@ title: Students and Alumni
 - 研究生期间连续两年获一等奖学金、优秀学生称号
 - 硕士论文：响应驱动的新能源并网系统小扰动同步稳定性增强方法研究
 - 现就职于**山东省电力公司超高压公司**
+
+### 2023届
+
+<br>
 
 > **吴晶**：硕士（2020-2023）
 <img src="/images/alumni/wujing.jpg" width="120" height="120">
