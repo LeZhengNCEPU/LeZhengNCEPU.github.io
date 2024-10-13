@@ -30,7 +30,7 @@ My current research interest focuses on addressing practical challenges in the d
 
 <br>
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at zhengl20 [at] ncepu.edu.cn, and visit me at 华北电力大学主楼A815.
+If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at **zhengl20 [at] ncepu.edu.cn**, and visit me at **华北电力大学主楼A815**.
 
 
 
