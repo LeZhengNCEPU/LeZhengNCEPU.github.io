@@ -110,7 +110,11 @@ title: 如何撰写科技论文
 ----
 
 #### 实例讨论
-接下来，以之前一篇论文[Raw wind data preprocessing: a data-mining approach](https://ieeexplore.ieee.org/document/6912961/)的写作和修改过程，来讨论[v1](https://lezheng.org/news/how-to-write-paper.assets/LOF-v1.pdf)和[vn](https://lezheng.org/news/how-to-write-paper.assets/LOF-vn.pdf)的一些区别
+接下来，以之前一篇论文[Raw wind data preprocessing: a data-mining approach](https://ieeexplore.ieee.org/document/6912961/)的写作和修改过程，来讨论[v1](https://lezheng.org/news/how-to-write-paper.assets/LOF-v1.pdf)和[vn](https://lezheng.org/news/how-to-write-paper.assets/LOF-vn.pdf)的一些区别。
+
+<center>
+<img src="/news/how-to-write-paper.assets/fig3.jpg">
+</center>
 
 - v1版本的问题
 	- 凝练的科学问题不具体
