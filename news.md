@@ -6,6 +6,7 @@ title: Updates and News
 
 ## Updates
 
+- *October 2024：* Sharing [如何撰写科技论文](https://lezheng.org/news/how-to-write-paper/).
 - *October 2024：* My student [Jiajie Zheng](https://lezheng.org/students/#zhengjiajie) has been granted the **National Scholarship 研究生国家奖学金** for his excellent work in his first graduate year! Congratulations!
 <!-- - *October 2024：* Very excited to give a speech at the [EENES 2024](https://eenes.net/home/111/show/) on Oct. 19th. See you in Xi'an soon!-->
 - *September 2024：* Our paper **Data-Driven Subsynchronous Oscillation Suppression for Renewable Energy Integrated Power Systems Using Koopman Operator** has been accepted by *CSEE Journal of Power and Energy Systems*. 
