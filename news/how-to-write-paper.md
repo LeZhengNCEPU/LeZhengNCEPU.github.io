@@ -6,10 +6,7 @@ title: 如何撰写科技论文
 
 ## 如何撰写科技论文
 
-> 主要参考清华大学电机系闵勇教授[组内培训材料](https://lezheng.org/news/how-to-write-paper.assets/怎样撰写科技论文-闵勇.pdf)
-
-<br>
-
+> 主要参考清华大学电机系闵勇教授[组内培训材料](https://lezheng.org/news/how-to-write-paper.assets/怎样撰写科技论文-闵勇.pdf)<br>
 > 更新时间：2024/10/21
 
 #### 什么是科技论文
@@ -112,3 +109,15 @@ title: 如何撰写科技论文
 
 ----
 
+#### 实例讨论
+接下来，以之前一篇论文[Raw wind data preprocessing: a data-mining approach](https://ieeexplore.ieee.org/document/6912961/)的写作和修改过程，来讨论[v1](https://lezheng.org/news/how-to-write-paper.assets/LOF-v1.pdf)和[vn](https://lezheng.org/news/how-to-write-paper.assets/LOF-vn.pdf)的一些区别
+
+- v1版本的问题
+	- 凝练的科学问题不具体
+	- 贡献总结不到位
+	- 图片不清晰，信息太多
+	- 正文内容重点不突出，与主要贡献无关的内容太多
+
+- vn版本的问题
+	- 题目不具体，太抽象
+	- 描述贡献的语句太长
