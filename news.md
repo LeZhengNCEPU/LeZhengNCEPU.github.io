@@ -7,7 +7,7 @@ title: Updates and News
 ## Updates
 
 - *October 2024：* My student [Jiajie Zheng](https://lezheng.org/students/#zhengjiajie) has been granted the **National Scholarship 研究生国家奖学金** for his excellent work in his first graduate year! Congratulations!
-- *October 2024：* Very excited to give a speech at the [EENES 2024](https://eenes.net/home/111/show/) on Oct. 19th. See you in Xi'an soon!
+[//]: (- *October 2024：* Very excited to give a speech at the [EENES 2024](https://eenes.net/home/111/show/) on Oct. 19th. See you in Xi'an soon!)
 - *September 2024：* Our work **Data-Driven Subsynchronous Oscillation Suppression for Renewable Energy Integrated Power Systems Using Koopman Operator** has been accepted by *CSEE Journal of Power and Energy Systems*. 
 - *July 2024：* Our paper **Koopman算符理论在新型电力系统分析与控制中的应用与挑战** has been accepted by 《中国电机工程学报》. Will be online soon!
 - *June 2024：* Our paper [**面向电力系统暂态稳定性评估的深度学习模型智能增强方法研究**](https://kns.cnki.net/kcms2/article/abstract?v=sKJ9SXrFdEqSiT3UyVdpzr-zwqxijYDjqhFEDUO8CMRkUYrPHxbdzP2KBN3jd4qEnOqdyUwnUW_Ngymke6Ckri9cVDPVywOt-Eht0zomEpHtUZ_eRjRP4OlT-9aJ13rmdPUdyhqHCxMj10sVh0Iqd3WXZFokvtMs3kT2chj-m7VH47k0V1Nxo3AtL0oZc4VP&uniplatform=NZKPT&language=CHS/) has been accepted by 《电网技术》.
