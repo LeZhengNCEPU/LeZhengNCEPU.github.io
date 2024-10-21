@@ -19,6 +19,7 @@ title: Updates and News
 
 ## Activities
 
+### 2024
 
-
+- [如何撰写科技论文](https://lezheng.org/news/how-to-write-paper/)
 
