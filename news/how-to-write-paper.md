@@ -80,7 +80,7 @@ title: 如何撰写科技论文
 - 八股文
 
 <center>
-<img src="/news/how-to-write-paper.assets/fig2.jpg">
+<img src="/news/how-to-write-paper.assets/fig2.jpg" width="50%" height="50%">
 </center>
 
 - 第2-3步最费时间，需要迭代数次，导师应该参与讨论
@@ -94,7 +94,7 @@ title: 如何撰写科技论文
 
 ###### 其他建议
 
-- **主观能动性**
+- <font color=red>**主观能动性**</font>
 	- 养成写论文的习惯 from reading to writing
 	- 主动与同门交流 from inspired to inspiring
 	- 经常找导师讨论 from pushed to pushing
