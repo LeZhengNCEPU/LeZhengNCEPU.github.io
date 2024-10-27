@@ -11,7 +11,7 @@ title: Publications
 
 - **郑乐**†, 刘思远, 周小添, 徐式蕴, 李宗翰, 李庚银. 面向电力系统暂态稳定性评估的深度学习模型智能增强方法研究. **电网技术**, 网络首发, 2024. [DOI: 10.13335/j.1000-3673.pst.2024.0767](https://kns.cnki.net/kcms2/article/abstract?v=sKJ9SXrFdEpPyWSw8yMzVObDguqHirE4wCYUGFdOLzUzi21X_dsJIkN8yUYlzxkaKJQMPwd4Fdrr8JS4_X_DcrFulLxg3kqgE-NmP-k5B3tdEbiiEqRbmnn-Pb3qlufBv7BOUzX1UGc3P0CHI9ZSidisxcjq8m6xncDpVEiGm1QN0cY_12IS79Vo_njlF2C_&uniplatform=NZKPT&language=CHS/).<br>
 
-- Yanhui Xu, Yundan Cheng, **Le Zheng**†, Hui Liu. A criterion for oscillation source localization with IBRs based on sub-synchronous frequency component of instantaneous power. ***IEEE Transactions on Power Systems***, Early Access, 2024. [DOI: 10.1109/TPWRS.2024.3369086](https://ieeexplore.ieee.org/document/10444031/).<br>
+- Yanhui Xu, Yundan Cheng, **Le Zheng**†, Hui Liu. A criterion for oscillation source localization with IBRs based on sub-synchronous frequency component of instantaneous power. ***IEEE Transactions on Power Systems***, vol. 39, no. 6, pp. 7346-7358, 2024. [DOI: 10.1109/TPWRS.2024.3369086](https://ieeexplore.ieee.org/document/10444031/).<br>
 
 - **郑乐**, 吴晶, 徐衍会, 孙英云, 刘崇茹†. HVDC送端系统振荡引发受端换相失败的机理分析. **电工技术学报**, vol. 39, no. 9, pp. 2743-2754, 2024. [DOI: 10.19595/j.cnki.1000-6753.tces.222381](https://kns.cnki.net/kcms2/article/abstract?v=sKJ9SXrFdEpKkcfY48oGi5vhCtnBDdueRU8ksy54_P9zEAYWaBS5Msk7rpVbRoc7ofkxszYrUPfRyu6zTHFn8jAo0MOnWxVryDVQOiqv8hY12jmTA3XRcK-PknaNjbREWfiIzFD0hbsgS4mzC-lz6Gx3Et8JC9jzXDNddFbdyGX2IOZGQYQiUJnrQqB_FDmP&uniplatform=NZKPT&language=CHS/).<br>
 
