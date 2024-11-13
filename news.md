@@ -6,7 +6,7 @@ title: Updates and News
 
 ## Updates
 
-- *November 2024：* Very excited to give a speech at the [EI2 2024](https://attend.ieee.org/ei2-2024/panel-sessions//) on Nov. 30th. See you in Shenyang soon!
+- *November 2024：* Very excited to give a speech at the **[EI2 2024]**(https://attend.ieee.org/ei2-2024/panel-sessions//) on Nov. 30th. See you in Shenyang soon!
 - *October 2024：* My student [Jiajie Zheng](https://lezheng.org/students/#zhengjiajie) has been granted the **National Scholarship 研究生国家奖学金** for his excellent work in his first graduate year! Congratulations!
 - *September 2024：* Our paper **Data-Driven Subsynchronous Oscillation Suppression for Renewable Energy Integrated Power Systems Using Koopman Operator** has been accepted by *CSEE Journal of Power and Energy Systems*. 
 - *July 2024：* Our paper **Koopman算符理论在新型电力系统分析与控制中的应用与挑战** has been accepted by 《中国电机工程学报》. Will be online soon!
