@@ -28,7 +28,7 @@ Koopman算符的线性属性源于观测空间中复合运算的线性。根据K
 ###### （2）Koopman算符在电力系统中的应用综述
 
 <center>
-<img src="/news/koopman-review.assets/fig1.png" width="50%" height="50%">
+<img src="/news/koopman-review.assets/fig1.png">
 </center>
 
 Koopman算符在电力系统中应用的基本思路是“离线训练，在线应用，滚动更新”，其应用方式具有以下几点主要特征：<br>
