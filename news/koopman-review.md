@@ -17,6 +17,7 @@ title: Koopman算符理论在新型电力系统分析与控制中的应用与挑
 <img src="/news/koopman-review.assets/fig1.jpg">
 </center>
 
+<br>
 
 #### 研究意义
 
@@ -32,6 +33,8 @@ Koopman算符是一类描述哈密顿动力系统量测量演化的理论，其�
 <img src="/news/koopman-review.assets/fig3.jpg">
 </center>
 
+<br>
+
 #### 重点内容
 ###### （1）Koopman算符的基本性质
 - <b><font color=blue>线性性质</font></b>
@@ -44,6 +47,8 @@ Koopman算符的线性属性源于观测空间中复合运算的线性。根据K
 <center>
 <img src="/news/koopman-review.assets/fig2.jpg">
 </center>
+
+<br>
 
 Koopman算符在电力系统中应用的基本思路是“离线训练，在线应用，滚动更新”，其应用方式具有以下几点主要特征：<br>
 - Koopman算符的应用涵盖了电力系统稳态分析、动态分析、暂态分析等众多应用场景，对资源特征、用户画像、系统响应等特性都能进行刻画，具有良好的应用潜能。
