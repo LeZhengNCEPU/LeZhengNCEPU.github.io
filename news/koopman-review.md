@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /news/Koopman-review/index.html
+permalink: /news/koopman-review/index.html
 title: Koopman算符理论在新型电力系统分析与控制中的应用与挑战
 ---
 
