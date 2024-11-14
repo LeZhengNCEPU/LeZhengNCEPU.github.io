@@ -9,9 +9,9 @@ layout: page
 
 
 欢迎来到**郑乐(Le Zheng)**的学术主页！
-- 2011年，我本科毕业于**清华大学**[电机工程与应用电子技术系](https://www.eea.tsinghua.edu.cn/)，之后继续在清华大学电机系[**闵勇**](https://www.eea.tsinghua.edu.cn/faculties/ymin.htm)教授课题组攻读博士学位，师从[**胡伟**](https://www.eea.tsinghua.edu.cn/faculties/whu.htm)研究员，2017年获工学博士学位。 
+- 2020年8月，我加入**华北电力大学**[电气与电子工程学院](https://electric.ncepu.edu.cn/)，与**李庚银**教授、[**刘崇茹**](https://www.liucrgroup.com/)教授、**徐衍会**教授等保持紧密的科研合作关系. 
 - 2017至2019年，我在**斯坦福大学**转化医学大数据中心从事博士后研究工作，合作导师是[**Bruce Xuefeng Ling**](https://biox.stanford.edu/people/bruce-ling)博士和[**Doff McElhinney**](https://med.stanford.edu/profiles/doff-mcelhinney)教授。 
-- 2020年8月，我加入华北电力大学[电气与电子工程学院](https://electric.ncepu.edu.cn/)，与**李庚银**教授、[**刘崇茹**](https://www.liucrgroup.com/)教授、**徐衍会**教授等保持紧密的科研合作关系. 
+- 2011年，我本科毕业于**清华大学**[电机工程与应用电子技术系](https://www.eea.tsinghua.edu.cn/)，之后继续在清华大学电机系[**闵勇**](https://www.eea.tsinghua.edu.cn/faculties/ymin.htm)教授课题组攻读博士学位，师从[**胡伟**](https://www.eea.tsinghua.edu.cn/faculties/whu.htm)研究员，2017年获工学博士学位。 
 
 ---
 
@@ -28,8 +28,7 @@ layout: page
 
 ## 招生要求
 
-我每年接收2-4名电气工程专业的硕士生，我希望能够与充满好奇心和主观能动性强的学生合作。
-如果你对我有任何方面的兴趣，欢迎与我讨论或合作，可随时通过 zhengl20 [at] ncepu.edu.cn 与我联系。
+我每年招收2-4名电气工程专业的硕士生，我希望能够与**充满好奇心**、**主观能动性强**的学生一起工作。如果你对我的任何方面感兴趣，欢迎与我联系、交流或合作，可随时通过 zhengl20 [at] ncepu.edu.cn 与我取得联系。
 
 <br>
 
