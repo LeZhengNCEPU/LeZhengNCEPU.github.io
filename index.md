@@ -8,11 +8,10 @@ layout: page
 <img src="/images/lzheng.jpg" class="floatpic" width="900" height="1200">
 
 
-欢迎来到我的学术主页！
-- 我是**郑乐(Le Zheng)**，**华北电力大学**[电气与电子工程学院](https://electric.ncepu.edu.cn/)副教授。
+欢迎来到**郑乐(Le Zheng)**的学术主页！
 - 2011年，我本科毕业于**清华大学**[电机工程与应用电子技术系](https://www.eea.tsinghua.edu.cn/)，之后继续在清华大学电机系[**闵勇**](https://www.eea.tsinghua.edu.cn/faculties/ymin.htm)教授课题组攻读博士学位，师从[**胡伟**](https://www.eea.tsinghua.edu.cn/faculties/whu.htm)研究员，2017年获工学博士学位。 
 - 2017至2019年，我在**斯坦福大学**转化医学大数据中心从事博士后研究工作，合作导师是[**Bruce Xuefeng Ling**](https://biox.stanford.edu/people/bruce-ling)博士和[**Doff McElhinney**](https://med.stanford.edu/profiles/doff-mcelhinney)教授。 
-- 2020年8月，我加入华北电力大学，与**李庚银**教授、[**刘崇茹**](https://www.liucrgroup.com/)教授、**徐衍会**教授等保持紧密的科研合作关系. 
+- 2020年8月，我加入华北电力大学[电气与电子工程学院](https://electric.ncepu.edu.cn/)，与**李庚银**教授、[**刘崇茹**](https://www.liucrgroup.com/)教授、**徐衍会**教授等保持紧密的科研合作关系. 
 
 ---
 
@@ -34,5 +33,5 @@ layout: page
 
 <br>
 
-Let's change the world together!
+**Let's change the world TOGETHER!**
 
