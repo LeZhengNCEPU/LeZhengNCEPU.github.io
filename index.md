@@ -22,18 +22,17 @@ layout: page
 - **人工智能在电力系统分析中的应用** AI for Power System 
 
 
-我目前的研究兴趣集中在解决高渗透率逆变器型资源（IBR）新型电力系统开发中的实际挑战，特别是与系统运行、调度和控制过程中的稳定性分析相关的问题。我认为人工智能（AI）是推动这些系统发展的关键途径。我致力于将我的专业知识应用于这一有意义的领域，通过创新的解决方案为社会福祉作出贡献。
+我的研究兴趣在于解决含高比例逆变器并网资源（IBR）的新型电力系统动态过程中的实际挑战，特别是与系统运行、调度和控制过程中稳定性相关的问题。我认为人工智能（AI）是推动这些研究发展的关键途径，我致力于将我的专业知识应用于这一有意义的领域，通过创新的解决方案为构建新型电力系统作出贡献。
 
 
 ---
 
-## Recruitment
+## 招生要求
 
-> I am looking to mentor and work with **curious**, **ambitious**, and **hard-working** students. I typically accept around 2-4 master students majoring in electrical engineering every year. **Let us change the world.**
+我每年接收2-4名电气工程专业的硕士生，我希望能够与充满好奇心和主观能动性强的学生合作。
+如果你对我有任何方面的兴趣，欢迎与我讨论或合作，可随时通过 zhengl20 [at] ncepu.edu.cn 与我联系。
 
 <br>
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at **zhengl20 [at] ncepu.edu.cn**, and visit me at **华北电力大学主楼A815**.
-
-
+Let's change the world together!
 
