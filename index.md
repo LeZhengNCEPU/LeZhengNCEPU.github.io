@@ -5,9 +5,7 @@ layout: page
 ## 基本信息
 <br>
 
-<center>
-<img src="/images/lzheng.jpg">
-</center>
+<img src="/images/lzheng.jpg" class="floatpic" width="300" height="400">
 
 
 欢迎来到我的学术主页！我是**郑乐(Le Zheng)**，**华北电力大学**[电气与电子工程学院](https://electric.ncepu.edu.cn/)副教授。
