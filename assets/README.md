@@ -2,6 +2,9 @@
 
 Modifying this code is NOT recommended unless you are a pro.
 
-Thank you for supporting my work! Please feel free to contact me if you need help.
+The font has been changed in /css/main.css and /css/ie.css to add Heiti, etc.
 
-- My email: lancecai2002@gmail.com
+- My email: zhengl20@ncepu.edu.cn
+
+
+<!-- Lastly modified by Le in 2024/11/14 -->
