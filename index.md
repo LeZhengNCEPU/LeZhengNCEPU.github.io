@@ -32,5 +32,5 @@ layout: page
 
 <br>
 
-**Let's change the world TOGETHER!**
+<b><font size=3>Let's change the world TOGETHER!</font></b>
 
