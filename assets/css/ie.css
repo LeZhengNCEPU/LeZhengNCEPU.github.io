@@ -121,7 +121,7 @@ svg:not(:root){overflow:hidden;}
 .third:after{clear:both;}
 .third img{display:inline;float:left;width:33.333333333333336%;}
 .third figcaption{display:inline;float:left;width:100%;}
-.btn{display:inline-block;*display:inline;*zoom:1;padding:12px 24px;margin-bottom:2em;line-height:1;text-align:center;text-transform:uppercase;vertical-align:middle;border:4px double #333332;-webkit-border-radius:50px;-moz-border-radius:50px;border-radius:50px;cursor:pointer;*margin-left:.3em;-webkit-transition:0.4s linear;-moz-transition:0.4s linear;-ms-transition:0.4s linear;-o-transition:0.4s linear;transition:0.4s linear;}.btn:visited{border:4px double #4e4e4e;}
+.btn{display:inline-block;*display:inline;*zoom:1;padding:12px 24px;margin-bottom:2em;line-height:1;text-align:justify;text-transform:uppercase;vertical-align:middle;border:4px double #333332;-webkit-border-radius:50px;-moz-border-radius:50px;border-radius:50px;cursor:pointer;*margin-left:.3em;-webkit-transition:0.4s linear;-moz-transition:0.4s linear;-ms-transition:0.4s linear;-o-transition:0.4s linear;transition:0.4s linear;}.btn:visited{border:4px double #4e4e4e;}
 .btn:hover{border:4px double #1a1a1a;}
 .btn:first-child{*margin-left:0;}
 .btn-inverse{border:4px double #ffffff;color:#ffffff;background-color:#000000;}.btn-inverse:visited{color:#ffffff;border-color:#ffffff;}
@@ -235,7 +235,7 @@ html{background-color:#ffffff;font-family:"Times New Roman","Microsoft YaHei","å
 .footer-icons li a:hover .icon-google-plus,.footer-icons li a:hover .icon-google-plus-sign{color:#b63324;}
 .footer-icons li a:hover .icon-lastfm,.footer-icons li a:hover .icon-lastfm-sign{color:#d80049;}
 .footer-icons li a:hover .icon-github{color:#4183c4;}
-.chrome-frame{background:#000;margin:0 0 2em 0;padding:10px;text-align:center;color:#ffffff;}.chrome-frame a{color:#ffffff;border-bottom:1px dotted #ffffff;text-decoration:none;}.chrome-frame a:hover{border-bottom:1px solid #ffffff;}
+.chrome-frame{background:#000;margin:0 0 2em 0;padding:10px;text-align:justify;color:#ffffff;}.chrome-frame a{color:#ffffff;border-bottom:1px dotted #ffffff;text-decoration:none;}.chrome-frame a:hover{border-bottom:1px solid #ffffff;}
 .image-grid li{width:33.333333%;}
 html{font-size:95%;}
 .site-name{display:inline;float:left;width:16.666666666666668%;margin-left:4.166666666666667%;margin-right:4.166666666666667%;}
