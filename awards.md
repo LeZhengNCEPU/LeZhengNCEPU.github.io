@@ -6,7 +6,7 @@ title: Awards
 
 > Update: 7th Oct. 2024
 
-## 科研获奖
+### 科研获奖
 
 - **2024年电力科学技术进步二等奖**：数据-机理融合的大规模新能源并网系统稳定性提升关键技术及应用<br>
 - **2023年中国电工技术学会科技进步二等奖**：“数据+知识”驱动的新型调度体系建设关键技术研究与应用<br>
@@ -15,7 +15,7 @@ title: Awards
 
 ---
 
-## 学术兼职
+### 学术兼职
 
 - IEEE PES电力系统动态技术委员会（中国）人工智能应用分技术委员会委员<br>
 - [iEnergy](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9732629)、[《CES Transactions on Electrical Machines and Systems》](http://www.cestems.org/)、[《浙江电力》](https://zjdl.cbpt.cnki.net/WKE3/WebPublication/index.aspx?mid=ZJDL) 青年编委<br>

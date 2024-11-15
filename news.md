@@ -4,7 +4,7 @@ permalink: /news/index.html
 title: Updates and News
 ---
 
-## 最新动态
+### 最新动态
 
 - *November 2024：* 很高兴将参加 **[EI2 2024](https://attend.ieee.org/ei2-2024/panel-sessions/)** 并于11月30日做分论坛报告。 我们 **沈阳** 见！
 - *October 2024：* 我的研究生 **[郑佳杰](https://lezheng.org/students/#zhengjiajie)** 同学获得了2024年**研究生国家奖学金**！祝贺佳杰，希望在学术道路上继续勇攀高峰。
@@ -16,7 +16,7 @@ title: Updates and News
 ---
 
 
-## 学术分享
+### 学术分享
 
 ### 2024
 
