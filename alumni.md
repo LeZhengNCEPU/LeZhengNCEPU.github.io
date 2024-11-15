@@ -8,7 +8,7 @@ title: Students and Alumni
 <img src="/images/alumni/team1.jpg" width="650" height="371">
 </div>
 
-## 已毕业研究生
+### 已毕业研究生
 
 <br>
 

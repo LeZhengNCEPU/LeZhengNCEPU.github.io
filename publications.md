@@ -6,7 +6,7 @@ title: Publications
 
 > (†: corresponding author)
 
-## 2024
+### 2024
 - **郑乐**, 郑佳杰, 阳岳希, 杜镇宇, 徐衍会†. 100%变流器接口电源电力系统的同调特性分析. **中国电机工程学报**, 网络首发, 2024. [DOI: 11.2107/TM.20240412.1451.007](https://kns.cnki.net/kcms2/article/abstract?v=sKJ9SXrFdEpj5mGdttToHA_B2HXCLmZ3RTThUXPzkE9EB75GIjfRlQdBcRRDk-2RuoXR0z-noGTIUIVPkjC_KnmuuFTY849f-zNr_0c2afWiCQ6daTRyRybDarRdjRFP8bkXXTZ2aqrp_LIxTeGy8hCp_KzeTSYDHc3Y-wCYK-8GbXoQxIBnOSWQBJi_WEs6&uniplatform=NZKPT&language=CHS/).<br>
 
 - **郑乐**†, 刘思远, 周小添, 徐式蕴, 李宗翰, 李庚银. 面向电力系统暂态稳定性评估的深度学习模型智能增强方法研究. **电网技术**, 网络首发, 2024. [DOI: 10.13335/j.1000-3673.pst.2024.0767](https://kns.cnki.net/kcms2/article/abstract?v=sKJ9SXrFdEpPyWSw8yMzVObDguqHirE4wCYUGFdOLzUzi21X_dsJIkN8yUYlzxkaKJQMPwd4Fdrr8JS4_X_DcrFulLxg3kqgE-NmP-k5B3tdEbiiEqRbmnn-Pb3qlufBv7BOUzX1UGc3P0CHI9ZSidisxcjq8m6xncDpVEiGm1QN0cY_12IS79Vo_njlF2C_&uniplatform=NZKPT&language=CHS/).<br>
@@ -15,14 +15,14 @@ title: Publications
 
 - **郑乐**, 吴晶, 徐衍会, 孙英云, 刘崇茹†. HVDC送端系统振荡引发受端换相失败的机理分析. **电工技术学报**, vol. 39, no. 9, pp. 2743-2754, 2024. [DOI: 10.19595/j.cnki.1000-6753.tces.222381](https://kns.cnki.net/kcms2/article/abstract?v=sKJ9SXrFdEpKkcfY48oGi5vhCtnBDdueRU8ksy54_P9zEAYWaBS5Msk7rpVbRoc7ofkxszYrUPfRyu6zTHFn8jAo0MOnWxVryDVQOiqv8hY12jmTA3XRcK-PknaNjbREWfiIzFD0hbsgS4mzC-lz6Gx3Et8JC9jzXDNddFbdyGX2IOZGQYQiUJnrQqB_FDmP&uniplatform=NZKPT&language=CHS/).<br>
 
-## 2023
+### 2023
 - **Le Zheng**, Xin Liu, Yanhui Xu, Wei Hu, Chongru Liu†. Data-driven estimation for region of attraction for transient stability using Koopman Operator. ***CSEE Journal of Power and Energy Systems***, vol. 9, no. 4, pp. 1405-1413, 2023. [DOI: 10.17775/CSEEJPES.2021.09360](https://ieeexplore.ieee.org/document/9917430/).<br>
 
 - Chongru Liu, Haoyu Liu, Siwen Jiang, **Le Zheng**†. Dynamic frequency support and DC voltage regulation approach for VSC-MTDC systems. ***CSEE Journal of Power and Energy Systems***, vol. 9, no. 2, pp. 645-658, 2023. [DOI: 10.17775/CSEEJPES.2021.01790](https://ieeexplore.ieee.org/document/9671036/).<br>
 
 - 房佳姝, 刘崇茹, 苏晨博, 林晗星, **郑乐**†. 基于自注意力Transformer编码器的多阶段电力系统暂态稳定评估方法. **中国电机工程学报**, vol. 43, no. 15, pp. 5745-5759, 2023. [DOI: 10.13334/j.0258-8013.pcsee.213334](https://kns.cnki.net/kcms2/article/abstract?v=sKJ9SXrFdEpHi1mb8dYacHzaImjjK73FTP3Z6l6UD3AsZMDRNxMXpe3I6yj7AkUYZuBGR8QbzIIMjh3vqwUVGZB86erkgu2vnG5vl6yhlAr-JVXv-CfzZo5hCFYnrOer20z6xrSw1F7k3jhyjQ7hAl3enzXm3fY1eNAfiZ3REKFMYTJCo9huKXL8jrUP_HCl&uniplatform=NZKPT&language=CHS/).<br>
 
-## before 2023
+### 2023之前
 - **Le Zheng**†, Zheng Wang, Gengyin Li, Yanhui Xu. Evaluating the significance of samples in deep learning based transient stability assessment. ***Frontiers in Energy Research***, vol. 10, 2022. [DOI: 10.3389/fenrg.2022.925126](https://www.frontiersin.org/journals/energy-research/articles/10.3389/fenrg.2022.925126/full/).<br>
 
 - **Le Zheng**, Wei Hu†, Yong Min, Jin Ma. A novel method to monitor and predict voltage collapse: the critical transitions approach. ***IEEE Transactions on Power Systems***, vol. 33, no. 2, pp. 1184-1194, 2018. [DOI: 10.1109/TPWRS.2017.2737465](https://ieeexplore.ieee.org/document/8004464/).<br>
