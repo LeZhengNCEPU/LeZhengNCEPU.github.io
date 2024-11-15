@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## 基本信息
+### 基本信息
 <br>
 
 <img src="/images/lzheng.jpg" class="floatpic" width="900" height="1200">
@@ -15,7 +15,7 @@ layout: page
 
 ---
 
-## 研究领域
+### 研究领域
 
 - **电力系统稳定与控制** Power System Stability and Control 
 - **人工智能在电力系统分析中的应用** AI for Power System 
@@ -26,7 +26,7 @@ layout: page
 
 ---
 
-## 招生要求
+### 招生要求
 
 我每年招收2-4名电气工程专业的硕士生，我希望能够与**充满好奇心**、**主观能动性强**的学生一起工作。如果你对我的任何方面感兴趣，欢迎与我联系、交流或合作，可随时通过 zhengl20 [at] ncepu.edu.cn 与我取得联系。
 
