@@ -4,22 +4,22 @@ permalink: /news/index.html
 title: Updates and News
 ---
 
-## Updates
+## 最新动态
 
-- *November 2024：* Very excited to give a speech at the **[EI2 2024](https://attend.ieee.org/ei2-2024/panel-sessions/)** on Nov. 30th. See you in **Shenyang** soon!
-- *October 2024：* My student [Jiajie Zheng](https://lezheng.org/students/#zhengjiajie) has been granted the **National Scholarship 研究生国家奖学金** for his excellent work in his first graduate year! Congratulations!
-- *September 2024：* Our paper **Data-Driven Subsynchronous Oscillation Suppression for Renewable Energy Integrated Power Systems Using Koopman Operator** has been accepted by *CSEE Journal of Power and Energy Systems*. 
-- *July 2024：* Our paper **Koopman算符理论在新型电力系统分析与控制中的应用与挑战** has been accepted by 《中国电机工程学报》. Will be online soon!
-- *June 2024：* Our paper [**面向电力系统暂态稳定性评估的深度学习模型智能增强方法研究**](https://kns.cnki.net/kcms2/article/abstract?v=sKJ9SXrFdEqSiT3UyVdpzr-zwqxijYDjqhFEDUO8CMRkUYrPHxbdzP2KBN3jd4qEnOqdyUwnUW_Ngymke6Ckri9cVDPVywOt-Eht0zomEpHtUZ_eRjRP4OlT-9aJ13rmdPUdyhqHCxMj10sVh0Iqd3WXZFokvtMs3kT2chj-m7VH47k0V1Nxo3AtL0oZc4VP&uniplatform=NZKPT&language=CHS/) is now online from 《电网技术》.
-- *June 2024：* Our patent [**一种经变流器并网电源的稳定性分析方法及系统**](https://analytics.zhihuiya.com/patent-view/clms?patentId=74e40b2a-159b-4c86-903f-e881e92dc839&shareId=302061B1-453D-6G79-CE25-780751814G94&from=EXPORT&signature=T4SW1yBT9eb0SuFP0L7tr26v8n6g%2FtWVA3bMHjBRemE%3D&expire=94608000&date=20240929T012524Z&version=1.0/) has been granted.
+- *November 2024：* 很高兴将参加 **[EI2 2024](https://attend.ieee.org/ei2-2024/panel-sessions/)** 并于11月30日做分论坛报告。 我们 **沈阳** 见！
+- *October 2024：* 我的研究生 **[郑佳杰](https://lezheng.org/students/#zhengjiajie)** 同学获得了2024年**研究生国家奖学金**！祝贺佳杰，希望在学术道路上继续勇攀高峰。
+- *September 2024：* 我们的工作 **Data-Driven Subsynchronous Oscillation Suppression for Renewable Energy Integrated Power Systems Using Koopman Operator** 已经被 *CSEE Journal of Power and Energy Systems*录用，很快将与大家见面。
+- *July 2024：* 我们的工作 **Koopman算符理论在新型电力系统分析与控制中的应用与挑战** 已经被《中国电机工程学报》录用，很快将与大家见面。
+- *June 2024：* 我们的工作[**面向电力系统暂态稳定性评估的深度学习模型智能增强方法研究**](https://kns.cnki.net/kcms2/article/abstract?v=sKJ9SXrFdEqSiT3UyVdpzr-zwqxijYDjqhFEDUO8CMRkUYrPHxbdzP2KBN3jd4qEnOqdyUwnUW_Ngymke6Ckri9cVDPVywOt-Eht0zomEpHtUZ_eRjRP4OlT-9aJ13rmdPUdyhqHCxMj10sVh0Iqd3WXZFokvtMs3kT2chj-m7VH47k0V1Nxo3AtL0oZc4VP&uniplatform=NZKPT&language=CHS/)被《电网技术》录用，已经可以在线阅读了，敬请大家批评指正。
+
 
 ---
 
 
-## Activities
+## 学术分享
 
 ### 2024
 
-- [Koopman算符理论在新型电力系统分析与控制中的应用与挑战](https://lezheng.org/news/koopman-review/)
-- [如何撰写科技论文](https://lezheng.org/news/how-to-write-paper/)
+- [**Koopman算符理论在新型电力系统分析与控制中的应用与挑战**](https://lezheng.org/news/koopman-review/)
+- [**如何撰写科技论文**](https://lezheng.org/news/how-to-write-paper/)
 

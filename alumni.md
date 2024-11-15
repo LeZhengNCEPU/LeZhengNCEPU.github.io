@@ -8,7 +8,8 @@ title: Students and Alumni
 <img src="/images/alumni/team1.jpg" width="650" height="371">
 </div>
 
-<br>
+## 已毕业研究生
+
 <br>
 
 ### 2024届

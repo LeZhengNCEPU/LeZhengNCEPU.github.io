@@ -8,7 +8,7 @@ title: Students
 <img src="/images/alumni/team2.JPG" width="650" height="373">
 </div>
 
-## Graduate Students
+## 在读研究生
 
 <br>
 
