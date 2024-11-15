@@ -3,7 +3,6 @@ layout: page
 ---
 
 ### 基本信息
-<br>
 
 <img src="/images/lzheng.jpg" class="floatpic" width="900" height="1200">
 
@@ -32,5 +31,5 @@ layout: page
 
 <br>
 
-<b><font size=3>Let's change the world TOGETHER!</font></b>
+<b><font size=6>Let's change the world TOGETHER!</font></b>
 
