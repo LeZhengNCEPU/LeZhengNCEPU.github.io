@@ -4,7 +4,7 @@ permalink: /news/how-to-write-paper/index.html
 title: 如何撰写科技论文
 ---
 
-## 如何撰写科技论文
+### 如何撰写科技论文
 
 > 主要参考清华大学电机系闵勇教授[组内培训材料](https://lezheng.org/news/how-to-write-paper.assets/怎样撰写科技论文-闵勇.pdf)<br>
 > 更新时间：2024/10/21
