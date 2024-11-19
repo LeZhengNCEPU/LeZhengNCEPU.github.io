@@ -20,6 +20,7 @@ title: Updates and News
 
 ### 2024
 
+- [**端口视角下的电力系统振荡分析方法**](https://lezheng.org/news/port-review/)
 - [**Koopman算符理论在新型电力系统分析与控制中的应用与挑战**](https://lezheng.org/news/koopman-review/)
 - [**如何撰写科技论文**](https://lezheng.org/news/how-to-write-paper/)
 
