@@ -79,10 +79,10 @@ kramdown:
 
 
 # disqus settings:
-comments:
-  provider: "disqus" # 使用 Disqus 评论系统
-  disqus:
-    shortname: "lezheng" # 替换为您在 Disqus 上注册的 shortname
+#comments:
+#  provider: "disqus" # 使用 Disqus 评论系统
+#  disqus:
+#    shortname: "lezheng" # 替换为您在 Disqus 上注册的 shortname
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]

@@ -2,7 +2,7 @@
 layout: page
 permalink: /news/index.html
 title: Updates and News
-comments: true
+#comments: true
 ---
 
 ### 最新动态
