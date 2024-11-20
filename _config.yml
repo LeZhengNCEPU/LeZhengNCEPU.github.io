@@ -79,6 +79,8 @@ kramdown:
 
 
 # disqus settings:
+disqus:
+  shortname: lancecai
 #comments:
 #  provider: "disqus" # 使用 Disqus 评论系统
 #  disqus:
