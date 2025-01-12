@@ -6,8 +6,8 @@ title: 端口视角下的电力系统振荡分析方法综述
 
 ### 端口视角下的电力系统振荡分析
 
-> 《浙江电力》约稿论文 <br>
-> 更新时间：2024/11/18
+> [《浙江电力》约稿论文](https://kns.cnki.net/kcms2/article/abstract?v=uQDmaVEYwcw1g60FnokpgiUr-puZuUyBGRk88Fy1t_e-6t_44FUBLvSloI2cu19-Xo1Z4_qbEG5awb2lNnVgsIHr8KohcPjkayOxUeYCT-GiaboM4nyXGfYEEILgeACP8QwahDwgo5FZqGa4BFWUhUSfzv-8YJPe5wFuvQ8jgDUe2QdyD_20BFH82tk05eus&uniplatform=NZKPT&language=CHS) <br>
+> 更新时间：2025/1/12
 
 #### 研究背景
 - 状态空间和传递函数是描述系统动态特性的两个基本方法，前者虽然能够准确描述全部动态，但是依赖于系统完整参数的获得并面临维数灾的问题；后者考察两个物理量之间的传递函数关系，相当于指定了描述系统的一个端口，可通过测量端口物理量获得传递函数关系，工程应用上较为简便。

@@ -19,9 +19,13 @@ comments: true
 
 ### 学术分享
 
-### 2024
+### 2025
 
 - [<b><font size=4>端口视角下的电力系统振荡分析方法</font></b>](https://lezheng.org/news/port-review/)
+
+
+### 2024
+
 - [<b><font size=4>Koopman算符理论在新型电力系统分析与控制中的应用与挑战</font></b>](https://lezheng.org/news/koopman-review/)
 - [<b><font size=4>如何撰写科技论文</font></b>](https://lezheng.org/news/how-to-write-paper/)
 
