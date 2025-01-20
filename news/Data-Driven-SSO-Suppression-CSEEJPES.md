@@ -4,12 +4,11 @@ permalink: /news/Data-Driven-SSO-Suppression-CSEEJPES/index.html
 title: Data-Driven Subsynchronous Oscillation Suppression for Renewable Energy Integrated Power Systems Based on Koopman Operator
 ---
 
-## Data-Driven Subsynchronous Oscillation Suppression for Renewable Energy Integrated Power Systems Based on Koopman Operator
+### Data-Driven Subsynchronous Oscillation Suppression for Renewable Energy Integrated Power Systems Based on Koopman Operator
 
-> 我们的工作Data-Driven Subsynchronous Oscillation Suppression for Renewable Energy Integrated Power Systems Using Koopman Operator已经在CSEE Journal of Power and Energy Systems网络首发。
-> DOI: 10.17775/CSEEJPES.2024.04000
-> 原文链接：https://ieeexplore.ieee.org/document/10838276
-> 更新时间：2025/1/19
+> CSEE Journal of Power and Energy Systems网络首发。 <br>
+> DOI: [10.17775/CSEEJPES.2024.04000](https://ieeexplore.ieee.org/document/10838276) <br>
+> 更新时间：2025/1/19. <br>
 
 
 #### Highlights
