@@ -6,6 +6,12 @@ title: Publications
 
 > (†: corresponding author)
 
+### 2025
+- Zihan Wang, Gengyin Li, Ziyang Huang, Xiaonan Zhang, Yanhui Xu, **Le Zheng**†. Physics informed data-driven oscillation stabilization strategy for renewable-dominant power systems based on Koopman Operator. ***IEEE Transactions on Industry Applications***, Early Access, 2025. [DOI: 10.1109/TIA.2025.3529806](https://ieeexplore.ieee.org/document/10841951/).<br>
+
+- Zihan Wang, Ziyang Huang, Xiaonan Zhang, Gengyin Li, **Le Zheng**†. Data-driven subsynchronous oscillation suppression for renewable energy integrated power systems based on Koopman operator. ***CSEE Journal of Power and Energy Systems***, Early Access, 2025. [DOI: 10.17775/CSEEJPES.2024.04000](https://ieeexplore.ieee.org/document/10838276/).<br>
+
+
 ### 2024
 - **郑乐**, 郑佳杰, 阳岳希, 杜镇宇, 徐衍会†. 100%变流器接口电源电力系统的同调特性分析. **中国电机工程学报**, 网络首发, 2024. [DOI: 11.2107/TM.20240412.1451.007](https://kns.cnki.net/kcms2/article/abstract?v=sKJ9SXrFdEpj5mGdttToHA_B2HXCLmZ3RTThUXPzkE9EB75GIjfRlQdBcRRDk-2RuoXR0z-noGTIUIVPkjC_KnmuuFTY849f-zNr_0c2afWiCQ6daTRyRybDarRdjRFP8bkXXTZ2aqrp_LIxTeGy8hCp_KzeTSYDHc3Y-wCYK-8GbXoQxIBnOSWQBJi_WEs6&uniplatform=NZKPT&language=CHS/).<br>
 
