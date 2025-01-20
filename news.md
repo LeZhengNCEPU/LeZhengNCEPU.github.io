@@ -7,7 +7,7 @@ comments: true
 
 ### 最新动态
 
-- *January 2025:* 我们的工作[**Data-Driven Subsynchronous Oscillation Suppression for Renewable Energy Integrated Power Systems Based on Koopman Operator**](https://ieeexplore.ieee.org/document/10838276/)被《CSEE JPES》录用，已经可以在线阅读了，敬请大家批评指正。
+- *January 2025:* 我们的工作[**Data-Driven Subsynchronous Oscillation Suppression for Renewable Energy Integrated Power Systems Based on Koopman Operator**](https://ieeexplore.ieee.org/document/10838276/)被《CSEE Journal of Power and Energy Systems》录用，已经可以在线阅读了，敬请大家批评指正。
 - *November 2024:* 很高兴将参加 **[EI2 2024](https://attend.ieee.org/ei2-2024/panel-sessions/)** 并于11月30日做分论坛报告。 我们 **沈阳** 见！
 - *October 2024:* 我的研究生 **[郑佳杰](https://lezheng.org/students/#zhengjiajie)** 同学获得了2024年**研究生国家奖学金**！祝贺佳杰，希望在学术道路上继续勇攀高峰。
 - *September 2024:* 我们的工作 **Data-Driven Subsynchronous Oscillation Suppression for Renewable Energy Integrated Power Systems Using Koopman Operator** 已经被 *CSEE Journal of Power and Energy Systems*录用，很快将与大家见面。
