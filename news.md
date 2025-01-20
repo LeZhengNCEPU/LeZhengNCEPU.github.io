@@ -22,7 +22,7 @@ comments: true
 
 ### 2025
 
-- [<b><font size=4>Data-Driven-SSO-Suppression</font></b>](https://lezheng.org/news/Data-Driven-SSO-Suppression-CSEEJPES/)
+- [<b><font size=4>基于Koopman算符理论的次同步振荡响应驱动抑制</font></b>](https://lezheng.org/news/Data-Driven-SSO-Suppression-CSEEJPES/)
 - [<b><font size=4>端口视角下的电力系统振荡分析方法</font></b>](https://lezheng.org/news/port-review/)
 
 
