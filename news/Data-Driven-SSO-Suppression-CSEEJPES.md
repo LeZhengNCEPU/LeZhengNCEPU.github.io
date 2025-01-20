@@ -33,13 +33,13 @@ Recently, subsynchronous oscillations (SSOs) have emerged frequently worldwide, 
 Renewable power generation, renewable energy integrated power system, subsynchronous oscillation suppression, Koopman operator, linear parameter-varying.
 
 <center>
-<img src="/news/Data-Driven-SSO-Suppression-CSEEJPES.assets/CSEE1.png" width="50%" height="50%">
+<img src="/news/Data-Driven-SSO-Suppression-CSEEJPES.assets/CSEE1.png" width="80%" height="80%">
 </center>
 
 <center>
-<img src="/news/Data-Driven-SSO-Suppression-CSEEJPES.assets/CSEE2.png" width="50%" height="50%">
+<img src="/news/Data-Driven-SSO-Suppression-CSEEJPES.assets/CSEE2.png" width="80%" height="80%">
 </center>
 
 <center>
-<img src="/news/Data-Driven-SSO-Suppression-CSEEJPES.assets/CSEE3.png" width="50%" height="50%">
+<img src="/news/Data-Driven-SSO-Suppression-CSEEJPES.assets/CSEE3.png" width="80%" height="80%">
 </center>
