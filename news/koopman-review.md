@@ -6,8 +6,8 @@ title: Koopman算符理论在新型电力系统分析与控制中的应用与挑
 
 ### Koopman算符理论在新型电力系统分析与控制中的应用与挑战
 
-> 与清华大学沈沉教授、中国电科院徐式蕴教高联合成果， 已被《中国电机工程学报》录用 <br>
-> 更新时间：2024/11/12
+> 与清华大学沈沉教授、中国电科院徐式蕴教高联合成果，[《中国电机工程学报》](https://kns.cnki.net/kcms2/article/abstract?v=uQDmaVEYwcw1g60FnokpgiUr-puZuUyBGRk88Fy1t_e-6t_44FUBLvSloI2cu19-Xo1Z4_qbEG5awb2lNnVgsIHr8KohcPjkayOxUeYCT-GiaboM4nyXGfYEEILgeACP8QwahDwgo5FZqGa4BFWUhUSfzv-8YJPe5wFuvQ8jgDUe2QdyD_20BFH82tk05eus&uniplatform=NZKPT&language=CHS)已网络首发<br>
+> 更新时间：2025/2/20
 
 
 #### 研究背景

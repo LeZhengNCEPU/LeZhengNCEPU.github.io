@@ -7,12 +7,12 @@ comments: true
 
 ### 最新动态
 
-- *January 2025:* 我们的工作[**Data-Driven Subsynchronous Oscillation Suppression for Renewable Energy Integrated Power Systems Based on Koopman Operator**](https://ieeexplore.ieee.org/document/10838276/)被《CSEE Journal of Power and Energy Systems》录用，已经可以在线阅读了，敬请大家批评指正。
-- *November 2024:* 很高兴将参加 **[EI2 2024](https://attend.ieee.org/ei2-2024/panel-sessions/)** 并于11月30日做分论坛报告。 我们 **沈阳** 见！
+- *Feburary 2025:* 我们的工作 [**Koopman算符理论在新型电力系统分析与控制中的应用与挑战**](https://kns.cnki.net/kcms2/article/abstract?v=YHRUfPYi6NNxh8tFFrkZgEjVtJP0jcVbqHzx7AJ3NoTNHUGUZksdNDJ9blmzgKjyk18ttRPIv8FH94nvoJNHdY-e9pmHl2kROszzU62B1mcMaooBUjRlRZfKJfOI3dKaS-U7DwtIi7n43TEERgDRkIgNzYLloCz_vqEufn4rsjPHYYx5AcWrmzgCjW7RgTRo&uniplatform=NZKPT&language=CHS/)被《中国电机工程学报》录用，已经可以在线阅读了，敬请大家批评指正。
+- *Feburary 2025:* 我们的工作[**Small-Signal Synchronization Stability Enhancement of GFL-Based Renewable Energy Generation Using the Koopman Operator**](http://dx.doi.org/10.1049/rpg2.70014/)被*IET Renewable Power Generation*录用，已经可以在线阅读了，敬请大家批评指正。
+- *January 2025:* 我们的工作[**Physics Informed Data-Driven Oscillation Stabilization Strategy for Renewable-Dominant Power Systems Based on Koopman Operator**](https://ieeexplore.ieee.org/document/10841951/)被*IEEE Transactions on Industry Applications*录用，已经可以在线阅读了，敬请大家批评指正。
+- *January 2025:* 我们的工作[**Data-Driven Subsynchronous Oscillation Suppression for Renewable Energy Integrated Power Systems Based on Koopman Operator**](https://ieeexplore.ieee.org/document/10838276/)被*CSEE Journal of Power and Energy Systems*录用，已经可以在线阅读了，敬请大家批评指正。
 - *October 2024:* 我的研究生 **[郑佳杰](https://lezheng.org/students/#zhengjiajie)** 同学获得了2024年**研究生国家奖学金**！祝贺佳杰，希望在学术道路上继续勇攀高峰。
-- *September 2024:* 我们的工作 **Data-Driven Subsynchronous Oscillation Suppression for Renewable Energy Integrated Power Systems Using Koopman Operator** 已经被 *CSEE Journal of Power and Energy Systems*录用，很快将与大家见面。
-- *July 2024:* 我们的工作 **Koopman算符理论在新型电力系统分析与控制中的应用与挑战** 已经被《中国电机工程学报》录用，很快将与大家见面。
-- *June 2024:* 我们的工作[**面向电力系统暂态稳定性评估的深度学习模型智能增强方法研究**](https://kns.cnki.net/kcms2/article/abstract?v=sKJ9SXrFdEqSiT3UyVdpzr-zwqxijYDjqhFEDUO8CMRkUYrPHxbdzP2KBN3jd4qEnOqdyUwnUW_Ngymke6Ckri9cVDPVywOt-Eht0zomEpHtUZ_eRjRP4OlT-9aJ13rmdPUdyhqHCxMj10sVh0Iqd3WXZFokvtMs3kT2chj-m7VH47k0V1Nxo3AtL0oZc4VP&uniplatform=NZKPT&language=CHS/)被《电网技术》录用，已经可以在线阅读了，敬请大家批评指正。
+
 
 
 ---
