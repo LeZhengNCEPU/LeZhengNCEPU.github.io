@@ -11,7 +11,7 @@ title: Publications
 
 - Zihan Wang, Ziyang Huang, Xiaonan Zhang, Gengyin Li, **Le Zheng**†. Data-driven subsynchronous oscillation suppression for renewable energy integrated power systems based on Koopman operator. ***CSEE Journal of Power and Energy Systems***, Early Access, 2025. [DOI: 10.17775/CSEEJPES.2024.04000](https://ieeexplore.ieee.org/document/10838276/).<br>
 
-- **Le Zheng**, Jiajie Zheng, Xin Liu, Gengyin Li, Yanhui Xu†. Small-signal synchronization stability enhancement of GFL-based renewable energy generation using the Koopman Operator. ***IET Renewable Power Generation***, Early Access, 2025. [DOI: 10.1049/rpg2.70014](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/rpg2.70014/).<br>
+- **Le Zheng**, Jiajie Zheng, Xin Liu, Gengyin Li, Yanhui Xu†. Small-signal synchronization stability enhancement of GFL-based renewable energy generation using the Koopman Operator. ***IET Renewable Power Generation***, Early Access, 2025. [DOI: 10.1049/rpg2.70014](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/rpg2.70014).<br>
 
 - **郑乐**, 王子涵, 沈沉, 徐式蕴, 赵兵, 李庚银†. Koopman算符理论在新型电力系统分析与控制中的应用与挑战. **中国电机工程学报**, 网络首发, 2025. [DOI: 11.2107/TM.20250220.1347.008](https://link.cnki.net/urlid/11.2107.tm.20250220.1347.008/).<br>
 
