@@ -4,7 +4,7 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Update: 7th Oct. 2024
+> Update: 1st Mar. 2025
 
 ### 科研获奖
 
