@@ -15,7 +15,7 @@ title: Publications
 
 - **郑乐**, 王子涵, 沈沉, 徐式蕴, 赵兵, 李庚银†. Koopman算符理论在新型电力系统分析与控制中的应用与挑战. **中国电机工程学报**, 网络首发, 2025. [DOI: 11.2107/TM.20250220.1347.008](https://link.cnki.net/urlid/11.2107.tm.20250220.1347.008/).<br>
 
-- **郑乐**, 郑佳杰, 阳岳希, 杜镇宇, 徐衍会†. 100%变流器接口电源电力系统的同调特性分析. **中国电机工程学报**, vol. 45, no. 5, pp. 1658-1668. [DOI: 10.13334/j.0258-8013.pcsee.231674](https://kns.cnki.net/kcms2/article/abstract?v=bYx4kmIyqoWK-3v-7UkZJ_DkeiIUdcpTQUL2-cXAFwJnKGLyffxT2MA3M7kYfsSr7ySCXPit6XD0SwOl_VorDASVRggsfHOLdIdmwwbkUJoUnO1PlG4fI7v4YifyuTHkLJo6a1Gomv8mjjPRZxgQFYLnlOZPvdkAe9_QtZ34czT1QMsSLhjU_DwE1C14aDAG&uniplatform=NZKPT&language=CHS).<br>
+- **郑乐**, 郑佳杰, 阳岳希, 杜镇宇, 徐衍会†. 100%变流器接口电源电力系统的同调特性分析. **中国电机工程学报**, vol. 45, no. 5, pp. 1658-1668, 2025. [DOI: 10.13334/j.0258-8013.pcsee.231674](https://kns.cnki.net/kcms2/article/abstract?v=bYx4kmIyqoWK-3v-7UkZJ_DkeiIUdcpTQUL2-cXAFwJnKGLyffxT2MA3M7kYfsSr7ySCXPit6XD0SwOl_VorDASVRggsfHOLdIdmwwbkUJoUnO1PlG4fI7v4YifyuTHkLJo6a1Gomv8mjjPRZxgQFYLnlOZPvdkAe9_QtZ34czT1QMsSLhjU_DwE1C14aDAG&uniplatform=NZKPT&language=CHS).<br>
 
 
 ### 2024
