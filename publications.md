@@ -15,9 +15,10 @@ title: Publications
 
 - **郑乐**, 王子涵, 沈沉, 徐式蕴, 赵兵, 李庚银†. Koopman算符理论在新型电力系统分析与控制中的应用与挑战. **中国电机工程学报**, 网络首发, 2025. [DOI: 11.2107/TM.20250220.1347.008](https://link.cnki.net/urlid/11.2107.tm.20250220.1347.008/).<br>
 
-### 2024
-- **郑乐**, 郑佳杰, 阳岳希, 杜镇宇, 徐衍会†. 100%变流器接口电源电力系统的同调特性分析. **中国电机工程学报**, 网络首发, 2024. [DOI: 11.2107/TM.20240412.1451.007](https://kns.cnki.net/kcms2/article/abstract?v=sKJ9SXrFdEpj5mGdttToHA_B2HXCLmZ3RTThUXPzkE9EB75GIjfRlQdBcRRDk-2RuoXR0z-noGTIUIVPkjC_KnmuuFTY849f-zNr_0c2afWiCQ6daTRyRybDarRdjRFP8bkXXTZ2aqrp_LIxTeGy8hCp_KzeTSYDHc3Y-wCYK-8GbXoQxIBnOSWQBJi_WEs6&uniplatform=NZKPT&language=CHS/).<br>
+- **郑乐**, 郑佳杰, 阳岳希, 杜镇宇, 徐衍会†. 100%变流器接口电源电力系统的同调特性分析. **中国电机工程学报**, vol. 45, no. 5, pp. 1658-1668. [DOI: 10.13334/j.0258-8013.pcsee.231674](https://kns.cnki.net/kcms2/article/abstract?v=bYx4kmIyqoWK-3v-7UkZJ_DkeiIUdcpTQUL2-cXAFwJnKGLyffxT2MA3M7kYfsSr7ySCXPit6XD0SwOl_VorDASVRggsfHOLdIdmwwbkUJoUnO1PlG4fI7v4YifyuTHkLJo6a1Gomv8mjjPRZxgQFYLnlOZPvdkAe9_QtZ34czT1QMsSLhjU_DwE1C14aDAG&uniplatform=NZKPT&language=CHS).<br>
 
+
+### 2024
 - **郑乐**†, 刘思远, 周小添, 徐式蕴, 李宗翰, 李庚银. 面向电力系统暂态稳定性评估的深度学习模型智能增强方法研究. **电网技术**, 网络首发, 2024. [DOI: 10.13335/j.1000-3673.pst.2024.0767](https://kns.cnki.net/kcms2/article/abstract?v=sKJ9SXrFdEpPyWSw8yMzVObDguqHirE4wCYUGFdOLzUzi21X_dsJIkN8yUYlzxkaKJQMPwd4Fdrr8JS4_X_DcrFulLxg3kqgE-NmP-k5B3tdEbiiEqRbmnn-Pb3qlufBv7BOUzX1UGc3P0CHI9ZSidisxcjq8m6xncDpVEiGm1QN0cY_12IS79Vo_njlF2C_&uniplatform=NZKPT&language=CHS/).<br>
 
 - Yanhui Xu, Yundan Cheng, **Le Zheng**†, Hui Liu. A criterion for oscillation source localization with IBRs based on sub-synchronous frequency component of instantaneous power. ***IEEE Transactions on Power Systems***, vol. 39, no. 6, pp. 7346-7358, 2024. [DOI: 10.1109/TPWRS.2024.3369086](https://ieeexplore.ieee.org/document/10444031/).<br>
