@@ -7,7 +7,7 @@ title: Publications
 > (†: corresponding author)
 
 ### 2025
-- Zihan Wang, Gengyin Li, Ziyang Huang, Xiaonan Zhang, Yanhui Xu, **Le Zheng**†. Physics informed data-driven oscillation stabilization strategy for renewable-dominant power systems based on Koopman Operator. ***IEEE Transactions on Industry Applications***, Early Access, 2025. [DOI: 10.1109/TIA.2025.3529806](https://ieeexplore.ieee.org/document/10841951/).<br>
+- Zihan Wang, Gengyin Li, Ziyang Huang, Xiaonan Zhang, Yanhui Xu, **Le Zheng**†. Physics informed data-driven oscillation stabilization strategy for renewable-dominant power systems based on Koopman Operator. ***IEEE Transactions on Industry Applications***, vol. 61, no. 2, pp. 2632-2645, 2025. [DOI: 10.1109/TIA.2025.3529806](https://ieeexplore.ieee.org/document/10841951/).<br>
 
 - Zihan Wang, Ziyang Huang, Xiaonan Zhang, Gengyin Li, **Le Zheng**†. Data-driven subsynchronous oscillation suppression for renewable energy integrated power systems based on Koopman operator. ***CSEE Journal of Power and Energy Systems***, Early Access, 2025. [DOI: 10.17775/CSEEJPES.2024.04000](https://ieeexplore.ieee.org/document/10838276/).<br>
 
@@ -18,6 +18,7 @@ title: Publications
 - **郑乐**†, 郑佳杰. 构网型逆变器内部动态的扩展阻抗模态分析. **电工技术学报**, vol. 40, no. 9, pp. 2712-2723+2737, 2025. [DOI: 10.19595/j.cnki.1000-6753.tces.242266](https://kns.cnki.net/kcms2/article/abstract?v=QdSmbJTBmqxPHKhw1YgrY27sBezER7kUggJJ18LzSof9K-vHQweDcQB4F_wKoT1JbSfG0kc162LDdBHuqsbwKbkeRvR3wudgGXOaO8tU6ASmIIizIfvaLuuBkhcUEDL9QLVHi2Y5Gcr65ZzypQf9IbvPTZ_dyAyqXXBx81Nptw1DY6AUaQf0Wg==&uniplatform=NZKPT&language=CHS).<br>
 
 - **郑乐**, 王子涵, 沈沉, 徐式蕴, 赵兵, 李庚银†. Koopman算符理论在新型电力系统分析与控制中的应用与挑战. **中国电机工程学报**, 网络首发, 2025. [DOI: 11.2107/TM.20250220.1347.008](https://link.cnki.net/urlid/11.2107.tm.20250220.1347.008/).<br>
+
 
 ### 2024
 - **郑乐**, 郑佳杰, 阳岳希, 杜镇宇, 徐衍会†. 100%变流器接口电源电力系统的同调特性分析. **中国电机工程学报**, vol. 45, no. 5, pp. 1658-1668, 2025. [DOI: 10.13334/j.0258-8013.pcsee.231674](https://kns.cnki.net/kcms2/article/abstract?v=QdSmbJTBmqy6oBaqFXWKURcNmN-FBrERmkMjD8xO6Txf1tQ-ipjA-xoxI5ATcn8NxCgQtkpVRqgIA20Uz0Ay9ZTR36SuhTjfgo24ZfM2lB3r6vWIauFcbBsA8HmZJGNbRRgE9Z6MhL0z5GNrtEWfv3UcOoPV2pB2ZdjkxggDtwaLVO89zSpEfQ==&uniplatform=NZKPT&language=CHS).<br>
