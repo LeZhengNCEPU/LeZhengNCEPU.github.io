@@ -7,7 +7,7 @@ comments: true
 
 ### 最新动态
 
-- *May 2025:* 我们的工作 [**Modal analysis of power system with high IBR penetration based on impedance models**](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/gtd2.70059/)被*IET Generation, Transmission & Distribution*录用，已经可以在线阅读了，敬请大家批评指正。
+- *May 2025:* 我们的工作 [**Modal analysis of power system with high IBR penetration based on impedance models**](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/gtd2.70059/)被*IET Generation, Transmission & Distribution*录用，已经可以在线阅读了，敬请大家批评指正。
 - *Feburary 2025:* 我们的工作 [**Koopman算符理论在新型电力系统分析与控制中的应用与挑战**](https://kns.cnki.net/kcms2/article/abstract?v=YHRUfPYi6NNxh8tFFrkZgEjVtJP0jcVbqHzx7AJ3NoTNHUGUZksdNDJ9blmzgKjyk18ttRPIv8FH94nvoJNHdY-e9pmHl2kROszzU62B1mcMaooBUjRlRZfKJfOI3dKaS-U7DwtIi7n43TEERgDRkIgNzYLloCz_vqEufn4rsjPHYYx5AcWrmzgCjW7RgTRo&uniplatform=NZKPT&language=CHS/)被《中国电机工程学报》录用，已经可以在线阅读了，敬请大家批评指正。
 - *Feburary 2025:* 我们的工作[**Small-Signal Synchronization Stability Enhancement of GFL-Based Renewable Energy Generation Using the Koopman Operator**](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/rpg2.70014/)被*IET Renewable Power Generation*录用，已经可以在线阅读了，敬请大家批评指正。
 - *January 2025:* 我们的工作[**Physics Informed Data-Driven Oscillation Stabilization Strategy for Renewable-Dominant Power Systems Based on Koopman Operator**](https://ieeexplore.ieee.org/document/10841951/)被*IEEE Transactions on Industry Applications*录用，已经可以在线阅读了，敬请大家批评指正。

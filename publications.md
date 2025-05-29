@@ -11,7 +11,7 @@ title: Publications
 
 - Zihan Wang, Ziyang Huang, Xiaonan Zhang, Gengyin Li, **Le Zheng**†. Data-driven subsynchronous oscillation suppression for renewable energy integrated power systems based on Koopman operator. ***CSEE Journal of Power and Energy Systems***, Early Access, 2025. [DOI: 10.17775/CSEEJPES.2024.04000](https://ieeexplore.ieee.org/document/10838276/).<br>
 
-- **Le Zheng**, Jiajie Zheng, Jiajian Lin, Hui Xu, Chongru Liu†. Modal analysis of power system with high IBR penetration based on impedance models. ***IET Generation, Transmission & Distribution***, vol. 19, no. 1, e70059, 2025. [DOI: 10.1049/gtd2.70059](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/gtd2.70059).<br>
+- **Le Zheng**, Jiajie Zheng, Jiajian Lin, Hui Xu, Chongru Liu†. Modal analysis of power system with high IBR penetration based on impedance models. ***IET Generation, Transmission & Distribution***, vol. 19, no. 1, e70059, 2025. [DOI: 10.1049/gtd2.70059](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/gtd2.70059).<br>
 
 - **Le Zheng**, Jiajie Zheng, Xin Liu, Gengyin Li, Yanhui Xu†. Small-signal synchronization stability enhancement of GFL-based renewable energy generation using the Koopman Operator. ***IET Renewable Power Generation***, vol. 19, no. 1, e70014, 2025. [DOI: 10.1049/rpg2.70014](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/rpg2.70014).<br>
 
