@@ -11,12 +11,16 @@ title: Publications
 
 - Zihan Wang, Ziyang Huang, Xiaonan Zhang, Gengyin Li, **Le Zheng**†. Data-driven subsynchronous oscillation suppression for renewable energy integrated power systems based on Koopman operator. ***CSEE Journal of Power and Energy Systems***, Early Access, 2025. [DOI: 10.17775/CSEEJPES.2024.04000](https://ieeexplore.ieee.org/document/10838276/).<br>
 
-- **Le Zheng**, Jiajie Zheng, Xin Liu, Gengyin Li, Yanhui Xu†. Small-signal synchronization stability enhancement of GFL-based renewable energy generation using the Koopman Operator. ***IET Renewable Power Generation***, Early Access, 2025. [DOI: 10.1049/rpg2.70014](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/rpg2.70014).<br>
+- **Le Zheng**, Jiajie Zheng, Jiajian Lin, Hui Xu, Chongru Liu†. Modal analysis of power system with high IBR penetration based on impedance models. ***IET Generation, Transmission & Distribution***, vol. 19, no. 1, e70059, 2025. [DOI: 10.1049/gtd2.70059](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/gtd2.70059).<br>
+
+- **Le Zheng**, Jiajie Zheng, Xin Liu, Gengyin Li, Yanhui Xu†. Small-signal synchronization stability enhancement of GFL-based renewable energy generation using the Koopman Operator. ***IET Renewable Power Generation***, vol. 19, no. 1, e70014, 2025. [DOI: 10.1049/rpg2.70014](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/rpg2.70014).<br>
+
+- **郑乐**†, 郑佳杰. 构网型逆变器内部动态的扩展阻抗模态分析. **电工技术学报**, vol. 40, no. 9, pp. 2712-2723+2737, 2025. [DOI: 10.19595/j.cnki.1000-6753.tces.242266](https://kns.cnki.net/kcms2/article/abstract?v=QdSmbJTBmqxPHKhw1YgrY27sBezER7kUggJJ18LzSof9K-vHQweDcQB4F_wKoT1JbSfG0kc162LDdBHuqsbwKbkeRvR3wudgGXOaO8tU6ASmIIizIfvaLuuBkhcUEDL9QLVHi2Y5Gcr65ZzypQf9IbvPTZ_dyAyqXXBx81Nptw1DY6AUaQf0Wg==&uniplatform=NZKPT&language=CHS).<br>
 
 - **郑乐**, 王子涵, 沈沉, 徐式蕴, 赵兵, 李庚银†. Koopman算符理论在新型电力系统分析与控制中的应用与挑战. **中国电机工程学报**, 网络首发, 2025. [DOI: 11.2107/TM.20250220.1347.008](https://link.cnki.net/urlid/11.2107.tm.20250220.1347.008/).<br>
 
 ### 2024
-- **郑乐**, 郑佳杰, 阳岳希, 杜镇宇, 徐衍会†. 100%变流器接口电源电力系统的同调特性分析. **中国电机工程学报**, 网络首发, 2024. [DOI: 11.2107/TM.20240412.1451.007](https://kns.cnki.net/kcms2/article/abstract?v=sKJ9SXrFdEpj5mGdttToHA_B2HXCLmZ3RTThUXPzkE9EB75GIjfRlQdBcRRDk-2RuoXR0z-noGTIUIVPkjC_KnmuuFTY849f-zNr_0c2afWiCQ6daTRyRybDarRdjRFP8bkXXTZ2aqrp_LIxTeGy8hCp_KzeTSYDHc3Y-wCYK-8GbXoQxIBnOSWQBJi_WEs6&uniplatform=NZKPT&language=CHS/).<br>
+- **郑乐**, 郑佳杰, 阳岳希, 杜镇宇, 徐衍会†. 100%变流器接口电源电力系统的同调特性分析. **中国电机工程学报**, vol. 45, no. 5, pp. 1658-1668, 2025. [DOI: 10.13334/j.0258-8013.pcsee.231674](https://kns.cnki.net/kcms2/article/abstract?v=QdSmbJTBmqy6oBaqFXWKURcNmN-FBrERmkMjD8xO6Txf1tQ-ipjA-xoxI5ATcn8NxCgQtkpVRqgIA20Uz0Ay9ZTR36SuhTjfgo24ZfM2lB3r6vWIauFcbBsA8HmZJGNbRRgE9Z6MhL0z5GNrtEWfv3UcOoPV2pB2ZdjkxggDtwaLVO89zSpEfQ==&uniplatform=NZKPT&language=CHS).<br>
 
 - **郑乐**†, 刘思远, 周小添, 徐式蕴, 李宗翰, 李庚银. 面向电力系统暂态稳定性评估的深度学习模型智能增强方法研究. **电网技术**, 网络首发, 2024. [DOI: 10.13335/j.1000-3673.pst.2024.0767](https://kns.cnki.net/kcms2/article/abstract?v=sKJ9SXrFdEpPyWSw8yMzVObDguqHirE4wCYUGFdOLzUzi21X_dsJIkN8yUYlzxkaKJQMPwd4Fdrr8JS4_X_DcrFulLxg3kqgE-NmP-k5B3tdEbiiEqRbmnn-Pb3qlufBv7BOUzX1UGc3P0CHI9ZSidisxcjq8m6xncDpVEiGm1QN0cY_12IS79Vo_njlF2C_&uniplatform=NZKPT&language=CHS/).<br>
 
