@@ -15,28 +15,28 @@ title: Students and Alumni
 ### 2025届
 
 > **周小添**：硕士（2022-2025）
-<img src="/images/alumni/zhouxiaotian2.JPG" width="120" height="120">
+<img src="/images/alumni/zhouxiaotian2.jpg" width="120" height="120">
 
 - 研究生期间获一等奖学金、优秀研究生称号
 - 硕士论文：基于混合增强智能的新能源电力系统调度策略研究
 - 现就职于**国网北京电力检修公司**
 
 > **刘思远**：硕士（2022-2025）
-<img src="/images/alumni/liusiyuan2.JPG" width="120" height="120">
+<img src="/images/alumni/liusiyuan2.jpg" width="120" height="120">
 
 - 研究生期间获一等奖学金
 - 硕士论文：基于深度学习模型修复的电力系统暂态稳定评估
 - 现就职于**国网吉林省电力长春供电公司**
 
 > **葛一琳**：硕士（2022-2025）
-<img src="/images/alumni/geyilin2.JPG" width="120" height="120">
+<img src="/images/alumni/geyilin2.jpg" width="120" height="120">
 
 - 研究生期间获一等奖学金、优秀研究生称号
 - 硕士论文：面向新能源场站暂态过电压抑制的调相机优化配置与控制方法研究
 - 现就职于**国网上海电力公司**
 
 > **易雨纯**：硕士（2022-2025）
-<img src="/images/alumni/yiyuchun2.JPG" width="120" height="120">
+<img src="/images/alumni/yiyuchun2.png" width="120" height="120">
 
 - 研究生期间获二等奖学金，电气学院双百班骨干
 - 硕士论文：考虑实时多场站短路比的新能源有功调度方法研究
