@@ -12,34 +12,6 @@ title: Students
 
 <br>
 
-### 2022级
-
-> **葛一琳**：硕士研究生（2022年至今）
-<img src="/images/alumni/geyilin.jpg" width="120" height="120">
-
-- 获2023校级一等奖学金
-- 研究方向：大规模新能源集群无功控制
-
-> **刘思远**：硕士研究生（2022年至今）
-<img src="/images/alumni/liusiyuan.jpg" width="120" height="120">
-
-- 获2024校级一等奖学金
-- 研究方向：人工智能在电力系统安全稳定分析中的应用
-
-> **易雨纯**：硕士研究生（2022年至今）
-<img src="/images/alumni/yiyuchun.jpg" width="120" height="120">
-
-- 获2023校级二等奖学金
-- 研究方向：大规模新能源集群有功控制
-
-> **周小添**：硕士研究生（2022年至今）
-<img src="/images/alumni/zhouxiaotian.jpg" width="120" height="120">
-
-- 获2023、2024校级一等奖学金，2024校级优秀团员，2023校级优秀先进个人
-- 研究方向：人工智能在电力系统安全调度中的应用
-
-<br>
-
 ### 2023级
 
 > **林家见**：硕士研究生（2023年至今）
@@ -84,6 +56,33 @@ title: Students
 <img src="/images/alumni/zhanglongfei.jpg" width="120" height="120">
 
 - 研究方向：新型电力系统经济调度
+
+<br>
+
+### 2025级
+
+> **胡子轩**：硕士研究生（2025年至今）
+<img src="/images/alumni/geyilin.jpg" width="120" height="120">
+
+- 研究方向：人工智能在电力系统安全稳定分析中的应用
+
+> **史子怡**：硕士研究生（2025年至今）
+<img src="/images/alumni/liusiyuan.jpg" width="120" height="120">
+
+- 研究方向：人工智能在电力系统安全调度中的应用
+
+> **王轩**：硕士研究生（2025年至今）
+<img src="/images/alumni/yiyuchun.jpg" width="120" height="120">
+
+- 研究方向：人工智能在电力系统安全调度中的应用
+
+> **许烨**：硕士研究生（2025年至今）
+<img src="/images/alumni/zhouxiaotian.jpg" width="120" height="120">
+
+- 研究方向：新能源电力系统有功频率控制
+
+<br>
+
 
 ---
 
