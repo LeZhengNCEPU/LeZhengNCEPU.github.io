@@ -62,7 +62,7 @@ title: Students
 ### 2025级
 
 > **胡子轩**：硕士研究生（2025年至今）
-<img src="/images/alumni/geyilin.jpg" width="120" height="120">
+<img src="/images/alumni/huzixuan1.jpg" width="120" height="120">
 
 - 研究方向：人工智能在电力系统安全稳定分析中的应用
 
