@@ -67,17 +67,17 @@ title: Students
 - 研究方向：人工智能在电力系统安全稳定分析中的应用
 
 > **史子怡**：硕士研究生（2025年至今）
-<img src="/images/alumni/liusiyuan.jpg" width="120" height="120">
+<img src="/images/alumni/shiziyi1.jpg" width="120" height="120">
 
 - 研究方向：人工智能在电力系统安全调度中的应用
 
 > **王轩**：硕士研究生（2025年至今）
-<img src="/images/alumni/yiyuchun.jpg" width="120" height="120">
+<img src="/images/alumni/wangxuan1.jpg" width="120" height="120">
 
 - 研究方向：人工智能在电力系统安全调度中的应用
 
 > **许烨**：硕士研究生（2025年至今）
-<img src="/images/alumni/zhouxiaotian.jpg" width="120" height="120">
+<img src="/images/alumni/xuye1.jpg" width="120" height="120">
 
 - 研究方向：新能源电力系统有功频率控制
 
