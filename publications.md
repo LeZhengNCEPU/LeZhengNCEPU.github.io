@@ -17,6 +17,8 @@ title: Publications
 
 - **郑乐**†, 郑佳杰. 构网型逆变器内部动态的扩展阻抗模态分析. **电工技术学报**, vol. 40, no. 9, pp. 2712-2723+2737, 2025. [DOI: 10.19595/j.cnki.1000-6753.tces.242266](https://kns.cnki.net/kcms2/article/abstract?v=QdSmbJTBmqxPHKhw1YgrY27sBezER7kUggJJ18LzSof9K-vHQweDcQB4F_wKoT1JbSfG0kc162LDdBHuqsbwKbkeRvR3wudgGXOaO8tU6ASmIIizIfvaLuuBkhcUEDL9QLVHi2Y5Gcr65ZzypQf9IbvPTZ_dyAyqXXBx81Nptw1DY6AUaQf0Wg==&uniplatform=NZKPT&language=CHS).<br>
 
+- **郑乐**†, 梁以宁†. 端口视角下的电力系统振荡分析方法综述. **浙江电力**, vol. 44, no. 1, pp. 1-14, 2025. [DOI: 10.19585/j.zjdl.202501001](https://kns.cnki.net/kcms2/article/abstract?v=5q1osi_AJOQOt-vTUiX-KfhO6cB0MBtACMSmM0Jfyp6OfuDU4m6jCIH3i4naII7UWxPKABnVhCQUDBTliWXR6FrYNGi6fwmiExXkbnaOfW7vdZkgOLGwJnqQzK4hRwLnKCQrLZoGt41pHRF5QE6uNqgefz4hBarc7B3dnmPfol9vuyah03W1sg==&uniplatform=NZKPT&language=CHS).<br>
+
 - **郑乐**, 王子涵, 沈沉, 徐式蕴, 赵兵, 李庚银†. Koopman算符理论在新型电力系统分析与控制中的应用与挑战. **中国电机工程学报**, 网络首发, 2025. [DOI: 11.2107/TM.20250220.1347.008](https://link.cnki.net/urlid/11.2107.tm.20250220.1347.008/).<br>
 
 
