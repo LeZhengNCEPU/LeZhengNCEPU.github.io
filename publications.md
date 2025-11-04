@@ -15,9 +15,17 @@ title: Publications
 
 - **Le Zheng**, Jiajie Zheng, Xin Liu, Gengyin Li, Yanhui Xu†. Small-signal synchronization stability enhancement of GFL-based renewable energy generation using the Koopman Operator. ***IET Renewable Power Generation***, vol. 19, no. 1, e70014, 2025. [DOI: 10.1049/rpg2.70014](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/rpg2.70014).<br>
 
+- 吴林林, 邓晓洋, 郑佳杰, 梁以宁, **郑乐**†. 基于导纳稳定容量的新能源并网强度评估. **电力系统自动化**, vol. 49, no. 13, pp. 43-51, 2025. [DOI: 10.7500/AEPS20241028001](https://kns.cnki.net/kcms2/article/abstract?v=2yANmoQUOTOTShF7gp2kl56eNmsMgAe8EhO8EAqzTzNFeR16r65DxRNcIMJ_SfFdO-cYN4-_PXYomfNfkYzReRP6ANX4doZhStaABQJf0DTeVu0s4Z1I-PAKILrJZ2iefiHpqjEHxWRJ3YllNfA65ikm62Se3Uw0ffqTGZYdQ1UzGmJee25wHg==&uniplatform=NZKPT&language=CHS).<br>
+
+- 郑佳杰, **郑乐**†, 林家见, 徐辉, 刘崇茹. 基于扩展阻抗模态分析的逆变器频率支撑强度量化评估 . **电工技术学报**, 网络首发, 2025. [DOI: 10.19595/j.cnki.1000-6753.tces.250740](https://kns.cnki.net/kcms2/article/abstract?v=2yANmoQUOTOIg44e9VkY6Q8J8qZx1FeViBVsj1M08WxZ9TH5LO5-NTl7-Duzz-1THaiX1qLygo0CfzypxRdauAa7GO-fB6u5c2_qGgAiLXuwa7QwWrCy4bZcWiprxZVH7lZdcj-5bB2quewcyWvsX-X6Sr2bp6mdBFEze4uOcrYxiNIbMiyivg==&uniplatform=NZKPT&language=CHS).<br>
+
 - **郑乐**†, 郑佳杰. 构网型逆变器内部动态的扩展阻抗模态分析. **电工技术学报**, vol. 40, no. 9, pp. 2712-2723+2737, 2025. [DOI: 10.19595/j.cnki.1000-6753.tces.242266](https://kns.cnki.net/kcms2/article/abstract?v=QdSmbJTBmqxPHKhw1YgrY27sBezER7kUggJJ18LzSof9K-vHQweDcQB4F_wKoT1JbSfG0kc162LDdBHuqsbwKbkeRvR3wudgGXOaO8tU6ASmIIizIfvaLuuBkhcUEDL9QLVHi2Y5Gcr65ZzypQf9IbvPTZ_dyAyqXXBx81Nptw1DY6AUaQf0Wg==&uniplatform=NZKPT&language=CHS).<br>
 
-- **郑乐**†, 梁以宁†. 端口视角下的电力系统振荡分析方法综述. **浙江电力**, vol. 44, no. 1, pp. 1-14, 2025. [DOI: 10.19585/j.zjdl.202501001](https://kns.cnki.net/kcms2/article/abstract?v=5q1osi_AJOQOt-vTUiX-KfhO6cB0MBtACMSmM0Jfyp6OfuDU4m6jCIH3i4naII7UWxPKABnVhCQUDBTliWXR6FrYNGi6fwmiExXkbnaOfW7vdZkgOLGwJnqQzK4hRwLnKCQrLZoGt41pHRF5QE6uNqgefz4hBarc7B3dnmPfol9vuyah03W1sg==&uniplatform=NZKPT&language=CHS).<br>
+- 林家见, 徐曼, 吴林林. 易雨纯, **郑乐**†. 考虑多场站短路比约束的新能源电力系统经济安全调度方法. **浙江电力**, vol. 44, no. 9, pp. 1-12, 2025. [DOI: 10.19585/j.zjdl.202509001](https://kns.cnki.net/kcms2/article/abstract?v=2yANmoQUOTOIg44e9VkY6Q8J8qZx1FeVN--wmjeiYwl66VHmVW72TVTWTAkX5s5-k4Cf6_w8XLD9asfqC-qVN-sDQx62nuivcwUzL5z_bT3wyjcNc-sLO9Tp-lLTBiEM2PRVcbjgb64aVivhblveEgV6wS15vf2MKn_DhkFFTT62nWNirlMyYg==&uniplatform=NZKPT&language=CHS).<br>
+
+- **郑乐**, 梁以宁†. 端口视角下的电力系统振荡分析方法综述. **浙江电力**, vol. 44, no. 1, pp. 1-14, 2025. [DOI: 10.19585/j.zjdl.202501001](https://kns.cnki.net/kcms2/article/abstract?v=5q1osi_AJOQOt-vTUiX-KfhO6cB0MBtACMSmM0Jfyp6OfuDU4m6jCIH3i4naII7UWxPKABnVhCQUDBTliWXR6FrYNGi6fwmiExXkbnaOfW7vdZkgOLGwJnqQzK4hRwLnKCQrLZoGt41pHRF5QE6uNqgefz4hBarc7B3dnmPfol9vuyah03W1sg==&uniplatform=NZKPT&language=CHS).<br>
+
+- 付晓颜, **郑乐**†. 考虑安稳风险成本的可再生能源发电优化调度算法. **太阳能学报**, 网络首发, 2025. [DOI: 10.19912/j.0254-0096.tynxb.2025-0487](https://kns.cnki.net/kcms2/article/abstract?v=2yANmoQUOTOIg44e9VkY6Q8J8qZx1FeViBVsj1M08Wx8nSI0CS3BWK4K7azVWHReiChrxpgUe4Erc__mOa2fJr0sZghnf-dq5pDFz4TleABtRDKTNrcgRc90CZRnH0ldeOCRznSx0TWsGEaqKkgI2YsSMQTQJcTg8wzk0JhGsDJNvGgYEBBr4g==&uniplatform=NZKPT&language=CHS).<br>
 
 - **郑乐**, 王子涵, 沈沉, 徐式蕴, 赵兵, 李庚银†. Koopman算符理论在新型电力系统分析与控制中的应用与挑战. **中国电机工程学报**, vol. 45, no. 15, pp. 5881-5902, 2025. [DOI: 11.2107/TM.20250220.1347.008](https://kns.cnki.net/kcms2/article/abstract?v=2yANmoQUOTOxE-DrDlGdOi87A7bq2xvUofx2KDwWdUuRYm3VaWXw9zlj-y7457IQdSl8X5Sn6aRA_Kl3pXEwhWkRaI2pDCtkDhLTxti69Rfot2z2SEGI3ggJgcdOl0tF23JyvxX2NYkDS2wwfQWbtSpK8DmAa8nEOMHbrsodgH2F3HQZny7HaA==&uniplatform=NZKPT&language=CHS).<br>
 
