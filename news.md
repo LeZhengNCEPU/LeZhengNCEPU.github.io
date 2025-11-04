@@ -7,7 +7,7 @@ comments: true
 
 ### 最新动态
 
-- *Oct 2025:* 郑佳杰、梁以宁两位同学获得了研究生国家奖学金，祝贺他们！
+- *Oct 2025:* 郑佳杰、梁以宁两位同学获得了**研究生国家奖学金**，祝贺他们！
 - *August 2025:* 我们的工作 [**考虑安稳风险成本的可再生能源发电优化调度算法**](https://kns.cnki.net/kcms2/article/abstract?v=2yANmoQUOTOIg44e9VkY6Q8J8qZx1FeViBVsj1M08Wx8nSI0CS3BWK4K7azVWHReiChrxpgUe4Erc__mOa2fJr0sZghnf-dq5pDFz4TleABtRDKTNrcgRc90CZRnH0ldeOCRznSx0TWsGEaqKkgI2YsSMQTQJcTg8wzk0JhGsDJNvGgYEBBr4g==&uniplatform=NZKPT&language=CHS)被《太阳能学报》录用，已经可以在线阅读了，敬请大家批评指正。
 - *July 2025:* 我们的工作 [**基于扩展阻抗模态分析的逆变器频率支撑强度量化评估**](https://kns.cnki.net/kcms2/article/abstract?v=2yANmoQUOTOIg44e9VkY6Q8J8qZx1FeViBVsj1M08WxZ9TH5LO5-NTl7-Duzz-1THaiX1qLygo0CfzypxRdauAa7GO-fB6u5c2_qGgAiLXuwa7QwWrCy4bZcWiprxZVH7lZdcj-5bB2quewcyWvsX-X6Sr2bp6mdBFEze4uOcrYxiNIbMiyivg==&uniplatform=NZKPT&language=CHS)被《电工技术学报》录用，已经可以在线阅读了，敬请大家批评指正。
 - *June 2025:* 我们的工作 [**考虑多场站短路比约束的新能源电力系统经济安全调度方法**](https://kns.cnki.net/kcms2/article/abstract?v=2yANmoQUOTOIg44e9VkY6Q8J8qZx1FeVN--wmjeiYwl66VHmVW72TVTWTAkX5s5-k4Cf6_w8XLD9asfqC-qVN-sDQx62nuivcwUzL5z_bT3wyjcNc-sLO9Tp-lLTBiEM2PRVcbjgb64aVivhblveEgV6wS15vf2MKn_DhkFFTT62nWNirlMyYg==&uniplatform=NZKPT&language=CHS)被《浙江电力》录用，已经在线发表了，敬请大家批评指正。
