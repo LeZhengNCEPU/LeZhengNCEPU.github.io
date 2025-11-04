@@ -14,9 +14,9 @@ title: Students
 
 ### 2023级
 
-<div style="display: flex; align-items: flex-start;">
-  <img src="/images/alumni/linjiajian.jpg" width="120" height="120" style="margin-right: 15px;">
-  <div>
+<div class="student-card">
+  <img src="/images/alumni/linjiajian.jpg" class="student-photo">
+  <div class="student-info">
     <b>林家见</b>：硕士研究生（2023年至今）<br><br>
     ▪ 获2024校级二等奖学金<br>
     ▪ 研究方向：人工智能在电力系统安全调度中的应用
