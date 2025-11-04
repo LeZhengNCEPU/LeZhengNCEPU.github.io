@@ -14,18 +14,15 @@ title: Students
 
 ### 2023级
 
-<table>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="/images/alumni/linjiajian.jpg" width="120" height="120">
-    </td>
-    <td style="vertical-align: top; padding-left: 15px;">
-      <b>林家见</b>：硕士研究生（2023年至今）<br><br>
-      ▪ 获2024校级二等奖学金<br>
-      ▪ 研究方向：人工智能在电力系统安全调度中的应用
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: flex-start;">
+  <img src="/images/alumni/linjiajian.jpg" width="120" height="120" style="margin-right: 15px;">
+  <div>
+    <b>林家见</b>：硕士研究生（2023年至今）<br><br>
+    ▪ 获2024校级二等奖学金<br>
+    ▪ 研究方向：人工智能在电力系统安全调度中的应用
+  </div>
+</div>
+
 
 
 > **林家见**：硕士研究生（2023年至今）
