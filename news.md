@@ -7,6 +7,7 @@ comments: true
 
 ### 最新动态
 
+- *January 2026:* 我们的工作[**Grid strength assessment of power systems with high IBR penetration based on source-grid stability margin**](https://ieeexplore.ieee.org/document/11338155/)被*CSEE Journal of Power and Energy Systems*录用，已经可以在线阅读了，敬请大家批评指正。
 - *Oct 2025:* [**郑佳杰**](/students/#zhengjiajie)、[**梁以宁**](/students/#liangyining)两位同学获得了**研究生国家奖学金**，祝贺他们！
 - *August 2025:* 我们的工作 [**考虑安稳风险成本的可再生能源发电优化调度算法**](https://kns.cnki.net/kcms2/article/abstract?v=2yANmoQUOTOIg44e9VkY6Q8J8qZx1FeViBVsj1M08Wx8nSI0CS3BWK4K7azVWHReiChrxpgUe4Erc__mOa2fJr0sZghnf-dq5pDFz4TleABtRDKTNrcgRc90CZRnH0ldeOCRznSx0TWsGEaqKkgI2YsSMQTQJcTg8wzk0JhGsDJNvGgYEBBr4g==&uniplatform=NZKPT&language=CHS)被《太阳能学报》录用，已经可以在线阅读了，敬请大家批评指正。
 - *July 2025:* 我们的工作 [**基于扩展阻抗模态分析的逆变器频率支撑强度量化评估**](https://kns.cnki.net/kcms2/article/abstract?v=2yANmoQUOTOIg44e9VkY6Q8J8qZx1FeViBVsj1M08WxZ9TH5LO5-NTl7-Duzz-1THaiX1qLygo0CfzypxRdauAa7GO-fB6u5c2_qGgAiLXuwa7QwWrCy4bZcWiprxZVH7lZdcj-5bB2quewcyWvsX-X6Sr2bp6mdBFEze4uOcrYxiNIbMiyivg==&uniplatform=NZKPT&language=CHS)被《电工技术学报》录用，已经可以在线阅读了，敬请大家批评指正。
@@ -15,9 +16,7 @@ comments: true
 - *May 2025:* 我们的工作 [**Modal analysis of power system with high IBR penetration based on impedance models**](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/gtd2.70059/)被*IET Generation, Transmission & Distribution*录用，已经可以在线阅读了，敬请大家批评指正。
 - *April 2025:* 我们的工作 [**基于导纳稳定容量的新能源并网强度评估**](https://kns.cnki.net/kcms2/article/abstract?v=2yANmoQUOTOTShF7gp2kl56eNmsMgAe8EhO8EAqzTzNFeR16r65DxRNcIMJ_SfFdO-cYN4-_PXYomfNfkYzReRP6ANX4doZhStaABQJf0DTeVu0s4Z1I-PAKILrJZ2iefiHpqjEHxWRJ3YllNfA65ikm62Se3Uw0ffqTGZYdQ1UzGmJee25wHg==&uniplatform=NZKPT&language=CHS)被《电力系统自动化》录用，已经在线发表了，敬请大家批评指正。
 - *Feburary 2025:* 我们的工作 [**Koopman算符理论在新型电力系统分析与控制中的应用与挑战**](https://kns.cnki.net/kcms2/article/abstract?v=YHRUfPYi6NNxh8tFFrkZgEjVtJP0jcVbqHzx7AJ3NoTNHUGUZksdNDJ9blmzgKjyk18ttRPIv8FH94nvoJNHdY-e9pmHl2kROszzU62B1mcMaooBUjRlRZfKJfOI3dKaS-U7DwtIi7n43TEERgDRkIgNzYLloCz_vqEufn4rsjPHYYx5AcWrmzgCjW7RgTRo&uniplatform=NZKPT&language=CHS/)被《中国电机工程学报》录用，已经可以在线阅读了，敬请大家批评指正。
-- *Feburary 2025:* 我们的工作[**Small-Signal Synchronization Stability Enhancement of GFL-Based Renewable Energy Generation Using the Koopman Operator**](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/rpg2.70014/)被*IET Renewable Power Generation*录用，已经可以在线阅读了，敬请大家批评指正。
-- *January 2025:* 我们的工作[**Physics Informed Data-Driven Oscillation Stabilization Strategy for Renewable-Dominant Power Systems Based on Koopman Operator**](https://ieeexplore.ieee.org/document/10841951/)被*IEEE Transactions on Industry Applications*录用，已经可以在线阅读了，敬请大家批评指正。
-- *January 2025:* 我们的工作[**Data-Driven Subsynchronous Oscillation Suppression for Renewable Energy Integrated Power Systems Based on Koopman Operator**](https://ieeexplore.ieee.org/document/10838276/)被*CSEE Journal of Power and Energy Systems*录用，已经可以在线阅读了，敬请大家批评指正。
+
 
 
 ---
