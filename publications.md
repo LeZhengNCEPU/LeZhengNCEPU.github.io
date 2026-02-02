@@ -7,7 +7,7 @@ title: Publications
 > (†: corresponding author)
 
 ### 2026
-- **Le Zheng**, Jiajie Zheng, Yining Liang, Chongru Liu†. PGrid strength assessment of power systems with high IBR penetration based on source-grid stability margin. ***CSEE Journal of Power and Energy Systems***, Early Access, 2026. [DOI: 10.17775/CSEEJPES.2024.06860](https://ieeexplore.ieee.org/document/11338155/).<br>
+- **Le Zheng**, Jiajie Zheng, Yining Liang, Chongru Liu†. Grid strength assessment of power systems with high IBR penetration based on source-grid stability margin. ***CSEE Journal of Power and Energy Systems***, Early Access, 2026. [DOI: 10.17775/CSEEJPES.2024.06860](https://ieeexplore.ieee.org/document/11338155/).<br>
 
 ### 2025
 - Zihan Wang, Gengyin Li, Ziyang Huang, Xiaonan Zhang, Yanhui Xu, **Le Zheng**†. Physics informed data-driven oscillation stabilization strategy for renewable-dominant power systems based on Koopman Operator. ***IEEE Transactions on Industry Applications***, vol. 61, no. 2, pp. 2632-2645, 2025. [DOI: 10.1109/TIA.2025.3529806](https://ieeexplore.ieee.org/document/10841951/).<br>
