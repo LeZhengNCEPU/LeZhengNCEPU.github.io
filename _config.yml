@@ -49,6 +49,8 @@ links:
     url: /students/
   - title: Alumni
     url: /alumni/
+  - title: Activities
+    url: /activities/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
