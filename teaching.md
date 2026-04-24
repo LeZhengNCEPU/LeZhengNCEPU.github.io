@@ -7,7 +7,7 @@ title: Teaching
 ### 师者，所以传道受业解惑也。
 - 我教授关于如何理解电力系统动态的课程。在我的课堂上，学生们将了解电力系统在扰动发生时及之后的行为，以及如何进行控制。我的学生有机会与我一起从事我的研究工作。
 
-- Discussion creates a broader awareness of the world around us. Take a class with me, and reflect on how we fit into that world while developing new skills for your future. Students in my classes are curious, hardworking, and open-minded. 
+- 主讲本科生课程“电力系统分析”和“自动控制理论”，研究生课程“动态电力系统分析与控制”，北京高校优秀本科育人团队--“电力系统分析教学育人团队”骨干成员。
 
 
 ### 教授课程

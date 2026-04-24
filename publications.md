@@ -6,6 +6,11 @@ title: Publications
 
 > (†: corresponding author)
 
+### 2026
+- Yining Liang, **Le Zheng**†, Lu Huang, Shanshan Shi, Jiajie Zheng. Extended modal analysis of internal dynamics in grid-following inverters based on impedance model. ***International Journal of Electrical Power & Energy Systems***, vol. 177, no. 111812, 2026. [DOI: 10.1016/j.ijepes.2026.111812](https://www.sciencedirect.com/science/article/pii/S0142061526002541).<br>
+
+- **Le Zheng**, Jiajie Zheng, Yining Liang, Chongru Liu†. Grid strength assessment of power systems with high IBR penetration based on source-grid stability margin. ***CSEE Journal of Power and Energy Systems***, Early Access, 2026. [DOI: 10.17775/CSEEJPES.2024.06860](https://ieeexplore.ieee.org/document/11338155/).<br>
+
 ### 2025
 - Zihan Wang, Gengyin Li, Ziyang Huang, Xiaonan Zhang, Yanhui Xu, **Le Zheng**†. Physics informed data-driven oscillation stabilization strategy for renewable-dominant power systems based on Koopman Operator. ***IEEE Transactions on Industry Applications***, vol. 61, no. 2, pp. 2632-2645, 2025. [DOI: 10.1109/TIA.2025.3529806](https://ieeexplore.ieee.org/document/10841951/).<br>
 
@@ -15,15 +20,24 @@ title: Publications
 
 - **Le Zheng**, Jiajie Zheng, Xin Liu, Gengyin Li, Yanhui Xu†. Small-signal synchronization stability enhancement of GFL-based renewable energy generation using the Koopman Operator. ***IET Renewable Power Generation***, vol. 19, no. 1, e70014, 2025. [DOI: 10.1049/rpg2.70014](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/rpg2.70014).<br>
 
+- 吴林林, 邓晓洋, 郑佳杰, 梁以宁, **郑乐**†. 基于导纳稳定容量的新能源并网强度评估. **电力系统自动化**, vol. 49, no. 13, pp. 43-51, 2025. [DOI: 10.7500/AEPS20241028001](https://kns.cnki.net/kcms2/article/abstract?v=2yANmoQUOTOTShF7gp2kl56eNmsMgAe8EhO8EAqzTzNFeR16r65DxRNcIMJ_SfFdO-cYN4-_PXYomfNfkYzReRP6ANX4doZhStaABQJf0DTeVu0s4Z1I-PAKILrJZ2iefiHpqjEHxWRJ3YllNfA65ikm62Se3Uw0ffqTGZYdQ1UzGmJee25wHg==&uniplatform=NZKPT&language=CHS).<br>
+
+- 郑佳杰, **郑乐**†, 林家见, 徐辉, 刘崇茹. 基于扩展阻抗模态分析的逆变器频率支撑强度量化评估 . **电工技术学报**, 网络首发, 2025. [DOI: 10.19595/j.cnki.1000-6753.tces.250740](https://kns.cnki.net/kcms2/article/abstract?v=2yANmoQUOTOIg44e9VkY6Q8J8qZx1FeViBVsj1M08WxZ9TH5LO5-NTl7-Duzz-1THaiX1qLygo0CfzypxRdauAa7GO-fB6u5c2_qGgAiLXuwa7QwWrCy4bZcWiprxZVH7lZdcj-5bB2quewcyWvsX-X6Sr2bp6mdBFEze4uOcrYxiNIbMiyivg==&uniplatform=NZKPT&language=CHS).<br>
+
 - **郑乐**†, 郑佳杰. 构网型逆变器内部动态的扩展阻抗模态分析. **电工技术学报**, vol. 40, no. 9, pp. 2712-2723+2737, 2025. [DOI: 10.19595/j.cnki.1000-6753.tces.242266](https://kns.cnki.net/kcms2/article/abstract?v=QdSmbJTBmqxPHKhw1YgrY27sBezER7kUggJJ18LzSof9K-vHQweDcQB4F_wKoT1JbSfG0kc162LDdBHuqsbwKbkeRvR3wudgGXOaO8tU6ASmIIizIfvaLuuBkhcUEDL9QLVHi2Y5Gcr65ZzypQf9IbvPTZ_dyAyqXXBx81Nptw1DY6AUaQf0Wg==&uniplatform=NZKPT&language=CHS).<br>
 
-- **郑乐**, 王子涵, 沈沉, 徐式蕴, 赵兵, 李庚银†. Koopman算符理论在新型电力系统分析与控制中的应用与挑战. **中国电机工程学报**, 网络首发, 2025. [DOI: 11.2107/TM.20250220.1347.008](https://link.cnki.net/urlid/11.2107.tm.20250220.1347.008/).<br>
+- 林家见, 徐曼, 吴林林. 易雨纯, **郑乐**†. 考虑多场站短路比约束的新能源电力系统经济安全调度方法. **浙江电力**, vol. 44, no. 9, pp. 1-12, 2025. [DOI: 10.19585/j.zjdl.202509001](https://kns.cnki.net/kcms2/article/abstract?v=2yANmoQUOTOIg44e9VkY6Q8J8qZx1FeVN--wmjeiYwl66VHmVW72TVTWTAkX5s5-k4Cf6_w8XLD9asfqC-qVN-sDQx62nuivcwUzL5z_bT3wyjcNc-sLO9Tp-lLTBiEM2PRVcbjgb64aVivhblveEgV6wS15vf2MKn_DhkFFTT62nWNirlMyYg==&uniplatform=NZKPT&language=CHS).<br>
 
+- **郑乐**, 梁以宁†. 端口视角下的电力系统振荡分析方法综述. **浙江电力**, vol. 44, no. 1, pp. 1-14, 2025. [DOI: 10.19585/j.zjdl.202501001](https://kns.cnki.net/kcms2/article/abstract?v=5q1osi_AJOQOt-vTUiX-KfhO6cB0MBtACMSmM0Jfyp6OfuDU4m6jCIH3i4naII7UWxPKABnVhCQUDBTliWXR6FrYNGi6fwmiExXkbnaOfW7vdZkgOLGwJnqQzK4hRwLnKCQrLZoGt41pHRF5QE6uNqgefz4hBarc7B3dnmPfol9vuyah03W1sg==&uniplatform=NZKPT&language=CHS).<br>
+
+- 付晓颜, **郑乐**†. 考虑安稳风险成本的可再生能源发电优化调度算法. **太阳能学报**, 网络首发, 2025. [DOI: 10.19912/j.0254-0096.tynxb.2025-0487](https://kns.cnki.net/kcms2/article/abstract?v=2yANmoQUOTOIg44e9VkY6Q8J8qZx1FeViBVsj1M08Wx8nSI0CS3BWK4K7azVWHReiChrxpgUe4Erc__mOa2fJr0sZghnf-dq5pDFz4TleABtRDKTNrcgRc90CZRnH0ldeOCRznSx0TWsGEaqKkgI2YsSMQTQJcTg8wzk0JhGsDJNvGgYEBBr4g==&uniplatform=NZKPT&language=CHS).<br>
+
+- **郑乐**, 王子涵, 沈沉, 徐式蕴, 赵兵, 李庚银†. Koopman算符理论在新型电力系统分析与控制中的应用与挑战. **中国电机工程学报**, vol. 45, no. 15, pp. 5881-5902, 2025. [DOI: 11.2107/TM.20250220.1347.008](https://kns.cnki.net/kcms2/article/abstract?v=2yANmoQUOTOxE-DrDlGdOi87A7bq2xvUofx2KDwWdUuRYm3VaWXw9zlj-y7457IQdSl8X5Sn6aRA_Kl3pXEwhWkRaI2pDCtkDhLTxti69Rfot2z2SEGI3ggJgcdOl0tF23JyvxX2NYkDS2wwfQWbtSpK8DmAa8nEOMHbrsodgH2F3HQZny7HaA==&uniplatform=NZKPT&language=CHS).<br>
+
+- **郑乐**†, 刘思远, 周小添, 徐式蕴, 李宗翰, 李庚银. 面向电力系统暂态稳定性评估的深度学习模型智能增强方法研究. **电网技术**, vol. 49, no. 7, pp. 2649-2658, 2025. [DOI: 10.13335/j.1000-3673.pst.2024.0767](https://kns.cnki.net/kcms2/article/abstract?v=2yANmoQUOTO_mMdEme5AfAddY481dJmt0-FMG21WYyYQRuWo7F05QafJjUuoVNraxUczr7Gfulo7zkHBxX0XkXBJ02iqKAtpOAh_sv66peIKrLdPBBhUJMa7jmaOrpSfv9omzH1sf-Jc8Gpjha2o2YRrjBuFFW1_p0W9Cq1okP6KqgIjLCf5gw==&uniplatform=NZKPT&language=CHS).<br>
 
 ### 2024
 - **郑乐**, 郑佳杰, 阳岳希, 杜镇宇, 徐衍会†. 100%变流器接口电源电力系统的同调特性分析. **中国电机工程学报**, vol. 45, no. 5, pp. 1658-1668, 2025. [DOI: 10.13334/j.0258-8013.pcsee.231674](https://kns.cnki.net/kcms2/article/abstract?v=QdSmbJTBmqy6oBaqFXWKURcNmN-FBrERmkMjD8xO6Txf1tQ-ipjA-xoxI5ATcn8NxCgQtkpVRqgIA20Uz0Ay9ZTR36SuhTjfgo24ZfM2lB3r6vWIauFcbBsA8HmZJGNbRRgE9Z6MhL0z5GNrtEWfv3UcOoPV2pB2ZdjkxggDtwaLVO89zSpEfQ==&uniplatform=NZKPT&language=CHS).<br>
-
-- **郑乐**†, 刘思远, 周小添, 徐式蕴, 李宗翰, 李庚银. 面向电力系统暂态稳定性评估的深度学习模型智能增强方法研究. **电网技术**, 网络首发, 2024. [DOI: 10.13335/j.1000-3673.pst.2024.0767](https://kns.cnki.net/kcms2/article/abstract?v=sKJ9SXrFdEpPyWSw8yMzVObDguqHirE4wCYUGFdOLzUzi21X_dsJIkN8yUYlzxkaKJQMPwd4Fdrr8JS4_X_DcrFulLxg3kqgE-NmP-k5B3tdEbiiEqRbmnn-Pb3qlufBv7BOUzX1UGc3P0CHI9ZSidisxcjq8m6xncDpVEiGm1QN0cY_12IS79Vo_njlF2C_&uniplatform=NZKPT&language=CHS/).<br>
 
 - Yanhui Xu, Yundan Cheng, **Le Zheng**†, Hui Liu. A criterion for oscillation source localization with IBRs based on sub-synchronous frequency component of instantaneous power. ***IEEE Transactions on Power Systems***, vol. 39, no. 6, pp. 7346-7358, 2024. [DOI: 10.1109/TPWRS.2024.3369086](https://ieeexplore.ieee.org/document/10444031/).<br>
 
