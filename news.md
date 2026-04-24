@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /news/index.html
-title: Updates and News
+title: News
 comments: true
 ---
 
