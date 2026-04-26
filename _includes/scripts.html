@@ -41,8 +41,10 @@
   if (GOOGLE_SCRIPT_URL.indexOf('YOUR_SCRIPT_ID') !== -1) return;
 
   // 防止重复发送（单页面内）
-  if (window.__ipLogged) return;
-  window.__ipLogged = true;
+  //if (window.__ipLogged) return;
+  //window.__ipLogged = true;
+  if (sessionStorage.getItem('__ipLogged')) return;
+  sessionStorage.setItem('__ipLogged', '1');
 
   // 获取 IP 和位置信息
   fetch('https://ipapi.co/json/')
