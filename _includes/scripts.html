@@ -12,4 +12,60 @@
 
 </script>
 
+<!-- Visitor IP Logging -->
+<script>
+(function() {
+  // ==========================================
+  // 配置：替换为你的 Google Apps Script Web 应用 URL
+  // 部署步骤：
+  // 1. 新建 Google Sheets，第一行写入：时间 | IP地址 | 访问页面 | 浏览器信息 | 国家/地区
+  // 2. 点击 扩展程序 → Apps Script，粘贴以下代码并部署为 Web 应用（访问权限：任何人）：
+  /*
+  function doGet(e) {
+    var sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
+    var ip = e.parameter.ip || 'unknown';
+    var time = new Date();
+    var page = e.parameter.page || 'unknown';
+    var ua = e.parameter.ua || 'unknown';
+    var country = e.parameter.country || 'unknown';
+    sheet.appendRow([time, ip, page, ua, country]);
+    return ContentService.createTextOutput(JSON.stringify({status: 'ok'}))
+      .setMimeType(ContentService.MimeType.JSON);
+  }
+  */
+  // 3. 将部署后获得的 URL 替换到下面这行：
+  var GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxyEcs_8ug9ljPk4skc1DnQX5zDWDtnRUABcuZ7eQfPZQElxNDC3rC0E8tmQ8FERnVR/exec';
+  // ==========================================
+
+  // 如果未配置 URL，则不记录
+  if (GOOGLE_SCRIPT_URL.indexOf('YOUR_SCRIPT_ID') !== -1) return;
+
+  // 防止重复发送（单页面内）
+  if (window.__ipLogged) return;
+  window.__ipLogged = true;
+
+  // 获取 IP 和位置信息
+  fetch('https://ipapi.co/json/')
+    .then(function(response) { return response.json(); })
+    .then(function(data) {
+      var payload = {
+        ip: data.ip || 'unknown',
+        page: window.location.href,
+        ua: navigator.userAgent,
+        country: data.country_name || 'unknown'
+      };
+
+      // 发送到 Google Sheets
+      var qs = Object.keys(payload).map(function(k) {
+        return encodeURIComponent(k) + '=' + encodeURIComponent(payload[k]);
+      }).join('&');
+
+      return fetch(GOOGLE_SCRIPT_URL + '?' + qs, { mode: 'no-cors' });
+    })
+    .catch(function(err) {
+      console.log('Visitor logging failed:', err);
+    });
+})();
+</script>
+
 <!-- Lastly modified by Le in 2024/10/6 -->
