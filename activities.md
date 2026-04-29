@@ -33,6 +33,11 @@ title: Activities
 
 - 再次回顾美好瞬间
 
+<video width="360" height="480" controls>
+  <source src="/videos/qingdao.mp4" type="video/mp4">
+  您的浏览器不支持视频播放。
+</video>
+
 <div class="second">
 <img src="/images/activities/qingdao-2026-1.JPG" width="650" height="487.5">
 </div>
