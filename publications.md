@@ -9,6 +9,8 @@ title: Publications
 ### 2026
 - Yining Liang, **Le Zheng**†, Lu Huang, Shanshan Shi, Jiajie Zheng. Extended modal analysis of internal dynamics in grid-following inverters based on impedance model. ***International Journal of Electrical Power & Energy Systems***, vol. 177, no. 111812, 2026. [DOI: 10.1016/j.ijepes.2026.111812](https://www.sciencedirect.com/science/article/pii/S0142061526002541).<br>
 
+- 张龙飞, 徐辉, 朱克东, 李峰, 杨慧彪, **郑乐**†. 考虑安全约束的物理信息引导智能调度方法研究. **电网技术**, vol. 50, no. 3, pp. 1061-1071, 2026. [DOI: 10.13335/j.1000-3673.pst.2025.0847](https://kns.cnki.net/kcms2/article/abstract?v=K7S5TI5vrARSI9kqBhSkG_LGBAAeP4_9-icHn3urwaKuP6Kq7QGMOO5sqQSm6Ni_lhw6TWfx83GGZIEtoDh0fPL-D-Wz0nQ3-UmJxZN3XkzWN26xhgQN_WgEXUMpKhPeFVvmmS93ZePNqJYYSHRPmh_G3nfXpY5GrwafXJwYT3T2L9j19AQ7tQ==&uniplatform=NZKPT&language=CHS).<br>
+
 - **Le Zheng**, Jiajie Zheng, Yining Liang, Chongru Liu†. Grid strength assessment of power systems with high IBR penetration based on source-grid stability margin. ***CSEE Journal of Power and Energy Systems***, Early Access, 2026. [DOI: 10.17775/CSEEJPES.2024.06860](https://ieeexplore.ieee.org/document/11338155/).<br>
 
 ### 2025
