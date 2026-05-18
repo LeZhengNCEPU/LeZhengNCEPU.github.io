@@ -7,7 +7,7 @@ comments: true
 
 ### 最新动态
 
-- *March 2026:* 我们的工作[**考虑安全约束的物理信息引导智能调度方法研究 **](https://kns.cnki.net/kcms2/article/abstract?v=K7S5TI5vrATRhpQffrFgY26ejFrCH6wTQsiQ5-ezY9taOFWNa7R6m-LQWz9fK7aKNVihJ5vZ6gVAhnVrNFhmcrFdnw-69MNKkGEXihgu0Uol-mNOLfpReFll7iRBs6aw7G9EJb62401rx97OSLl4AKge1JhtiFc4mD32Som_MjE94BPbuX73qQ==&uniplatform=NZKPT&language=CHS)被《电网技术》录用，已经正式发表了，敬请大家批评指正。
+- *March 2026:* 我们的工作[**考虑安全约束的物理信息引导智能调度方法研究**](https://kns.cnki.net/kcms2/article/abstract?v=K7S5TI5vrATRhpQffrFgY26ejFrCH6wTQsiQ5-ezY9taOFWNa7R6m-LQWz9fK7aKNVihJ5vZ6gVAhnVrNFhmcrFdnw-69MNKkGEXihgu0Uol-mNOLfpReFll7iRBs6aw7G9EJb62401rx97OSLl4AKge1JhtiFc4mD32Som_MjE94BPbuX73qQ==&uniplatform=NZKPT&language=CHS)被《电网技术》录用，已经正式发表了，敬请大家批评指正。
 - *March 2026:* 我们的工作[**Extended modal analysis of internal dynamics in grid-following inverters based on impedance model**](https://www.sciencedirect.com/science/article/pii/S0142061526002541/)被*International Journal of Electrical Power & Energy Systems*录用，已经可以在线阅读了，敬请大家批评指正。
 - *January 2026:* 我们的工作[**Grid strength assessment of power systems with high IBR penetration based on source-grid stability margin**](https://ieeexplore.ieee.org/document/11338155/)被*CSEE Journal of Power and Energy Systems*录用，已经可以在线阅读了，敬请大家批评指正。
 - *Oct 2025:* [**郑佳杰**](/students/#zhengjiajie)、[**梁以宁**](/students/#liangyining)两位同学获得了**研究生国家奖学金**，祝贺他们！
