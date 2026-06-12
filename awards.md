@@ -20,8 +20,10 @@ title: Awards
 
 ### 学术兼职
 
-- IEEE PES电力系统动态技术委员会（中国）人工智能应用分技术委员会委员<br>
+- CIGRE工作组C4.81（Best practice modelling and study methods for large inverter-based loads for connection, planning and operation）工作组成员<br>
+- 中国电力企业联合会人工智能标准化技术委员会委员<br>
 - [iEnergy](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9732629)、[《CES Transactions on Electrical Machines and Systems》](http://www.cestems.org/)、[《浙江电力》](https://zjdl.cbpt.cnki.net/WKE3/WebPublication/index.aspx?mid=ZJDL) 青年编委<br>
+- IEEE PES电力系统动态技术委员会（中国）人工智能应用分技术委员会委员<br>
 - [International Conference on Power and Energy Technology (ICPET)](https://www.icpet.org/index.html) 程序委员会主席<br>
 
 
