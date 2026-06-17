@@ -8,7 +8,7 @@ layout: page
 
 
 欢迎来到**郑乐(Le Zheng)**的学术主页！
-- 2020年8月，我加入**华北电力大学**[电气与电子工程学院](https://electric.ncepu.edu.cn/)，与**李庚银**教授、[**刘崇茹**](https://www.liucrgroup.com/)教授、**徐衍会**教授等保持紧密的科研合作. 
+- 2020年8月，我加入**华北电力大学**[电气与电子工程学院](https://electric.ncepu.edu.cn/)，与[**李庚银**](https://electric.ncepu.edu.cn/szdw/xyjj6/dwyjs/aeb8a498d9f84a9b88aa367bac52512e.htm)教授、[**刘崇茹**](https://lcrgroup.ncepu.edu.cn/)教授、[**徐衍会**](https://electric.ncepu.edu.cn/szdw/xyjj6/dlxtyjs/5f889c7efee247d7bd7992e098533d66.htm)教授等保持紧密的科研合作. 
 - 2017至2019年，我在**斯坦福大学**转化医学大数据中心从事博士后研究工作，合作导师是[**Bruce Xuefeng Ling**](https://biox.stanford.edu/people/bruce-ling)博士和[**Doff McElhinney**](https://med.stanford.edu/profiles/doff-mcelhinney)教授。 
 - 2011年，我本科毕业于**清华大学**[电机工程与应用电子技术系](https://www.eea.tsinghua.edu.cn/)，之后继续在电机系[**闵勇**](https://www.eea.tsinghua.edu.cn/faculties/ymin.htm)教授课题组攻读博士学位，师从[**胡伟**](https://www.eea.tsinghua.edu.cn/faculties/whu.htm)研究员，2017年获工学博士学位。 
 
