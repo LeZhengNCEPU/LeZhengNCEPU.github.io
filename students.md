@@ -97,7 +97,7 @@ title: Students
 - 研究方向：新型电力系统稳定性分析
 
 > **刘书豪**：硕士研究生（2026年至今）
-<img src="/images/alumni/刘书豪.jpg" width="120" height="120">
+<img src="/images/alumni/liushuhao.jpg" width="120" height="120">
 
 - 研究方向：人工智能在电力系统安全调度中的应用
 
