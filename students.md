@@ -11,13 +11,13 @@ title: Students
 <br>
 
 ### 学生荣誉（一等到三等奖学金未列出）
-**北京市优秀毕业生**：郑佳杰（2026）
+**北京市优秀毕业生**：[**郑佳杰**](/alumni/#zhengjiajie)（2026）
 <br>
-**华北电力大学优秀毕业生**：郑佳杰（2026），ULLAH MD MAHIB（2026）
+**华北电力大学优秀毕业生**：[**郑佳杰**](/alumni/#zhengjiajie)（2026），ULLAH MD MAHIB（2026）
 <br>
-**华北电力大学优秀学位论文**：郑佳杰（2026）
+**华北电力大学优秀学位论文**：[**郑佳杰**](/alumni/#zhengjiajie)（2026）
 <br>
-**研究生国家奖学金**：郑佳杰（2025、2024），梁以宁（2025）
+**研究生国家奖学金**：[**郑佳杰**](/alumni/#zhengjiajie)（2025、2024），[**梁以宁**](/students/#liangyining)（2025）
 
 <br>
 
@@ -60,7 +60,7 @@ title: Students
 > **胡子轩**：硕士研究生（2025年至今）
 <img src="/images/alumni/huzixuan1.jpg" width="120" height="120">
 
-- 研究方向：人工智能在电力系统安全稳定分析中的应用
+- 研究方向：新型电力系统稳定性分析
 
 > **史子怡**：硕士研究生（2025年至今）
 <img src="/images/alumni/shiziyi1.jpg" width="120" height="120">
@@ -70,16 +70,41 @@ title: Students
 > **王轩**：硕士研究生（2025年至今）
 <img src="/images/alumni/wangxuan1.jpg" width="120" height="120">
 
-- 研究方向：人工智能在电力系统安全调度中的应用
+- 研究方向：新型电力系统稳定性分析
 
 > **许烨**：硕士研究生（2025年至今）
 <img src="/images/alumni/xuye1.jpg" width="120" height="120">
 
-- 研究方向：新能源电力系统有功频率控制
+- 研究方向：新型电力系统稳定性分析
 
 <br>
 
 #### 2026级
+
+> **程钲浩**：硕士研究生（2026年至今）
+<img src="/images/alumni/chengzhenghao.jpg" width="120" height="120">
+
+- 研究方向：新型电力系统稳定性分析
+
+> **鞠雨希**：硕士研究生（2026年至今）
+<img src="/images/alumni/juyuxi.jpg" width="120" height="120">
+
+- 研究方向：人工智能在电力系统安全调度中的应用
+
+> **李宏基**：硕士研究生（2026年至今）
+<img src="/images/alumni/lihongji.jpg" width="120" height="120">
+
+- 研究方向：新型电力系统稳定性分析
+
+> **刘书豪**：硕士研究生（2026年至今）
+<img src="/images/alumni/刘书豪.jpg" width="120" height="120">
+
+- 研究方向：人工智能在电力系统安全调度中的应用
+
+> **邵若楠**：硕士研究生（2026年至今）
+<img src="/images/alumni/shaoruonan.jpg" width="120" height="120">
+
+- 研究方向：新型电力系统稳定性分析
 
 <br>
 
