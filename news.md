@@ -7,7 +7,7 @@ comments: true
 
 ### 最新动态
 
-- *June 2026:* 我们的工作**Enhanced Frequency Regulation Utilizing Wind Power: Model Predictive Control Considering Adjustable Capacity of Wind Turbines**被*IEEE Transactions on Sustainable Energy*录用，敬请大家批评指正。
+- *June 2026:* 我们的工作[**Enhanced Frequency Regulation Utilizing Wind Power: Model Predictive Control Considering Adjustable Capacity of Wind Turbines**](https://ieeexplore.ieee.org/document/11578295)被*IEEE Transactions on Sustainable Energy*录用，已经可以在线阅读了，敬请大家批评指正。
 - *June 2026:* [**郑佳杰**](/alumni/#zhengjiajie)同学获评北京市优秀毕业生和华北电力大学优秀毕业生，硕士论文获评华北电力大学优秀硕士论文，祝贺！
 - *June 2026:* 实验室两位研三的同学顺利通过了毕业答辩，即将开启人生新篇章，祝贺他们！
 - *March 2026:* 我们的工作[**考虑安全约束的物理信息引导智能调度方法研究**](https://kns.cnki.net/kcms2/article/abstract?v=K7S5TI5vrATRhpQffrFgY26ejFrCH6wTQsiQ5-ezY9taOFWNa7R6m-LQWz9fK7aKNVihJ5vZ6gVAhnVrNFhmcrFdnw-69MNKkGEXihgu0Uol-mNOLfpReFll7iRBs6aw7G9EJb62401rx97OSLl4AKge1JhtiFc4mD32Som_MjE94BPbuX73qQ==&uniplatform=NZKPT&language=CHS)被《电网技术》录用，已经正式发表了，敬请大家批评指正。
