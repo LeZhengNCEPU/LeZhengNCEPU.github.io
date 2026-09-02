@@ -7,6 +7,8 @@ title: Publications
 > (†: corresponding author)
 
 ### 2026
+- 梁以宁, **郑乐**†, 胡子轩, 赵雄光, 凌煦. 不平衡工况下变流器接口电源并网强度评估方法. **电工技术学报**, 网络首发, 2026. [DOI: 10.19595/j.cnki.1000-6753.tces.260797](https://kns.cnki.net/kcms2/article/abstract?v=Ef7Li4TQaLy5x2uj1piM-C8RSVdss2v6IqF8tzeZ2jk8WmDLu2Q-q41TxzcgtYtvgnxBNSRv90NBKaDXY3eAPZzujJqmk0VKNaQ4euEeR1XwQOA1JuZxgQRsQ248i40nWjRJW4trsy-Sum-ylwNNBUSiKAYCon0aFXwgolTQj3gts1UAI_8q2A==&uniplatform=NZKPT&language=CHS).<br>
+
 - **Le Zheng**, Lu Huang, Chenbo Su†, Wenchuan Wu, Wei Hu, Chongru Liu. Enhanced frequency regulation utilizing wind power: model predictive control considering adjustable capacity of wind turbines. ***IEEE Transactions on Sustainable Energy***, Early Access, 2026. [DOI: 10.1109/TSTE.2026.3707338](https://ieeexplore.ieee.org/document/11578295).<br>
 
 - Yining Liang, **Le Zheng**†, Lu Huang, Shanshan Shi, Jiajie Zheng. Extended modal analysis of internal dynamics in grid-following inverters based on impedance model. ***International Journal of Electrical Power & Energy Systems***, vol. 177, no. 111812, 2026. [DOI: 10.1016/j.ijepes.2026.111812](https://www.sciencedirect.com/science/article/pii/S0142061526002541).<br>
