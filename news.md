@@ -7,6 +7,7 @@ comments: true
 
 ### 最新动态
 
+- *Oct 2026:* [**梁以宁**](/students/#liangyining)、[**黄璐**](/students/#huanglu)、[**许烨**](/students/#xuye)三位同学获得了**研究生国家奖学金**，祝贺他们！
 - *August 2026:* 我们的工作 [**不平衡工况下变流器接口电源并网强度评估方法**](https://kns.cnki.net/kcms2/article/abstract?v=Ef7Li4TQaLzd9f0L0APHJoEt-p8BakfbPWiMknX-NdArb_C_iCPAl7B95qJe9VCSdXDAApfkxiuJkaKIci_oTfEx6U-Kb0B-UoCB8HdwL54eK7iQvYX-XiSeYIKdNShM_cpp7OwHcA5yhpSKvQ0EwzCcmJ3EH1c8al_SAL7ntwiY4nzK51NxaQ==&uniplatform=NZKPT&language=CHS)被《电工技术学报》录用，已经可以在线阅读了，敬请大家批评指正。
 - *June 2026:* 我们的工作[**Enhanced Frequency Regulation Utilizing Wind Power: Model Predictive Control Considering Adjustable Capacity of Wind Turbines**](https://ieeexplore.ieee.org/document/11578295)被*IEEE Transactions on Sustainable Energy*录用，已经可以在线阅读了，敬请大家批评指正。
 - *June 2026:* [**郑佳杰**](/alumni/#zhengjiajie)同学获评**北京市优秀毕业生**和**华北电力大学优秀毕业生**，硕士论文获评**华北电力大学优秀硕士论文**，祝贺！
@@ -14,9 +15,7 @@ comments: true
 - *March 2026:* 我们的工作[**考虑安全约束的物理信息引导智能调度方法研究**](https://kns.cnki.net/kcms2/article/abstract?v=K7S5TI5vrATRhpQffrFgY26ejFrCH6wTQsiQ5-ezY9taOFWNa7R6m-LQWz9fK7aKNVihJ5vZ6gVAhnVrNFhmcrFdnw-69MNKkGEXihgu0Uol-mNOLfpReFll7iRBs6aw7G9EJb62401rx97OSLl4AKge1JhtiFc4mD32Som_MjE94BPbuX73qQ==&uniplatform=NZKPT&language=CHS)被《电网技术》录用，已经正式发表了，敬请大家批评指正。
 - *March 2026:* 我们的工作[**Extended modal analysis of internal dynamics in grid-following inverters based on impedance model**](https://www.sciencedirect.com/science/article/pii/S0142061526002541/)被*International Journal of Electrical Power & Energy Systems*录用，已经可以在线阅读了，敬请大家批评指正。
 - *January 2026:* 我们的工作[**Grid strength assessment of power systems with high IBR penetration based on source-grid stability margin**](https://ieeexplore.ieee.org/document/11338155/)被*CSEE Journal of Power and Energy Systems*录用，已经可以在线阅读了，敬请大家批评指正。
-- *Oct 2025:* [**郑佳杰**](/alumni/#zhengjiajie)、[**梁以宁**](/students/#liangyining)两位同学获得了**研究生国家奖学金**，祝贺他们！
-- *August 2025:* 我们的工作 [**考虑安稳风险成本的可再生能源发电优化调度算法**](https://kns.cnki.net/kcms2/article/abstract?v=2yANmoQUOTOIg44e9VkY6Q8J8qZx1FeViBVsj1M08Wx8nSI0CS3BWK4K7azVWHReiChrxpgUe4Erc__mOa2fJr0sZghnf-dq5pDFz4TleABtRDKTNrcgRc90CZRnH0ldeOCRznSx0TWsGEaqKkgI2YsSMQTQJcTg8wzk0JhGsDJNvGgYEBBr4g==&uniplatform=NZKPT&language=CHS)被《太阳能学报》录用，已经可以在线阅读了，敬请大家批评指正。
-- *July 2025:* 我们的工作 [**基于扩展阻抗模态分析的逆变器频率支撑强度量化评估**](https://kns.cnki.net/kcms2/article/abstract?v=2yANmoQUOTOIg44e9VkY6Q8J8qZx1FeViBVsj1M08WxZ9TH5LO5-NTl7-Duzz-1THaiX1qLygo0CfzypxRdauAa7GO-fB6u5c2_qGgAiLXuwa7QwWrCy4bZcWiprxZVH7lZdcj-5bB2quewcyWvsX-X6Sr2bp6mdBFEze4uOcrYxiNIbMiyivg==&uniplatform=NZKPT&language=CHS)被《电工技术学报》录用，已经可以在线阅读了，敬请大家批评指正。
+
 
 ---
 
