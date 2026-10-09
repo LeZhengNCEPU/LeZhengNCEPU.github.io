@@ -17,7 +17,7 @@ title: Students
 <br>
 **华北电力大学优秀学位论文**：[**郑佳杰**](/alumni/#zhengjiajie)（2026）
 <br>
-**研究生国家奖学金**：[**郑佳杰**](/alumni/#zhengjiajie)（2025、2024），[**梁以宁**](/students/#liangyining)（2025）
+**研究生国家奖学金**：[**郑佳杰**](/alumni/#zhengjiajie)（2025、2024），[**梁以宁**](/students/#liangyining)（2026、2025），[**黄璐**](/students/#huanglu)（2026），[**许烨**](/students/#xuye)（2026）
 
 <br>
 
@@ -30,6 +30,7 @@ title: Students
 
 - 研究方向：新型电力系统经济调度
 
+<a id="huanglu"></a>
 > **黄璐**：硕士研究生（2024年至今）
 <img src="/images/alumni/huanglu.jpg" width="120" height="120">
 
@@ -72,6 +73,7 @@ title: Students
 
 - 研究方向：新型电力系统稳定性分析
 
+<a id="xuye"></a>
 > **许烨**：硕士研究生（2025年至今）
 <img src="/images/alumni/xuye1.jpg" width="120" height="120">
 
