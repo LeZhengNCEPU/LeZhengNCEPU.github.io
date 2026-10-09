@@ -34,13 +34,14 @@ title: Students
 > **黄璐**：硕士研究生（2024年至今）
 <img src="/images/alumni/huanglu.jpg" width="120" height="120">
 
+- 获2026研究生国家奖学金、校级一等奖学金
 - 研究方向：新型电力系统稳定性分析
 
 <a id="liangyining"></a>
 > **梁以宁**：硕士研究生（2024年至今）
 <img src="/images/alumni/liangyining.jpg" width="120" height="120">
 
-- 获2025研究生国家奖学金、校级一等奖学金
+- 连续两年（2026、2025）获研究生国家奖学金
 - 研究方向：新型电力系统稳定性分析
 
 > **徐辉**：硕士研究生（2024年至今）
@@ -77,6 +78,7 @@ title: Students
 > **许烨**：硕士研究生（2025年至今）
 <img src="/images/alumni/xuye1.jpg" width="120" height="120">
 
+- 获2026研究生国家奖学金
 - 研究方向：新型电力系统稳定性分析
 
 <br>
