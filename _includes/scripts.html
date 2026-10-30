@@ -15,33 +15,35 @@
 <!-- Visitor IP Logging via Cloudflare Workers -->
 <script>
 (function() {
-  // ==========================================
-  // 配置：替换为你的 Cloudflare Worker URL
-  // 部署步骤：
-  // 1. 登录 Cloudflare Dashboard → Workers 和 Pages
-  // 2. 创建 Service Worker，粘贴后端代码（见下方说明）
-  // 3. 绑定 KV 命名空间（变量名：VISITOR_LOGS）
-  // 4. 部署并复制 Worker URL，替换到下面这行：
+  // 保持现有 Worker 的 GET 参数协议；IP 和访问时间由服务端记录。
   var WORKER_URL = 'https://log.lezheng.org';
-  // ==========================================
+  var hostname = window.location.hostname;
+  if (hostname !== 'lezheng.org' && hostname !== 'www.lezheng.org') return;
+  if (typeof fetch !== 'function' || window.__lezhengVisitRequested) return;
 
-  // 如果未配置 URL，则不记录
-  if (!WORKER_URL || WORKER_URL.indexOf('your-worker') !== -1) return;
+  // 仅防止当前文档重复加载脚本；翻页、刷新后仍会记录，不依赖浏览器存储。
+  window.__lezhengVisitRequested = true;
 
-  // 防止同一 session 内重复记录
-  if (sessionStorage.getItem('__ipLogged')) return;
-  sessionStorage.setItem('__ipLogged', '1');
-
-  // 发送访问信息到 Cloudflare Worker
-  // Worker 会自动从 HTTP 头获取访问者真实 IP
-  var page = window.location.href;
+  // 不发送查询参数和片段，避免将 URL 中的私人信息写入日志。
+  var page = window.location.origin + window.location.pathname;
   var ua = navigator.userAgent;
+  var requestId = Date.now().toString(36) + Math.random().toString(36).slice(2);
 
-  fetch(WORKER_URL + '?page=' + encodeURIComponent(page) + '&ua=' + encodeURIComponent(ua), {
+  fetch(WORKER_URL + '?page=' + encodeURIComponent(page) + '&ua=' + encodeURIComponent(ua) + '&request_id=' + requestId, {
     method: 'GET',
-    mode: 'no-cors'
-  }).catch(function(err) {
-    console.log('Visitor logging failed:', err);
+    mode: 'cors',
+    credentials: 'omit',
+    cache: 'no-store',
+    keepalive: true,
+    referrerPolicy: 'strict-origin-when-cross-origin'
+  }).then(function(response) {
+    if (!response.ok) throw new Error('HTTP ' + response.status);
+    return response.json();
+  }).then(function(result) {
+    if (!result || result.status !== 'ok') throw new Error('Worker did not acknowledge the visit');
+  }).catch(function() {
+    // 不输出服务端返回的 IP，也不将失败标记写入 sessionStorage。
+    console.warn('Visitor logging was not confirmed. Check the log.lezheng.org request in the Network panel.');
   });
 })();
 </script>
