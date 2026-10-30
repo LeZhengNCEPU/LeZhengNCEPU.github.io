@@ -24,10 +24,17 @@
 3. 在 `students.md` 对应分届下添加真实简介，格式如下。资料暂缺时只写已知事实；不要杜撰研究方向或荣誉。
 
    ```html
-   <span id="这里填写表单显示的ID" class="student-anchor" tabindex="-1"></span>
+   <section id="这里填写表单显示的ID" class="student-profile" tabindex="-1" aria-label="姓名的个人简介" markdown="1">
+
+   > **姓名**：学位和入学信息
+   <img src="/images/alumni/实际照片文件名.jpg" width="120" height="120">
+
+   - 已核实的研究方向或其他介绍
+
+   </section>
    ```
 
-   锚点后空一行，再按照现有格式写 `> **姓名**：…` 和个人照片。完成后在编辑器勾选“已在对应栏目添加个人简介及上述锚点”。未勾选时头像仍显示，提示“简介待补充”，不生成断链。
+   姓名、照片和全部文字介绍都放在同一个 `section` 内；与开头和结尾标签之间保留空行，以便 Jekyll 正确渲染 Markdown。头像跳转会聚焦这个完整区域，绿色框覆盖全部介绍。旧别名锚点保留在该区域顶部。完成后在编辑器勾选“已在对应栏目添加个人简介及上述锚点”。未勾选时头像仍显示，提示“简介待补充”，不生成断链。
 4. **毕业更新**：编辑原记录，改为“已毕业”，填写毕业年份。原 ID、头像和取景保留。状态变化会取消“简介已就绪”；把对应简介移至 `alumni.md` 正确分届，保留全部真实内容、稳定 ID 和旧别名，再勾选就绪。编辑器不会自动移动 Markdown。
 5. 如果旧 Students 地址已被引用，在原位置保留兼容入口，例如：
 
@@ -54,7 +61,7 @@
 
 ## 布局与构建说明
 
-Students / Alumni 的 `wide_content: true` 启用正常 CSS Grid：桌面 184px 侧栏、40px 间隔，正文占剩余空间，整体最大 1440px；小屏单列。地图与 article 同宽，始终为 16:9。长简介另有可读行宽约束。
+所有使用 `page` 布局的页面采用正常 CSS Grid：桌面 184px 侧栏、40px 间隔，正文占剩余空间，常规页面整体最大 1280px；小屏单列。Students / Alumni 的 `wide_content: true` 将整体上限扩大到 1440px。地图与 article 同宽，始终为 16:9。长简介另有可读行宽约束。修改共享布局时需同时核对 About、News、Teaching、Publications、Awards、Activities 及新闻详情页面。
 
 `main.less` 最后引入 `student-pages.less`。当前网站直接加载已经存在人工调整的 `assets/css/main.css`，因此 Node 构建只同步明确标记的新增样式区块，保留其他旧 CSS。不要为了本次改动直接重新编译并覆盖整份旧 CSS。
 

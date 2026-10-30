@@ -1,39 +1,40 @@
-/* Wide content is an opt-in page layout, not an overflowing map overlay.
+/* Shared page layout and complete student biography highlights.
    Also copied verbatim to main.css by tools/student-map/build.cjs. */
-.page-wide #main {
+.page-wide { --page-layout-width: 1440px; }
+.page #main {
   display: grid;
   grid-template-columns: minmax(0, 1fr);
   gap: 32px;
   box-sizing: border-box;
   width: calc(100% - 32px);
-  max-width: 1440px;
+  max-width: var(--page-layout-width, 1280px);
   margin: 1em auto 0;
 }
-.page-wide #main::before, .page-wide #main::after { display: none; }
-.page-wide .navigation-wrapper {
+.page #main::before, .page #main::after { display: none; }
+.page .navigation-wrapper {
   box-sizing: border-box;
   display: grid;
   grid-template-columns: minmax(0, 1fr);
   gap: 16px;
   width: calc(100% - 32px);
-  max-width: 1440px;
+  max-width: var(--page-layout-width, 1280px);
   padding: 2em 0;
 }
-.page-wide .site-name, .page-wide .top-navigation {
+.page .site-name, .page .top-navigation {
   display: block;
   float: none;
   width: auto;
   margin: 0;
 }
-.page-wide #main > article {
+.page #main > article {
   display: block;
   float: none;
   min-width: 0;
   width: 100%;
   margin: 0 0 2em;
 }
-.page-wide .article-wrap { width: 100%; min-width: 0; }
-.page-wide #main > .article-author-top {
+.page .article-wrap { width: 100%; min-width: 0; overflow-wrap: break-word; }
+.page #main > .article-author-top {
   display: none;
   float: none;
   width: auto;
@@ -51,17 +52,25 @@
 .student-biographies { max-width: 52rem; }
 .student-anchor { display: block; scroll-margin-top: 24px; }
 .student-anchor:focus { outline: none; }
-.student-biographies p:focus-within + blockquote { outline: 2px solid #507a60; outline-offset: 6px; }
+.student-profile {
+  display: flow-root;
+  box-sizing: border-box;
+  border: 2px solid transparent;
+  padding: 12px;
+  margin-bottom: 1.5rem;
+  scroll-margin-top: 24px;
+}
+.student-profile:focus, .student-profile:focus-within, .student-profile:target {
+  border-color: #507a60;
+  outline: none;
+}
+.student-profile > :last-child { margin-bottom: 0; }
 @media (min-width: 64em) {
-  .page-wide #main, .page-wide .navigation-wrapper {
+  .page #main, .page .navigation-wrapper {
     width: calc(100% - 64px);
     grid-template-columns: 184px minmax(0, 1fr);
     gap: 40px;
   }
-  .page-wide #main > .article-author-top { display: block; }
+  .page #main > .article-author-top { display: block; }
 }
-/* The original mobile article plus its two margins exceeded 100%. */
-@media (max-width: 37.499em) {
-  body.page:not(.page-wide) #main > article { width: 83.33333333333333%; }
-  article video { max-width: 100%; height: auto; }
-}
+.page article video { max-width: 100%; height: auto; }

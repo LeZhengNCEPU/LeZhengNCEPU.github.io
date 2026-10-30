@@ -59,6 +59,9 @@ check('enabled biographies match the master roster and legacy links remain',()=>
   for(const s of master.students.filter(p=>p.bioReady)){
     const body=s.status==='current'?students:alumni,pos=body.indexOf('id="'+s.id+'"');
     assert(pos>=0,'Missing biography '+s.id);assert.equal(body.slice(pos).match(/> \*\*([^*]+)\*\*/)?.[1],s.name);
+    const section=body.match(new RegExp('<section id="'+s.id+'"[^>]*class="student-profile"[^>]*>([\\s\\S]*?)</section>'));
+    assert(section&&!section[1].includes('<section'),'Biography must be a complete, separate focusable section: '+s.id);
+    assert.equal(section[1].match(/> \*\*([^*]+)\*\*/)?.[1],s.name);
   }
   assert.equal(new Set(master.students.map(s=>s.id)).size,master.students.length);
 });
