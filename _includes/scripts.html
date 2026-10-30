@@ -21,6 +21,16 @@
   if (hostname !== 'lezheng.org' && hostname !== 'www.lezheng.org') return;
   if (typeof fetch !== 'function' || window.__lezhengVisitRequested) return;
 
+  // 由统计后台设置的本浏览器排除标记；不依赖 IP，VPN 换出口后仍有效。
+  try {
+    if (/(?:^|;\s*)lezheng_analytics_opt_out=1(?:;|$)/.test(document.cookie || '')) {
+      console.info('Visitor logging excluded for this browser.');
+      return;
+    }
+  } catch (error) {
+    // Cookie 被禁用时不影响普通访客的采集或页面功能。
+  }
+
   // 仅防止当前文档重复加载脚本；翻页、刷新后仍会记录，不依赖浏览器存储。
   window.__lezhengVisitRequested = true;
 
