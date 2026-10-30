@@ -59,15 +59,7 @@ title: Students
 
 
 </section>
-<section id="student-013" class="student-profile" tabindex="-1" aria-label="徐辉的个人简介" markdown="1">
 
-> **徐辉**：硕士研究生（2024年至今）
-<img src="/images/alumni/xuhui.jpg" width="120" height="120">
-
-- 研究方向：新型电力系统稳定性分析
-
-
-</section>
 
 <section id="student-015" class="student-profile" tabindex="-1" aria-label="张龙飞的个人简介" markdown="1">
 
@@ -123,6 +115,16 @@ title: Students
 <br>
 
 #### 2026级
+
+<section id="student-013" class="student-profile" tabindex="-1" aria-label="徐辉的个人简介" markdown="1">
+
+> **徐辉**：博士研究生（2024年入学，2026年转博至今）
+<img src="/images/alumni/xuhui.jpg" width="120" height="120">
+
+- 研究方向：新型电力系统稳定性分析
+
+
+</section>
 
 <section id="student-022" class="student-profile" tabindex="-1" aria-label="程钲浩的个人简介" markdown="1">
 
