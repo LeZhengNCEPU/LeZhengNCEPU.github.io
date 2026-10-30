@@ -93,7 +93,7 @@ title: Students
 > **鞠雨希**：硕士研究生（2026年至今）
 <img src="/images/alumni/juyuxi.jpg" width="120" height="120">
 
-- 研究方向：人工智能在电力系统安全调度中的应用
+- 研究方向：人工智能在新能源电力系统分析中的应用
 
 > **李宏基**：硕士研究生（2026年至今）
 <img src="/images/alumni/lihongji.jpg" width="120" height="120">
@@ -103,12 +103,24 @@ title: Students
 > **刘书豪**：硕士研究生（2026年至今）
 <img src="/images/alumni/liushuhao.jpg" width="120" height="120">
 
-- 研究方向：人工智能在电力系统安全调度中的应用
+- 研究方向：人工智能在新能源电力系统分析中的应用
 
 > **邵若楠**：硕士研究生（2026年至今）
 <img src="/images/alumni/shaoruonan.jpg" width="120" height="120">
 
 - 研究方向：新型电力系统稳定性分析
+
+> **孙苑毓**：硕士研究生（2026年至今）
+<img src="/images/alumni/sunyuanyu1.jpg" width="120" height="120">
+
+- 研究方向：人工智能在新能源电力系统分析中的应用
+
+<br>
+
+#### 2027级
+
+> **王泯瑾**：博士研究生（2027年至今）
+<img src="/images/alumni/wangminjin1.jpg" width="120" height="120">
 
 <br>
 
