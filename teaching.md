@@ -16,7 +16,7 @@ title: Teaching
 <br>本课程是电气工程及其自动化专业的必修课、智能电网信息工程专业的专业选修课，是一门理论性、专业性很强的课程。通过本课程的学习，学生应该理解同步发电机突然三相短路的物理过程，掌握同步发电机的数学模型、参数以及短路电流计算方法；理解并掌握包括同步发电机组在内的电力系统各元件机电特性；理解并掌握电力系统静态稳定性和暂态稳定性的基本原理概念、分析方法以及提高稳定性的措施。通过对复杂电力系统建模和稳定仿真、分析，给出解决方案，掌握电力系统暂态分析的方法论，熟悉电力系统暂态分析的基本工具，为进一步学习本专业其他专业课程打下基础。
 <br>
 <div class="second">
-<img src="/images/df2.jpg">
+<img src="/images/df2.jpg" width="650" height="371">
 </div>
 
 - **本科生专业核心课：自动控制理论B**
@@ -26,8 +26,8 @@ title: Teaching
 <br>本课程是电力系统及其自动化等相关二级学科研究生的专业课程。本课程对新型电力系统的理论、分析方法及其最新进展作了系统、全面、深入的阐述和介绍，旨在反映当前国内外电力系统动态分析领域的最新发展和科学技术的水平，将以现代科学的新理论、新方法在新型电力系统中的应用为主要内容，特别对在我国电力系统中已获得应用的最新成果进行重点介绍。同时，课程内容会着重考虑理论与实践相结合，突出电力系统面临的实际问题，特别是新型电力系统中广泛存在的振荡和大停电风险，以及这些稳定问题的分析方法和解决方案。
 <br>
 <div class="second">
-<img src="/images/oscillation.gif" width="252" height="152">
-<img src="/images/outage.gif" width="270" height="152">
+<img src="/images/oscillation.gif" width="650" height="371">
+<img src="/images/outage.gif" width="650" height="371">
 </div>
 
 
@@ -37,6 +37,7 @@ title: Teaching
 - 指导的研究生获**国家奖学金**、**优秀研究生**、**一等奖学金**等荣誉<br>
 
 <div class="second">
-<img src="/images/speech1.JPG">
-<img src="/images/books.png">
+<img src="/images/speech1.JPG" width="650" height="371">
+<br>
+<img src="/images/books.png" width="650" height="371">
 </div>

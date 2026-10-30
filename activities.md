@@ -10,10 +10,13 @@ title: Activities
 <img src="/images/alumni/team2.JPG" width="650" height="373" alt="课题组合影">
 </div>
 
+<br>
+
 <div class="second">
 <img src="/images/alumni/team1.jpg" width="650" height="371" alt="课题组合影">
 </div>
 
+<br>
 
 ### 2026实验室团建：山东青岛
 
