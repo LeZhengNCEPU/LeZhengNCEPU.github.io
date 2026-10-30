@@ -1,0 +1,17 @@
+地图底图来源与授权
+
+作品：China administrative offical.svg（源文件名称如此拼写）
+作者：Maitian MaiLin
+版本：2024-09-21
+页面：https://commons.wikimedia.org/wiki/File:China_administrative_offical.svg
+原始文件：https://upload.wikimedia.org/wikipedia/commons/c/c7/China_administrative_offical.svg
+授权：CC0 1.0 Universal Public Domain Dedication
+授权正文：https://creativecommons.org/publicdomain/zero/1.0/
+原作依据：Sameboat 的公有领域作品 China administrative PRC.svg
+原作页面：https://commons.wikimedia.org/wiki/File:China_administrative_PRC.svg
+获取日期：2026-10-29
+
+处理说明
+本模板从原始 SVG 提取各省级区域路径、岛屿符号及海上界线，使用同一比例缩放主图，另以同一比例缩放南海诸岛附图。各省路径转换为可独立编辑的矢量形状；英文地名和城市符号由中文省名替代。学生示例与统计信息是单独的数据层。
+
+本图为学生分布示意图，未以自然资源部门发布的标准地图名义提供，也未标注或借用其他图件的审图号。

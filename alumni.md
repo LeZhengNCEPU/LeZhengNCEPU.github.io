@@ -1,19 +1,15 @@
 ---
 layout: page
+wide_content: true
 permalink: /alumni/index.html
-title: Students and Alumni
+title: Alumni
 ---
 
-<div class="second">
-<img src="/images/alumni/team1.jpg" width="650" height="371">
+<div class="student-map">
+  <iframe src="{{ "/assets/maps/alumni-map.html" | relative_url }}" title="毕业学生生源地分布地图" width="1920" height="1080" loading="eager"></iframe>
 </div>
 
-<iframe
-  src="/assets/maps/alumni-map.html"
-  title="学生生源地分布"
-  style="display:block; width:100%; aspect-ratio:16/9; border:0;"
-  loading="lazy">
-</iframe>
+<div class="student-biographies" markdown="1">
 
 <br>
 
@@ -23,6 +19,8 @@ title: Students and Alumni
 ### 2026届
 
 <a id="zhengjiajie"></a>
+<span id="student-010" class="student-anchor" tabindex="-1"></span>
+
 > **郑佳杰**：硕士（2023-2026）
 <img src="/images/alumni/zhengjiajie2.jpg" width="120" height="120">
 
@@ -31,6 +29,8 @@ title: Students and Alumni
 - 现就职于**国网重庆电力市区供电公司**
 
 <a id="林家见"></a>
+<span id="student-011" class="student-anchor" tabindex="-1"></span>
+
 > **林家见**：硕士（2023-2026）
 <img src="/images/alumni/linjiajian2.jpg" width="120" height="120">
 
@@ -42,12 +42,16 @@ title: Students and Alumni
 
 ### 2025届
 
+<span id="student-008" class="student-anchor" tabindex="-1"></span>
+
 > **周小添**：硕士（2022-2025）
 <img src="/images/alumni/zhouxiaotian2.jpg" width="120" height="120">
 
 - 研究生期间获一等奖学金、优秀研究生等荣誉
 - 硕士论文：基于混合增强智能的新能源电力系统调度策略研究
 - 现就职于**国网北京电力检修公司**
+
+<span id="student-006" class="student-anchor" tabindex="-1"></span>
 
 > **刘思远**：硕士（2022-2025）
 <img src="/images/alumni/liusiyuan2.jpg" width="120" height="120">
@@ -56,12 +60,16 @@ title: Students and Alumni
 - 硕士论文：基于深度学习模型修复的电力系统暂态稳定评估
 - 现就职于**国网吉林电力长春供电公司**
 
+<span id="student-007" class="student-anchor" tabindex="-1"></span>
+
 > **葛一琳**：硕士（2022-2025）
 <img src="/images/alumni/geyilin2.jpg" width="120" height="120">
 
 - 研究生期间获一等奖学金、优秀研究生等荣誉
 - 硕士论文：面向新能源场站暂态过电压抑制的调相机优化配置与控制方法研究
 - 现就职于**国网上海电力公司**
+
+<span id="student-009" class="student-anchor" tabindex="-1"></span>
 
 > **易雨纯**：硕士（2022-2025）
 <img src="/images/alumni/yiyuchun2.png" width="120" height="120">
@@ -74,12 +82,16 @@ title: Students and Alumni
 
 ### 2024届
 
+<span id="student-004" class="student-anchor" tabindex="-1"></span>
+
 > **王正**：硕士（2021-2024）
 <img src="/images/alumni/wangzheng.JPG" width="120" height="120">
 
 - 研究生期间获一等奖学金、优秀研究生等荣誉
 - 硕士论文：基于风机可调能力预测的风场主动频率支撑策略研究
 - 现就职于**国网北京电力朝阳供电公司**
+
+<span id="student-005" class="student-anchor" tabindex="-1"></span>
 
 > **刘鑫**：硕士（2021-2024）
 <img src="/images/alumni/liuxin.JPG" width="120" height="120">
@@ -92,12 +104,16 @@ title: Students and Alumni
 
 ### 2023届
 
+<span id="student-003" class="student-anchor" tabindex="-1"></span>
+
 > **吴晶**：硕士（2020-2023）
 <img src="/images/alumni/wujing.jpg" width="120" height="120">
 
 - 研究生期间连续两年获二等奖学金
 - 硕士论文：HVDC送端扰动引发受端换相失败的机理分析
 - 现就职于**中国能建浙江省电力设计院**
+
+<span id="student-002" class="student-anchor" tabindex="-1"></span>
 
 > **程文帅**：硕士（2020-2023）
 <img src="/images/alumni/chengwenshuai.jpg" width="120" height="120">
@@ -113,3 +129,5 @@ title: Students and Alumni
 
 
 
+
+</div>

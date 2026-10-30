@@ -388,3 +388,73 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
 .mfp-fade.mfp-ready.mfp-bg{opacity:0.8;}
 .mfp-fade.mfp-removing.mfp-bg{opacity:0;}
 @media print{*{background:transparent !important;color:black !important;box-shadow:none !important;text-shadow:none !important;filter:none !important;-ms-filter:none !important;position:static !important;} @page {margin:0.5cm;}h2,h3{orphans:3;widows:3;page-break-after:avoid;} p{orphans:3;widows:3;} pre,blockquote{border:1px solid #333;page-break-inside:avoid;padding:1em;} abbr[title]:after{content:" (" attr(title) ")";} a,a:visited{text-decoration:underline;} a[href]:after{content:" (" attr(href) ")";} a[href^="javascript:"]:after,a[href^="#"]:after{content:"";} img{max-width:100% !important;page-break-inside:avoid;} thead{display:table-header-group;} tr{page-break-inside:avoid;}}@media only screen and (min-width:30em){.image-grid li{width:33.333333%;}}@media only screen and (min-width:37.5em){html{font-size:95%;} .site-name{display:inline;float:left;width:16.666666666666668%;margin-left:4.166666666666667%;margin-right:4.166666666666667%;} .top-navigation{display:inline;float:left;width:75%;margin-left:0%;margin-right:0%;} .image-wrap .headline-wrap,.image-wrap:after{left:25%;} .image-wrap .headline-wrap{margin-left:0;} #main article{display:inline;float:left;width:50%;margin-left:0%;margin-right:0%;} #index{display:inline;float:left;width:50%;margin-left:0%;margin-right:0%;} .footer-wrap footer{display:inline;float:left;width:50%;margin-left:25%;margin-right:25%;} .article-author-top{display:block;display:inline;float:left;width:16.666666666666668%;margin-left:4.166666666666667%;margin-right:4.166666666666667%;} .article-author-bottom{display:none;} .toc{display:block;display:inline;float:left;width:16.666666666666668%;margin-left:4.166666666666667%;margin-right:4.166666666666667%;position:fixed;top:120px;right:0;-webkit-box-shadow:0 0 5px rgba(0, 0, 0, 0.5);-moz-box-shadow:0 0 5px rgba(0, 0, 0, 0.5);box-shadow:0 0 5px rgba(0, 0, 0, 0.5);} .image-grid li{width:25%;} .related-articles{display:inline;float:left;width:50%;margin-left:25%;margin-right:25%;}}@media only screen and (min-width:48em){html{font-size:100%;} .image-grid li{width:20%;}}@media only screen and (min-width:62em){html{font-size:112.5%;} .image-grid li{width:16.666666666%;}}@media only screen and (min-width:86.375em){.site-name{display:inline;float:left;width:12.5%;margin-left:16.666666666666668%;} .top-navigation{display:inline;float:left;width:66.66666666666667%;} .image-wrap:after{left:33.333333333%;} .image-wrap .headline-wrap{margin-left:8.333333333333334%;} #main article{display:inline;float:left;width:37.5%;} #index{display:inline;float:left;width:37.5%;} .related-articles{display:inline;float:left;width:37.5%;margin-left:33.333333333333336%;margin-right:29.166666666666668%;} .footer-wrap footer{display:inline;float:left;width:37.5%;margin-left:33.333333333333336%;margin-right:29.166666666666668%;} .article-author-top{display:inline;float:left;width:12.5%;margin-left:16.666666666666668%;}}@media (-webkit-min-device-pixel-ratio:2),(min-resolution:192dpi){}
+
+/* BEGIN student-pages generated from assets/less/student-pages.less */
+/* Wide content is an opt-in page layout, not an overflowing map overlay.
+   Also copied verbatim to main.css by tools/student-map/build.cjs. */
+.page-wide #main {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 32px;
+  box-sizing: border-box;
+  width: calc(100% - 32px);
+  max-width: 1440px;
+  margin: 1em auto 0;
+}
+.page-wide #main::before, .page-wide #main::after { display: none; }
+.page-wide .navigation-wrapper {
+  box-sizing: border-box;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 16px;
+  width: calc(100% - 32px);
+  max-width: 1440px;
+  padding: 2em 0;
+}
+.page-wide .site-name, .page-wide .top-navigation {
+  display: block;
+  float: none;
+  width: auto;
+  margin: 0;
+}
+.page-wide #main > article {
+  display: block;
+  float: none;
+  min-width: 0;
+  width: 100%;
+  margin: 0 0 2em;
+}
+.page-wide .article-wrap { width: 100%; min-width: 0; }
+.page-wide #main > .article-author-top {
+  display: none;
+  float: none;
+  width: auto;
+  margin: 0;
+}
+.student-map { width: 100%; margin: 0 0 2rem; }
+.student-map iframe {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  border: 0;
+  background: #fff;
+}
+.student-biographies { max-width: 52rem; }
+.student-anchor { display: block; scroll-margin-top: 24px; }
+.student-anchor:focus { outline: none; }
+.student-biographies p:focus-within + blockquote { outline: 2px solid #507a60; outline-offset: 6px; }
+@media (min-width: 64em) {
+  .page-wide #main, .page-wide .navigation-wrapper {
+    width: calc(100% - 64px);
+    grid-template-columns: 184px minmax(0, 1fr);
+    gap: 40px;
+  }
+  .page-wide #main > .article-author-top { display: block; }
+}
+/* The original mobile article plus its two margins exceeded 100%. */
+@media (max-width: 37.499em) {
+  body.page:not(.page-wide) #main > article { width: 83.33333333333333%; }
+  article video { max-width: 100%; height: auto; }
+}
+/* END student-pages */

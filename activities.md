@@ -4,6 +4,17 @@ permalink: /activities/index.html
 title: Activities
 ---
 
+### 课题组合影
+
+<div class="second">
+<img src="/images/alumni/team2.JPG" width="650" height="373" alt="课题组合影">
+</div>
+
+<div class="second">
+<img src="/images/alumni/team1.jpg" width="650" height="371" alt="课题组合影">
+</div>
+
+
 ### 2026实验室团建：山东青岛
 
 - 出行前，同学们自己做好了详细的攻略
