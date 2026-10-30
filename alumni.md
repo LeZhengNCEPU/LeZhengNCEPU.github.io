@@ -8,6 +8,13 @@ title: Students and Alumni
 <img src="/images/alumni/team1.jpg" width="650" height="371">
 </div>
 
+<iframe
+  src="/assets/maps/alumni-map.html"
+  title="学生生源地分布"
+  style="display:block; width:100%; aspect-ratio:16/9; border:0;"
+  loading="lazy">
+</iframe>
+
 <br>
 
 ### 已毕业研究生
