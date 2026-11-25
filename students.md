@@ -16,7 +16,7 @@ title: Students
 ### 学生荣誉（一等到三等奖学金未列出）
 **北京市优秀毕业生**：[**郑佳杰**](/alumni/#zhengjiajie)（2026）
 <br>
-**华北电力大学优秀毕业生**：[**郑佳杰**](/alumni/#zhengjiajie)（硕士研究生，2026），ULLAH MD MAHIB（本科毕设，2026）
+**华北电力大学优秀毕业生**：[**郑佳杰**](/alumni/#zhengjiajie)（硕士，2026），ULLAH MD MAHIB（本科毕设，2026）
 <br>
 **华北电力大学优秀学位论文**：[**郑佳杰**](/alumni/#zhengjiajie)（2026）
 <br>
